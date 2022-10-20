@@ -1,1 +1,17 @@
-No minimum spend - 最低利用額の制限なし (example)
+Voucher quantity display - … and […] more - … と […] 枚
+Voucher expire date display label - Expires On - 有効期限
+In-Store voucher detail product voucher expand button - View All Vouchers - すべてのクーポンを表示
+Clear Filters button - Clear Filters - 絞り込み設定をクリア
+Voucher already used alert - You have already claimed and used this voucher. - このクーポンはすでに利用されました。
+Confirm payment caption - Please enter your PIN to confirm your payment for {{brand}}’s $[…] {{product}} voucher. - 暗証番号を入力して{{ブランド}}の{{商品}}に利用できる￥[…] 円のクーポンをお支払いください。
+Used purchased voucher alert - You have already purchased and used this voucher. - このクーポンはすでに利用されました。
+Loyalty program exclusive display label - […] Exclusive - […] 会員限定
+Additional terms alert - Please note! Additional terms may apply. Confirm with the staff member before use - ご注意！その他の条件が適用される場合もありますので、使用前にスタッフにご確認ください。
+Number of vouchers to redeem field caption - Key in the number of vouchers you wish to redeem. - 引換えたいクーポンの数をご入力ください
+Redeem voucher swipe or QR page caption - Show this QR code to the staff member or swipe the bar below to redeem this voucher. - このQRコードを係員にご提示いただくか、下記のボタンをスワイプしてクーポンをお引換ください。
+Swipe bar label - Swipe right to redeem - 右にスワイプして引換
+Redeem voucher pop-up header - Confirm Redemption - 引換確認
+Redeem voucher pop-up caption - Would you like to redeem […]x {{voucher name}} at {{store}}? - {{store店舗名}}で[…]x{{voucher name割引券名}}を引換えますか
+No, change store button - No, Change Store - 店舗を変更
+Yes, Redeem button - Yes, Redeem - 引換
+Voucher already claimed alert - You have already claimed and used this voucher. - このクーポンはすでに利用されました。
