@@ -1,0 +1,676 @@
+{
+  "menu": {
+    "home": "ホーム",
+    "top_up": "チャージ",
+    "scan": "スキャン",
+    "wallet": "財布",
+    "scan_shortcut": "スキャン",
+    "send": "送信",
+    "receive": "受け取る",
+    "self_pickup": "地図",
+    "self pick-up": "地図",
+    "news": "ニュース",
+    "benefits": "利点",
+    "loyalty": "忠誠心",
+    "vouchers": "バウチャー",
+    "profile": "アカウント",
+    "logout": "ログアウト",
+    "stores": "店舗",
+    "cuisines": "料理"
+  },
+  "home": {
+    "greetings": "良い一日、 ",
+    "shortcut_menu": {
+        "top_up": "チャージ",
+        "scan": "スキャン",
+        "send": "送信",
+        "receive": "受け取る"  
+    }
+  },
+  "landing": {
+    "welcome": "ようこそ",
+    "welcome_desc": "{{brandapp}}のウォレットをご利用いただき、ありがとうございます \n\n  いま登録すると、ドリンク50本が無料でもらえます！",
+    "carousel": {
+      "0": {
+        "title": "あなたの新しいお気に入りの財布、{{brandpay}}に会います",
+        "desc": "{{brandpay}} のウォレットで全国の自動販売機でお買い物をすると、ポイントを獲得できます。"
+      },
+      "1": {
+        "title": "支出ごとに {{brandpoint}} を獲得",
+        "desc": "広告を見て、ポイントやクーポン、ギフトカードがもらえます。"
+      },
+      "2": {
+        "title": "お腹がすいた？ 事前に食べ物を注文するときは行列をスキップ",
+        "desc": "{{brandpay}}経由で銀聯カードに申込むと、世界中の3000万店舗でご利用いただけます！"
+      }
+    }
+  },
+  "wallet_pin": {
+    "title": "{{brandpay}}ピンを設定します",
+    "desc": "{{brandpay}}ウォレットのピンを設定します。 このステップの後、ピンを確認する必要があります。",
+    "note": "このステップの後にもう一度ピンに入る必要があります。",
+    "title_confirm": "{{brandpay}}ピンを確認します",
+    "desc_confirm": "もう一度入力して、今すぐ設定したウォレットピンを確認してください。",
+    "alert_not_match": "あなたのピンは一致しません。 もう一度やり直すか、サポートにお問い合わせください。"
+  },
+  "signup": {
+    "enter_phone_number": "電話番号を入力します",
+    "verify": "登録されたメールアドレスに送信された1回限りのパスワードや、必要なその他の情報をキーインして、身元を確認してください。",
+    "invalid_otp": "無効なOTP。 OTP番号についてメールを確認してください。",
+    "reset": "古い電話番号を入力してください。 {{brandapp}}は、次の画面に入力する必要がある登録されたメールアドレスに1回限りのパスワードを送信します",
+    "reset_message": "提出した情報の少なくとも1つは間違っていました。 もう一度やり直すか、サポートにお問い合わせください。",
+    "message": "アカウントにサインアップするには、電話番号にキーを入れてください。 電話番号が正しいことを確認するために、1回限りのパスワードを送信します。","email_invalid": "This is not a valid email address",
+    "email_required": "メールアドレス必須！",
+    "name_required": "お名前必須！",
+    "min_2_character": "短すぎます。最小の長さは 2 です!",
+    "max_50_character" : "長すぎます。最大長は 50 です!",
+    "button": {
+      "next": "次",
+      "review": "情報を確認します",
+      "start": "始める",
+      "edit": "編集",
+      "create_account": "アカウントを作成する"
+    },
+    "label": {
+      "opt_out_marketing": "マーケティングをオプトアウトします",
+      "opt_in_to": "{{target}}にオプトインします",
+      "email_sms": "電子メールとSMSマーケティング",
+      "sms": "SMSマーケティング",
+      "email": "Eメール",
+      "set_wallet_pin": "ウォレットピンをセットします",
+      "login": "ログインする",
+      "continue": "継続する",
+      "maybe_later": "多分後で",
+      "new_phone_number": "新しい電話番号",
+      "old_phone_number": "古い電話番号",
+      "date_of_birth": "生年月日",
+      "otp": "ワンタイムパスワード",
+      "account_information": "口座情報"
+    },
+    "referral": {
+      "title": "照会",
+      "caption_1": "償還しましょう！",
+      "caption_2": "クーポンコードをお持ちですか？",
+      "label": "手動でコードを入力します",
+      "placeholder": "電話番号またはコードを入力します"
+    },
+    "wizzard": {
+      "0": {
+        "label": "{{brandapp}}のアカウントを作成し、ウォレットの使用を開始しましょう。",
+        "caption": "お名前を入力してください。",
+        "message": "次に、アカウントを作成するための情報を入力してください。すべての項目は必須です。"
+      },
+      "1": {
+        "title": "名前は何？",
+        "label": "{{brandapp}}を使用するには、ニックネームに登録できます。",
+        "caption": "あなたの名前は、支払いまたは譲渡資金を譲るときに、商人や他のユーザーに見えるでしょう。"
+      },
+      "2": {
+        "label": "あなたの電子メールアドレスを教えてください？",
+        "caption": "{{brandapp}} は、取引のアドバイスと領収書をあなたのメール アドレスに送信します。 電話番号を変更するには、確認済みのメール アドレスが必要です。"
+      },
+      "3": {
+        "label": "誕生日はいつ？",
+        "caption": "{{brandapp}}は、MASによって義務付けられているように誕生日を集めるために必要です。 {{brandapp}}を使用するには、少なくとも16歳でなければなりません"
+      },
+      "4": {
+        "label": "あなたの性別はなんですか？",
+        "caption": "{{brandapp}}は、MASによって義務付けられているように性別を収集するために必要です。"
+      },
+      "5": {
+        "label": "あなたの住所は何ですか？",
+        "caption": "{{brandapp}}は、MASによって義務付けられている住所を収集するために必要です。"
+      },
+      "6": {
+        "label": "情報を確認する",
+        "caption": "アカウントを作成する前に、アカウント情報が正しいことを確認してください。"
+      },
+      "7": {
+        "label": "{{brandapp}}に連絡してください",
+        "caption": "重要なお知らせとキャンペーン情報をお送りします。 はいを選択することをお勧めします。"
+      },
+      "8": {
+        "label": "{{brandapp}}がカメラにアクセスできるようにします",
+        "caption": "{{brandapp}} QRコードをスキャンするにはカメラが必要です。 商人を支払うためにアクセスを許可し、他のユーザーに送金します。"
+      },
+      "9": {
+        "label": "{{brandapp}}があなたの場所にアクセスできるようにします",
+        "caption": "あなたの場所を{{brandapp}}と共有して、お近くの商人を発見してください。 今、あなたは彼らが昼食の場所を決めることができないとき、あなたの友人の救い主になることができます。 後でありがとう。"
+      },
+      "10": {
+        "label": "{{brandpay}}ウォレットを保護するためにピンを設定します",
+        "caption": "6桁のピンで財布を安全に保ちますが、推測が難しいピンを選択してください！ プレイしないでください",
+        "message": "ピンを2回入力する必要があります。"
+      },
+      "11": {
+        "label": "準備完了！",
+        "caption_1": "準備万端です。 初めてウォレットにチャージして {{brandpoint}} を獲得しましょう!",
+        "caption_2": "準備万端です。 初めてウォレットにチャージして {{brandpoint}} を獲得しましょう!"
+      }
+    }
+  },
+  "login": {
+    "title_otp": "電話番号を確認します",
+    "title_otp_new": "新しい電話番号を確認します",
+    "verify_identity": "IDを確認します",
+    "message_otp": "電話番号に送信された1回限りのパスワードを入力してください。",
+    "message_otp_new": "電話番号に送信された1回限りのパスワードを入力してください。",
+    "alert": {
+      "not_registered": "あなたの電話番号は登録されていません。 {{brandapp}}を使用する前に最初に登録してください",
+      "exist": "あなたの電話番号は既に登録されています。",
+      "invalid_otp": "1回限りのパスワードが正しくありません。 新しい1回限りのパスワードを確認するか、ヘルプのサポートに連絡してください。",
+      "success_change": "電話番号を正常に変更しました。 新しい電話番号を使用してログインできます。"
+    }
+  },
+  "self_pickup": {
+    "title": "地図",
+    "short_title": "選び出す",
+    "at": "で",
+    "label": {
+      "promotions": "プロモーション",
+      "nearest": "あなたに最も近い",
+      "fastest": "最速のピックアップ",
+      "most": "最も人気のある",
+      "stores": "すべての店"
+    }
+  },
+  "search": {
+    "title": "探す",
+    "recent": "最近の検索",
+    "no_recent": "最近の検索はありません",
+    "popular": "人気のある検索",
+    "popular_location": "人気のある場所"
+  },
+  "profile": {
+    "title": "プロフィール",
+    "version_text": "{{brandapp}}バージョン{{version}}を使用しています",
+    "edit": "プロファイル編集",
+    "message_require_pin": "プロフィールを編集するには、ピンを入力してください。",
+    "label": {
+      "birthday": "誕生日",
+      "gender": "性別",
+      "male": "男",
+      "female": "女性",
+      "save": "プロファイルを保存"
+    },
+    "menu": {
+      "marketing_preference": "マーケティングサブスクリプションの好み",
+      "marketing_subs": "マーケティングサブスクリプション",
+      "transaction_history": "取引履歴",
+      "my_orders": "私の注文",
+      "about_us": "私たちに関しては",
+      "contact_support": "サポート問い合わせ先",
+      "tnc": "規約と条件",
+      "policy": "プライバシーとポリシー",
+      "faq": "よくある質問",
+      "language": "言語"
+    },
+    "form": {
+      "name": "名前",
+      "email_addr": "電子メールアドレス",
+      "email": "Eメール",
+      "postal_code": "郵便番号",
+      "address": "住所",
+      "unit": "ユニット番号",
+      "unit_text": "ユニット番号（該当する場合）",
+      "birthdate": "生年月日",
+      "birthdate_format": "dd/mm/yyyy",
+      "birthdate_note": "例：1991年21/02",
+      "gender": "性別"
+    }
+  },
+  "marketing_subs": {
+    "title": "マーケティングサブスクリプション",
+    "desc": "{{brandapp}}からオファー、取引、更新を受け取るために、お好みの方法を選択します。",
+    "edit": "マーケティングサブスクリプションの編集",
+    "message_require_pin": "マーケティングサブスクリプションを編集するには、ピンを入力してください"
+  },
+  "language": {
+    "title": "言語",
+    "change": "言語を変更",
+    "desc": "このアプリを使用するために、お好みの言語を選択してください",
+    "list": {"en": "英語", "jp": "日本"}
+  },
+  "brandpay_pin": {
+    "alert": {
+      "success_reset_to_email": "新しいピンがあなたのメールに送られました。 プロセスを継続できるように電子メールを確認してください。"
+    },
+    "wizzard": {
+      "0": {
+        "title": "IDを確認します",
+        "desc": "あなたの身元を確認するために、現在の{{brandpay}}ピンを入力してください。",
+        "btn": "IDを確認します"
+      },
+      "1": {
+        "title": "新しい{{brandpay}}ピンを設定します",
+        "desc": "{{brandpay}}ウォレットの新しいピンを設定します。 このステップの後、ピンを確認する必要があります。",
+        "btn": "ピンを設定します"
+      },
+      "2": {
+        "title": "{{brandpay}}ピンを確認します",
+        "desc": "もう一度入力して、今すぐ設定した{{brandpay}}ピンを確認してください。",
+        "btn": "ピンを確認します"
+      }
+    }
+  },
+  "top_up": {
+    "title": "チャージ",
+    "title_payment": "支払いを補充します",
+    "title_success": "成功を補充します",
+    "title_fail": "障害を補充します",
+    "min_topup": "少なくとも{{minimum}}を補充する必要があります。",
+    "max_topup": "今日は{{limit}}をさらに補充できます。",
+    "alert_max_topup": "あなたはあなたの毎日のトップアップ制限に到達しました。 明日もう一度やり直してください。",
+    "alert_min_topup": "JPY ¥ 1,000 以上チャージする必要があります",
+    "input_label": "補充したい金額のキー",
+    "success": {"title": "あなたは補充しました", "via": "{{method}}経由"},
+    "available_balance": "利用可能残高",
+    "failure": {
+      "title": "あなたのトップアップは失敗しました",
+      "message": "もう一度やり直すか、サポートにお問い合わせください。",
+      "retry": "リトライ",
+      "support": "サポート"
+    }
+  },
+  "scan": {
+    "title": "スキャン",
+    "myqr": "私のコード",
+    "receive": "資金を受け取るには、送信者にQRコードをスキャンさせてください。",
+    "allowed_scan_label": "カメラをQRコードに向けて、フレーム内でスキャンするために保持します。",
+    "unallowed_scan_label": "QR コードをスキャンするには、[設定] > [プライバシー] > [カメラ] で、MediaBank がカメラにアクセスできるようにします。",
+    "show_to_cashier": "このQRコードをキャッシャーまたは送信者に表示してください。",
+    "no_camera_access": "カメラへのアクセスなし"
+  },
+  "send": {
+    "title": "送信",
+    "success": "成功を送ります",
+    "failure": "失敗を送信します",
+    "label": "送信する金額のキー：",
+    "max_send": "今日は{{limit}}に送信できます",
+    "select_receipent": "受信者を選択します",
+    "unknown_receipent_name": "不明な名前",
+    "receipent": "受信者",
+    "topup_brandpay": "充電{{brand}}",
+    "note": "ノート",
+    "note_placeholder": "受信者へのメッセージを入力してください",
+    "enter_pin": "送信するためにピンを入力します",
+    "alert_max_send": "入力した金額は、毎日の転送制限を超えています。 {{limit}}以下を送信するか、明日再試行してください。",
+    "alert_less_balance": "{{brandpay}}ウォレットに十分なお金がありません。 支払いを続行するためにトップアップします。",
+    "alert_receipent_not_found": "顧客は{{brandapp}}アカウントに関連付けられていません。 {{brandpay}}を使用して所有者にお金を送ることはできません。",
+    "failed_send": "あなたはなんとか送ることができませんでした",
+    "confirm": "送信を確認してください"
+  },
+  "promotions": {"title": "プロモーション"},
+  "highlights": {
+    "title": "ハイライト",
+    "NEWS": "ニュース",
+    "PROMOTION": "昇進",
+    "OFFERING": "募集"
+  },
+  "transactions": {
+    "trx_id": "トランザクションID：",
+    "recent": "最近のトランザクション",
+    "title_detail": "トランザクションの詳細",
+    "confirm_payment": "支払いを確認します",
+    "confirm_send": "送信確認",
+    "renew_membership": "メンバーシップを更新する",
+    "cancel_membership": "メンバーシップをキャンセルします",
+    "cancel_renewal": "更新を確認します",
+    "pay_fee": "料金を支払う",
+    "join": "加入"
+  },
+  "order": {
+    "history": "注文履歴",
+    "active": "アクティブ",
+    "inactive": "非活性",
+    "closed": "閉まっている",
+    "status": {
+      "rejected": "拒否",
+      "waiting": {"text": "待っている", "desc": "店が受け入れるために"},
+      "pickup": "で拾います",
+      "ready": {"text": "準備", "desc": "のように"}
+    }
+  },
+  "store": {
+    "near": "お近くの店",
+    "nearest": "あなたに最も近い",
+    "fastest": "最速のピックアップ",
+    "most": "最も人気のある",
+    "favourite": "好きな店",
+    "closed": "閉店します",
+    "closed_message": "この店舗は現在休業中です。 アイテムを閲覧することはできますが、カートにアイテムを追加することはできません。",
+    "operating_hours": "営業時間"
+  },
+  "voucher": {
+    "label": {
+      "voucher_detail": "バウチャーの詳細",
+      "redeem_voucher": "バウチャーを引き換える",
+      "ready_use": "バウチャーを使用する準備はできましたか?",
+      "ready_redeem": "クーポンを利用する準備はできましたか?",
+      "are_u_ready_use": "インストア バウチャーを使用する準備はできていますか? 先に進む前に、店舗のスタッフと一緒にいる必要があります。",
+      "are_u_ready_redeem": "インストア バウチャーを引き換える準備はできていますか? 先に進む前に、店舗のスタッフと一緒にいる必要があります。",
+      "no_not_ready": "いいえ、準備ができていません",
+      "yes_proceed": "はい、続行します",
+      "purchased_voucher": "購入しました",
+      "usable_voucher": "使用可能なバウチャー",
+      "my_voucher": "私のバウチャー",
+      "voucher_marketplace": "バウチャーマーケットプレイス",
+      "search": "バウチャー名で検索します",
+      "available": "利用可能",
+      "used": "使用済み",
+      "expired": "期限切れ",
+      "brands": "ブランド",
+      "no_voucher":"現在、バウチャーはありません",
+      "no_voucher_desc": "バウチャー マーケットプレイスで特別な取引を探してみませんか?",
+      "no_used_voucher":"バウチャーを使用していません",
+      "no_used_voucher_desc": "お持ちのバウチャーの使用を開始するか、バウチャー マーケットプレイスで他のバウチャーを参照してください",
+      "no_expired_voucher": "期限切れのバウチャーはありません",
+      "no_expired_voucher_desc": "わーい！ 有効期限が切れる前にバウチャーを使用するか、バウチャー マーケットプレイスで詳細を参照してください。",
+      "no_voucher_marketplace": "現在、利用可能なバウチャーはまだありません",
+      "no_voucher_marketplace_desc": "バウチャーマーケットプレイスでの特別取引のために後でまた戻ってきてください",
+      "featured": "特徴",
+      "claimed": "主張した",
+      "member_price": "{{title}} 会員価格",
+      "claim": "請求",
+      "purchased": "購入した",
+      "sold": "{{issued}}/{{max}} 販売",
+      "deadline": "{{date}}まで販売中",
+      "no_min_spend": "分はありません。 費やす",
+      "min_spend": "分 {{price}}を使う",
+      "disc_amount_off": "{{percent}} off",
+      "free_product": "無料{{product}}",
+      "bundling": "バンドリング",
+      "exclusive": "エクスクルーシブ",
+      "details": "詳細",
+      "t&c": "取引条件",
+      "store_usable": "使用可能な保存",
+      "usual_price": "通常価格",
+      "price": "価格",
+      "on_sale_till": "セール中",
+      "available_till": "利用可能まで",
+      "expires": "期限切れ",
+      "qty_limit": "数量限定」",
+      "time_from_purchase": "購入から {{time}}",
+      "per_customer": "{{total}} 顧客あたり",
+      "description": "説明",
+      "how_to_use": "使い方",
+      "day": "日",
+      "month": "月",
+      "year": "年",
+      "days": "日",
+      "months": "月",
+      "years": "年",
+      "exclusive_note": "このバウチャーは {{brand}} のメンバー限定です。 ロイヤルティ プログラムに参加して、このセールなどをアンロックしましょう!",
+      "already_purchased": "顧客ごとに利用可能な最大量をすでに購入しています。 ご関心をお寄せいただきありがとうございます。",
+      "already_have": "このバウチャーは既に在庫に入っています。 お気軽に追加購入してください。",
+      "sold_out": "申し訳ありませんが、このクーポンは売り切れました。",
+      "sold_out_have": "申し訳ありませんが、このクーポンは売り切れました。 このバウチャーは在庫にありますが、それ以上購入することはできません。",
+      "join": "{{brand}}に参加",
+      "other_vouchers": "その他の {{brand}} バウチャー",
+      "payable": "総支払額"
+    },
+    "button": {
+      "browse": "バウチャーマーカーを閲覧します",
+      "view": "バウチャーを表示します",
+      "view_all": "すべての{{brand}}バウチャーを表示します",
+      "view_less": "{{brand}}バウチャーを少なく表示します",
+      "purchase": "バウチャーを購入します",
+      "use": "バウチャーを使用します",
+      "claim": "クレームバウチャー",
+      "sold_out": "完売",
+      "back_to_voucher": "バウチャーに戻る",
+      "browse_for_more": "もっと見る"
+    },
+    "note": {
+      "claimed": "バウチャーを正常に請求しました。",
+      "out_of_range": "このバウチャーを購入するには、最大額に達します。",
+      "t&c": "利用規約"
+    }
+  },
+  "loyalty": {
+    "join": "以下のロイヤルティプログラムに参加して、今日からお金の節約を開始してください。",
+    "can_join": "参加できるプログラム（{{total}}）",
+    "have_join": "あなたが参加したプログラム（{{total}}）",
+    "joining_fee": "入会金",
+    "membership_fee": "会費",
+    "joined_on": "参加しました",
+    "next_payment": "次回のお支払い",
+    "payment_method": "支払方法",
+    "perks": "メンバーシップ特典",
+    "join_brand": "参加{{brand}}",
+    "referral": "照会",
+    "referral_text": "誰かが{{brandname}}に参加するように招待しましたか？ 電話番号を入力すると、両方ともxxxxxを受け取ります！",
+    "referral_code": "紹介コード",
+    "submit_referral": "紹介コードを送信します",
+    "skip": "スキップ",
+    "placeholder_referral": "電話番号またはコードを入力します",
+    "status": "会員ステータス",
+    "otj_fee": "入会金1回分",
+    "renew_desc": "{{loyalty_name}} でメンバーシップを更新しようとしています。 確認後、以下で選択した同じ支払い方法を使用して {{renewal_fee}} が請求されます。",
+    "join_desc": "{{loyalty_name}} に参加しようとしています。 メンバーとして。 確認後、以下で選択したのと同じ支払い方法を使用して {{renewal_fee}} が請求されます。 {{date}}から開始\n\n月会費に十分なウォレット残高または MB ポイントがあることを確認してください。",
+    "cancel_desc": "あなたのメンバーシップは {{date}} まで支払われています。 キャンセル後、{{date}} まで特典を利用できます。\n\n{{loyalty_name}} に再び参加するには、入会金 {{fee}} を支払う必要があります。\n\nよろしいですか メンバーシップをキャンセルしますか?",
+    "for_loyalty": "ロイヤリティプログラム入会金",
+    "you_have_saved": "わーい！ 保存しました",
+    "renew_before_expires": "有効期限が切れる前にメンバーシップを更新する",
+    "fail_balance": "会費を差し引くことができませんでした。 十分なウォレット残高または MB ポイントがあることを確認してください",
+    "yes_cancel": "はい、キャンセルします",
+    "stay_as_member": "会員として滞在",
+    "success_cancel": "成功キャンセル忠誠",
+    "congrats": "おめでとう！",
+    "congrats_desc_member": "あなたは今、のメンバーです",
+    "congrats_desc_member_2": "このロイヤルティ プログラムは {{at}} で更新されます",
+    "starting_from": "{{from}}から開始",
+    "congrats_renew": "メンバーシップを更新しました",
+    "congrats_renew2": "{{charge}}請求されます"
+  },
+  "payment": {
+    "payment_pending": "保留中の支払い",
+    "payment_success": "支払いの成功",
+    "payment_rejected": "支払いは拒否されました",
+    "waiting_store_to_accept": "マーチャントが受け入れるのを待っています",
+    "to_earn": "稼ぐ",
+    "payment_requested": "支払いが要求されました",
+    "key_discount": "それ以上の割引には無効な金額です",
+    "key_amount": "請求金額",
+    "key_requested": "要求された金額：",
+    "pay_with": "{{method}}で支払う",
+    "select_voucher": "バウチャーを選択します",
+    "subtotal": "小計",
+    "payable": "{{method}}支払可能",
+    "insufient": "全額を支払うには {{brandpoint}} が不足しています。 {{brandpay}}でお支払いください。",
+    "topup_wallet": "補充する",
+    "report_trx": "レポートトランザクション",
+    "unused_value": "未使用の値は返されません",
+    "back_to_cart": "カートに戻ります"
+  },
+  "pin": {
+    "join_fee": "{{name}} の参加費の支払いを確認するには、ピン を入力してください",
+    "cancel_membership": "{{name}}でメンバーシップをキャンセルするには、ピンを入力してください",
+    "renew_membership": "{{name}}でメンバーシップを更新するには、ピンを入力してください",
+    "confirm_payment_for": "{{brandName}}の{{voucherName}}バウチャーの支払いを確認するには、ピンを入力してください。",
+    "confirm_sending": "送信を確認するには、ピンを入力してください",
+    "approve_payment": "支払いを承認するには、ピンを入力してください"
+  },
+  "days": {
+    "sunday": "日曜日",
+    "monday": "月曜日",
+    "tuesday": "火曜日",
+    "wednesday": "水曜日",
+    "thursday": "木曜日",
+    "friday": "金曜日",
+    "saturday": "土曜日"
+  },
+  "validations": {
+    "invalid": "{{target}} は無効です",
+    "password_format": "フォーマットが無効です! 少なくとも 1 つの大文字、1 つの数字、スペースなし",
+    "url_format": "フォーマットが無効です! http:// または https:// を追加してください",
+    "image_format": "画像形式が正しくありません。",
+    "maximum_file_x": "最大画像サイズを超えています。 画像サイズが {{x}}MB 以下であることを確認してください",
+    "percent_format": "パーセンテージが間違っている",
+    "phone_format": "電話番号の形式が正しくありません。",
+    "format_amount": "間違った形式の金額",
+    "required": "{{target}} は必須フィールドです",
+    "must_x_character": "{{target}} は {{x}} 文字でなければなりません",
+    "min_x_character": "{{target}} は少なくとも {{x}} 文字でなければなりません",
+    "max_x_character": "{{target}} は最大 {{x}} 文字でなければなりません",
+    "password_confirm": "両方のパスワードは同じである必要があります",
+    "must_number":"必須番号",
+    "either":"{{target}} は {{num1}} または {{num2}} 桁です。"
+  },
+  "app": {
+    "exit": "もう一度タップしてアプリを終了します",
+    "no_data": "何もデータが見つかりませんでした",
+    "no_data_available": "データなし",
+    "view_all": "すべてを表示します",
+    "format_date_long": "DD MMM YYYY, HH:mm",
+    "format_date_normal": "DD MMM YYYY, LT",
+    "format_date_short": "DD/MM/YYYY",
+    "format_date_lt": "LT",
+    "format_time": "HH:mm",
+    "other": "他の",
+    "update_now": "今すぐアップデート！",
+    "updating": "更新中...",
+    "installing": "インストール中...",
+    "camera_permission": {
+      "title": "カメラへのアクセスなし",
+      "message": "QR コードをスキャンするには、{{brandapp}} にカメラへのアクセスを許可してください。"
+    },
+    "gps_permission": {
+      "title": "GPS アクセスなし",
+      "message": "{{brandapp}} に現在地へのアクセスを許可する"
+    },
+    "turn_flash": {
+      "message": "フラッシュ{{status_target}}ターン",
+      "on": "の上",
+      "off": "オフ"
+    },
+    "button": {
+      "pay": "支払い",
+      "reject": "拒絶",
+      "next": "次",
+      "ok": "わかった",
+      "cancel": "キャンセル",
+      "dismiss": "解散",
+      "login": "ログインする",
+      "signup": "新規登録", 
+      "changed_phonenumber": "あなたの電話番号を変更しましたか？",
+      "send_otp": "ワンタイムパスワードを送信",
+      "resend_otp": "ワンタイムパスワードを再送",
+      "phone_number_verify": "電話番号の確認",
+      "approve_payment": "支払いを承認します",
+      "reset_brandpay": "{{brandpay}}ピンをリセットします",
+      "change_brandpay": "{{brandpay}}ピンを変更します",
+      "open_map": "オープンマップ",
+      "view_stores": "店を見る",
+      "date": "日にち",
+      "type": "タイプ",
+      "set_location": "場所を設定します",
+      "change_location": "地域を変更",
+      "filter": "フィルター",
+      "filter_by_type": "種類で絞り込む",
+      "filter_by_date": "日付でフィルター",
+      "current": "現時点の",
+      "browse_menu": "メニューを参照します",
+      "view_other_store": "他の店を見る",
+      "view_item": "アイテムの表示",
+      "view_chart": "チャートを表示します",
+      "redeem": "今すぐ交換",
+      "skip": "スキップ",
+      "lets_do_it": "やってみましょう",
+      "set_pin": "ピンを設定します",
+      "view_more": "もっと見る",
+      "save": "保存",
+      "choose": "選ぶ"
+    },
+    "label": {
+      "loading": "読み込み",
+      "phone_number": "電話番号",
+      "email": "Eメール",
+      "sms": "SMS",
+      "enter_location": "場所を入力します",
+      "km": "{{distance}} km",
+      "min": "{{time}} 分",
+      "in_min": "{{time}} 分",
+      "unknown": "わからない",
+      "items": "アイテム",
+      "exclusive": "エクスクルーシブ",
+      "just_for_friends": "{{brandname}}友達のためだけに",
+      "all": "全て",
+      "points": "{{point}}ポイント",
+      "brandpoint_earned": "{{brandpoint}}獲得",
+      "points_earned": "{{earned}}ポイント獲得",
+      "points_left": "{{points}} 残りポイント",
+      "method_paid": "{{method}}有料",
+      "bill_amount": "請求額",
+      "please_wait": "お待ちください ！",
+      "from": "から",
+      "to": "に",
+      "for": "為に",
+      "voucher": "バウチャー",
+      "total": "合計",
+      "join_friends": "{{brandname}}友達に参加します",
+      "find_out_more": "詳細をご覧ください",
+      "unavailable": "利用できません",
+      "addon": "拡張機能",
+      "pagination_more": "...そして{{total}}もっと",
+      "self_pickup": "セルフピックアップ",
+      "in_store": "ストア内",
+      "year": "年",
+      "month": "月",
+      "select_date": "日付を選択"
+    },
+    "note": {
+      "search_contact": "名前または電話番号を入力します",
+      "phone_number": "電話番号の前にカントリーコードを入力してください",
+      "otp_second_left": "あと{{counterTime}}秒で再送可能",
+      "pin_incorrect": "あなたのピンは間違っています。 もう一度やり直すか、サポートにお問い合わせください。",
+      "refund_note": "*この支払いは返金されました。",
+      "refunded": "返金しました",
+      "paid": "あなたは支払いました",
+      "received": "あなたは受け取りました",
+      "sent": "あなたが送信されてきました",
+      "discount_further_invalid": "さらなる割引には無効です",
+      "discount_further_valid": "さらなる割引に有効です",
+      "exclusive_product": "これらの製品と価格は、{{brandgroup}}友人のメンバー専用です。 これらの製品を購入するためにロイヤルティプログラムに参加してください！",
+      "error": "エラーが発生しました。 後でもう一度試すか、カスタマー サービスにお問い合わせください"
+    },
+    "go_to_settings": "設定に移動",
+    "payment_method": {"cc": "クレジットカード"}
+  },
+  "brand": {
+    "app": "Mediabank",
+    "pay": "ウォレット",
+    "wallet": "ウォレット",
+    "amount": "額",
+    "walletpoint": "ウォレットと MB ポイント",
+    "point": "Mediabankポイント",
+    "mini_point": "MBポイント",
+    "group": "Mediabankグループ"
+  },
+  "currency": {
+    "symbol":"JPY ¥",
+    "symbol_only":"¥",
+    "text": "JPY",
+    "point": "点"
+  },
+  "api": {
+    "transactions": {
+      "category": {
+        "Payment": "支払い",
+        "Transfer": "移行",
+        "Point": "点",
+        "Voucher": "バウチャー",
+        "Expired": "期限切れ",
+        "Expired Point": "期限切れのポイント",
+        "Transfer Received": "受信した転送",
+        "Top Up": "充電",
+        "Welcome Point": "ウェルカムポイント",
+        "Self Pick Up": "セルフピックアップ",
+        "Self Pick-Up": "セルフピックアップ",
+        "Loyalty": "忠誠心",
+        "Loyalty Program": "ロイヤルティ プログラム",
+        "-": " - "
+      }
+    }
+  }
+}

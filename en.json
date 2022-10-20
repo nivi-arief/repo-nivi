@@ -1,0 +1,695 @@
+{
+  "menu": {
+    "home": "Home",
+    "top_up": "Charge",
+    "scan": "Pay",
+    "wallet": "Wallet",
+    "scan_shortcut": "Scan",
+    "send": "Send",
+    "receive": "Receive",
+    "self_pickup": "Map",
+    "self pick-up": "Map",
+    "news": "News",
+    "benefits": "Benefits",
+    "loyalty": "Loyalty",
+    "vouchers": "Vouchers",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "stores": "Stores",
+    "cuisines": "Cuisines"
+  },
+  "home": {
+    "greetings": "Good Day, ",
+    "shortcut_menu": {
+      "top_up": "Charge",
+      "scan": "Pay",
+      "send": "Send",
+      "receive": "Receive"
+    }
+  },
+  "landing": {
+    "welcome": "WELCOME",
+    "welcome_desc": "Thank you for installing {{brandapp}}. \n\n Register now to get 50 bottles of drink for free!",
+    "carousel": {
+      "0": {
+        "title": "Meet {{brandpay}}, your new favourite wallet",
+        "desc": "Use {{brandpay}} Wallet to purchase drink in vending machine all over Japan, you could get points as a reward."
+      },
+      "1": {
+        "title": "Earn {{brandpoint}} for every spend",
+        "desc": "You could also get points, voucher or gift card when watching the commercial."
+      },
+      "2": {
+        "title": "Hungry? Skip the line when you order food in advance",
+        "desc": "Apply a UnionPay Card via {{brandpay}}, enjoy the service in more than 30 million stores around the world !"
+      }
+    }
+  },
+  "wallet_pin": {
+    "title": "Set {{brandpay}} Pin",
+    "desc": "Set a PIN for your {{brandpay}} wallet. You will need to confirm your PIN after this step.",
+    "note": "You will need to enter the PIN once more after this step.",
+    "title_confirm": "Confirm {{brandpay}} Pin",
+    "desc_confirm": "Confirm the Wallet PIN you set just now by entering it again.",
+    "alert_not_match": "Your PIN do not match. Please try again or contact Support for help."
+  },
+  "signup": {
+    "enter_phone_number": "Enter Phone Number",
+    "verify": "Verify your identity by keying in the One-Time Password sent to your registered email address and other information required.",
+    "invalid_otp": "Invalid OTP. Please check you email for the OTP number.",
+    "reset": "Enter your old phone number. {{brandapp}} will send an One-Time Password to your registered email address which you need to enter on the next screen",
+    "reset_message": "At least one of the information you submitted was incorrect. Please try again or contact Support for help.",
+    "message": "To sign up for an account, please key in your phone number. We will send a One-Time Password to verify that your phone number is correct.",
+    "email_invalid": "This is not a valid email address",
+    "email_required": "Email is required!",
+    "name_required": "Name is required!",
+    "min_2_character": "Too Short, minimum length is 2!",
+    "max_50_character" : "Too Long, maximum length is 50!",
+    "button": {
+      "next": "Next",
+      "review": "Review Information",
+      "start": "Start",
+      "edit": "Edit",
+      "create_account": "Create Account"
+    },
+    "label": {
+      "opt_out_marketing": "Opt Out of Marketing",
+      "opt_in_to": "Opt In to {{target}}",
+      "email_sms": "Email and SMS Marketing",
+      "sms": "SMS Marketing",
+      "email": "Email",
+      "set_wallet_pin": "Set Wallet Pin",
+      "login": "Log In",
+      "continue": "Continue",
+      "maybe_later": "Maybe Later",
+      "new_phone_number": "New Phone Number",
+      "old_phone_number": "Old Phone Number",
+      "date_of_birth": "Date of Birth",
+      "otp": "One-Time Password",
+      "account_information": "Account Information"
+    },
+    "referral": {
+      "title": "Referral",
+      "caption_1": "Let's Redeem!",
+      "caption_2": "Do you have a promo code?",
+      "label": "Enter Code Manually",
+      "placeholder": "Enter phone number or code"
+    },
+    "wizzard": {
+      "0": {
+        "label": "Create {{brandapp}} account and start using {{brandapp}} Wallet",
+        "caption": "Woohoo! You just verified your phone number.",
+        "message": "Next, we'll need some information to create your account. All fields are required."
+      },
+      "1": {
+        "title": "What is your name?",
+        "label": "To use {{brandapp}}, you may register with your nick name.",
+        "caption": "Your name will be visible to merchants and other users when you make payment or transfer funds."
+      },
+      "2": {
+        "label": "What’s your email address?",
+        "caption": "{{brandapp}} will send you transaction advice and receipts to your email address. You need a verified email address to change your phone number."
+      },
+      "3": {
+        "label": "What’s your birthday?",
+        "caption": "{{brandapp}} is required to collect your birthday as mandated by MAS. You have to be at least 16 years old to use {{brandapp}}"
+      },
+      "4": {
+        "label": "What’s your gender?",
+        "caption": "{{brandapp}} is required to collect your gender as mandated by MAS."
+      },
+      "5": {
+        "label": "What’s your address?",
+        "caption": "{{brandapp}} is required to collect your address as mandated by MAS."
+      },
+      "6": {
+        "label": "Review your information",
+        "caption": "Please confirm that your account information is correct before you create your account."
+      },
+      "7": {
+        "label": "Allow {{brandapp}} to contact you",
+        "caption": "We will send some important notification and campaign information to you. We suggest you select Yes."
+      },
+      "8": {
+        "label": "Allow {{brandapp}} to access your camera",
+        "caption": "{{brandapp}} needs your camera to scan QR codes. Allow access to pay merchants and send money to other users."
+      },
+      "9": {
+        "label": "Allow {{brandapp}} to access your location",
+        "caption": "Share your location with {{brandapp}} to discover merchants near you. Now, you can be your friends' saviour when they can't decide on a lunch spot. Thank us later."
+      },
+      "10": {
+        "label": "Set a PIN to protect your {{brandpay}} wallet",
+        "caption": "Keep your wallet secure with a 6-digit PIN, but make sure you choose a PIN that's difficult to guess! Don't play play",
+        "message": "You will need to enter the PIN twice."
+      },
+      "11": {
+        "label": "All set!",
+        "caption_1": "You're all good to go. Top up your wallet for the first time to start earning {{brandpoint}}!",
+        "caption_2": "You're all good to go. Top up your wallet for the first time to start earning {{brandpoint}}!"
+      }
+    }
+  },
+  "login": {
+    "title_otp": "Verify Phone Number",
+    "title_otp_new": "Verify New Phone Number",
+    "verify_identity": "Verify Identity",
+    "message_otp": "Please enter the One-Time Password sent to your phone number.",
+    "message_otp_new": "Please enter the One-Time Password sent to your phone number.",
+    "alert": {
+      "not_registered": "Your phone number is not registered. Please register first before using {{brandapp}}",
+      "exist": "Your phone number is already registered.",
+      "invalid_otp": "Your One-Time Password is incorrect. Check for a new One-Time Password or contact Support for help.",
+      "success_change": "You have changed your phone number successfully. You may log in using your new phone number."
+    }
+  },
+  "self_pickup": {
+    "title": "Map",
+    "short_title": "Pick up",
+    "at": "at",
+    "label": {
+      "promotions": "Promotions",
+      "nearest": "Nearest to You",
+      "fastest": "Fastest Pick-Up",
+      "most": "Most Popular",
+      "stores": "All Stores"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "recent": "Recent Searches",
+    "no_recent": "No recent search",
+    "popular": "Popular Searches",
+    "popular_location": "Popular Location"
+  },
+  "profile": {
+    "title": "Profile",
+    "version_text": "You are using {{brandapp}} version {{version}}",
+    "edit": "Edit Profile",
+    "message_require_pin": "Please enter your PIN to edit your profile.",
+    "label": {
+      "birthday": "Birthday",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "save": "Save Profile"
+    },
+    "menu": {
+      "marketing_preference": "Marketing Subscription Preferences",
+      "marketing_subs": "Marketing Subscription",
+      "transaction_history": "Transaction History",
+      "my_orders": "My Orders",
+      "about_us": "About Us",
+      "contact_support": "Contact Support",
+      "tnc": "Terms and Conditions",
+      "policy": "Privacy and Policy",
+      "faq": "FAQ",
+      "language": "Language"
+    },
+    "form": {
+      "name": "Name",
+      "email_addr": "Email Address",
+      "email": "Email",
+      "postal_code": "Postal Code",
+      "address": "Address",
+      "unit": "Unit Number",
+      "unit_text": "Unit Number (If Applicable)",
+      "birthdate": "Date of Birth",
+      "birthdate_format": "DD/MM/YYYY",
+      "birthdate_note": "E.g., 21/02/1991",
+      "gender": "Gender"
+    }
+  },
+  "marketing_subs": {
+    "title": "Marketing Subscription",
+    "desc": "Choose your preferred method to receive offers, deals, and updates from {{brandapp}}.",
+    "edit": "Edit Marketing Subscription",
+    "message_require_pin": "Please enter your PIN to edit your marketing subscription"
+  },
+  "language": {
+    "title": "Language",
+    "change": "Change Language",
+    "desc": "Choose your preferred language for using this app",
+    "list": {
+      "en": "English",
+      "jp": "Japan"
+    }
+  },
+  "brandpay_pin": {
+    "alert": {
+      "success_reset_to_email": "New pin sent to your email. Please check you email to able to continue the process."
+    },
+    "wizzard": {
+      "0": {
+        "title": "Verify Identity",
+        "desc": "Please enter your current {{brandpay}} PIN to verify your identity.",
+        "btn": "Verify Identity"
+      },
+      "1": {
+        "title": "Set New {{brandpay}} PIN",
+        "desc": "Set a new PIN for your {{brandpay}} wallet. You will need to confirm your PIN after this step.",
+        "btn": "Set PIN"
+      },
+      "2": {
+        "title": "Confirm {{brandpay}} PIN",
+        "desc": "Confirm the {{brandpay}} PIN you set just now by entering it again.",
+        "btn": "Confirm PIN"
+      }
+    }
+  },
+  "top_up": {
+    "title": "Charge",
+    "title_payment": "Top Up Payment",
+    "title_success": "Top Up Success",
+    "title_fail": "Top Up Failure",
+    "min_topup": "You must top up at least {{minimum}}.",
+    "max_topup": "You may top up {{limit}} more today.",
+    "alert_max_topup": "You have reached your daily top up limit. Please try again tomorrow.",
+    "alert_min_topup": "You  Must top up at least JPY ¥ 1,000",
+    "input_label": "Key in the amount you wish to top up",
+    "input_redeem": "Key in the amount you wish to redeem",
+    "available_balance": "Available Balance",
+    "success": {
+      "title": "You have topped up",
+      "via": "via {{method}}"
+    },
+    "failure": {
+      "title": "Your top up failed",
+      "message": "Try again or contact Support for help.",
+      "retry": "Retry",
+      "support": "Support"
+    }
+  },
+  "scan": {
+    "title": "Pay",
+    "myqr": "My Code",
+    "receive": "To receive funds, let the sender scan your QR code.",
+    "allowed_scan_label": "Point your camera at the QR code and keep it within the frame to scan.",
+    "unallowed_scan_label": "To scan QR codes, allow MediaBank to access your camera in Settings > Privacy > Camera.",
+    "show_to_cashier": "Please show this QR code to the cashier or sender.",
+    "no_camera_access": "No Camera Access"
+  },
+  "send": {
+    "title": "Send",
+    "success": "Send Success",
+    "failure": "Send Failure",
+    "label": "Key in the amount to send:",
+    "max_send": "You may send up to {{limit}} today",
+    "select_receipent": "Select Recipient",
+    "receipent": "Recipient",
+    "unknown_receipent_name": "Unknown Name",
+    "topup_brandpay": "Charge {{brand}}",
+    "note": "Note",
+    "note_placeholder": "Type a message for your recipients",
+    "enter_pin": "Enter PIN to Send",
+    "alert_max_send": "The amount you entered exceeds your daily transfer limit. Send {{limit}} or less, or try again tomorrow.",
+    "alert_less_balance": "You do not have enough money in your {{brandpay}} wallet. Top up to proceed with payment.",
+    "alert_receipent_not_found": "Customer is not associated with a {{brandapp}} account. You cannot send the owner money using {{brandpay}}.",
+    "failed_send": "You did not manage to send",
+    "confirm": "Confirm Send"
+  },
+  "promotions": {
+    "title": "Promotions"
+  },
+  "highlights": {
+    "title": "Highlights",
+    "NEWS": "NEWS",
+    "PROMOTION": "PROMOTION",
+    "OFFERING": "OFFERING"
+  },
+  "transactions": {
+    "trx_id": "Transaction ID :",
+    "recent": "Recent Transaction",
+    "title_detail": "Transaction Details",
+    "confirm_payment": "Confirm Payment",
+    "confirm_send": "Confirm Send",
+    "cancel_membership": "Cancel Membership",
+    "renew_membership": "Renew Membership",
+    "cancel_renewal": "Confirm Renewal",
+    "pay_fee": "Pay Fee",
+    "join": "Join"
+  },
+  "order": {
+    "history": "Order History",
+    "active": "Active",
+    "inactive": "Inactive",
+    "closed": "Closed",
+    "status": {
+      "rejected": "Rejected",
+      "waiting": {
+        "text": "Waiting",
+        "desc": "for store to accept"
+      },
+      "pickup": "Pick Up at",
+      "ready": {
+        "text": "Ready",
+        "desc": "as of"
+      }
+    }
+  },
+  "store": {
+    "near": "Stores Near You",
+    "nearest": "Nearest to You",
+    "fastest": "Fastest Pick-Up",
+    "most": "Most Popular",
+    "favourite": "Favourite Stores",
+    "closed": "Store Closed",
+    "closed_message": "This store is closed at the moment. You may browse the items, but will not be able to add any items to cart.",
+    "operating_hours": "Operating Hours"
+  },
+  "voucher": {
+    "label": {
+      "voucher_detail": "Voucher Detail",
+      "redeem_voucher": "Redeem Voucher",
+      "ready_use": "Ready To Use Voucher?",
+      "ready_redeem": "Ready To Redeem Voucher?",
+      "are_u_ready_use": "Are you ready to Use your In-Store voucher? You have to be with a staff member at the store before proceeding.",
+      "are_u_ready_redeem": "Are you ready to Redeem your In-Store voucher? You have to be with a staff member at the store before proceeding.",
+      "no_not_ready": "No, Not Ready",
+      "yes_proceed": "Yes, Proceed",
+      "purchased_voucher": "Purchased Successfully",
+      "usable_voucher": "Usable Vouchers",
+      "my_voucher": "My Voucher",
+      "voucher_marketplace": "Voucher Marketplace",
+      "search": "Search by Voucher Name",
+      "available": "Available",
+      "used": "Used",
+      "expired": "Expired",
+      "brands": "Brands",
+      "member_price": "{{title}} Member Price",
+      "no_voucher":"You currently have no vouchers",
+      "no_voucher_desc": "Why not browse the Voucher Marketplace for special deals?",
+      "no_used_voucher":"You haven't used any vouchers",
+      "no_used_voucher_desc": "Start using the vouchers you have, or browse for more in the Vouchers Marketplace",
+      "no_expired_voucher": "You have no expired vouchers",
+      "no_expired_voucher_desc": "Yay! Please use your vouchers before they expire, or browse for more in the Vouchers Marketplace",
+      "no_voucher_marketplace":"Currently, there's no available voucher yet",
+      "no_voucher_marketplace_desc": "Go back again later for special deals in Voucher Marketplace",
+      "featured": "Featured",
+      "claimed": "Claimed",
+      "claim": "Claim",
+      "purchased": "Purchased",
+      "sold": "{{issued}}/{{max}} sold",
+      "deadline": "On Sale Till {{date}}",
+      "no_min_spend": "No min. spend",
+      "min_spend": "Min. spend {{price}}",
+      "disc_amount_off": "{{percent}} off",
+      "free_product": "free {{product}}",
+      "bundling": "Bundling",
+      "exclusive": "Exclusive",
+      "details": "Details",
+      "t&c": "T&C",
+      "store_usable": "Store Usable",
+      "usual_price": "Usual Price",
+      "price": "Price",
+      "on_sale_till": "On Sale Till",
+      "available_till": "Available Till",
+      "expires": "Expires",
+      "qty_limit": "Quantity Limit",
+      "time_from_purchase": "{{time}} from purchase",
+      "per_customer": "{{total}} per customer",
+      "description": "Description",
+      "how_to_use": "How To Use",
+      "day": "day",
+      "month": "month",
+      "year": "year",
+      "days": "days",
+      "months": "months",
+      "years": "years",
+      "exclusive_note": "This voucher is exclusive to members of {{brand}}. Join the Loyalty Program to unlock this deal and more!",
+      "already_purchased": "You have already purchased the maximum amount available per customer. Thanks for your interest!",
+      "already_have": "You already have this voucher in your inventory. Feel free to purchase more.",
+      "sold_out": "Sorry, this voucher has sold out.",
+      "sold_out_have": "Sorry, this voucher has sold out. You have this voucher in your inventory, but cannot purchase more.",
+      "join": "Join {{brand}}",
+      "other_vouchers": "Other {{brand}} Vouchers",
+      "payable": "Total amount payable"
+    },
+    "button": {
+      "browse": "Browse Voucher Markerplace",
+      "view": "View Voucher",
+      "view_all": "View All {{brand}} Vouchers",
+      "view_less": "View Less {{brand}} Vouchers",
+      "purchase": "Purchase Voucher",
+      "use": "Use Voucher",
+      "claim": "Claim Voucher",
+      "sold_out": "Sold Out",
+      "back_to_voucher": "Back to Voucher",
+      "browse_for_more": "Browse For More"
+    },
+    "note": {
+      "claimed": "You have successfully claimed the voucher.",
+      "out_of_range": "You reach the maximum amount to buy this voucher.",
+      "t&c": "Terms & Conditions"
+    }
+  },
+  "loyalty": {
+    "join": "Join a Loyalty Program below and start saving money today.",
+    "can_join": "Programs You Can Join ({{total}})",
+    "have_join": "Programs You've Joined ({{total}})",
+    "joining_fee": "Joining Fee",
+    "joined_on": "Joined On",
+    "next_payment": "Next Payment",
+    "payment_method": "Payment Method",
+    "membership_fee": "Membership Fee",
+    "perks": "Membership Perks",
+    "join_brand": "Join {{brand}}",
+    "referral": "Referral",
+    "referral_text": "Did someone invite you to join {{brandname}}? Enter their phone number and you will both receive XXXXX!",
+    "referral_code": "Referral Code",
+    "submit_referral": "Submit Referral Code",
+    "skip": "Skip",
+    "placeholder_referral": "Enter phone number or code",
+    "status": "Membership Status",
+    "otj_fee": "One-time joining fee",
+    "renew_desc": "You are about to renew your membership at {{loyalty_name}. after confirmation, you will be charged {{renewal_fee}} using the same payment method selected below.",
+    "join_desc": "You are about to join {{loyalty_name}}. as a member. After confirmation, you will be charged {{renewal_fee}} using the same payment method selected below. starting from {{date}}\n\nPlease make sure you have sufficient Wallet Balance funds or MB Points for the monthly membership fee.",
+    "cancel_desc": "Your membership has been paid till {{date}}. After cancellation, you may enjoy the perks till {{date}}.\n\nYou will have to pay the Joining Fee {{fee}} if you wish to join {{loyalty_name}} again.\n\nAre you sure you wish to cancel your membership?",
+    "for_loyalty": "for Loyalty Program Joining Fee",
+    "you_have_saved": "Yay! You have saved",
+    "renew_before_expires": "Renew your membership before it expires",
+    "fail_balance": "We were unable to deduct your membership fee. Please make sure you have sufficient wallet balance or MB points",
+    "yes_cancel": "Yes, Cancel",
+    "stay_as_member": "Stay As a Member",
+    "success_cancel": "Success Cancel Loyalty",
+    "congrats": "Congratulations!",
+    "congrats_desc_member": "You are now a member of",
+    "congrats_desc_member_2": "This loyalty program renews at {{at}}",
+    "starting_from": "Starting from {{from}}",
+    "congrats_renew": "You have renewed your membership",
+    "congrats_renew2": "You will be charged {{charge}}"
+
+  },
+  "payment": {
+    "payment_pending": "Payment Pending",
+    "payment_success": "Payment Success",
+    "payment_rejected": "Payment Rejected",
+    "waiting_store_to_accept": "Waiting for merchant to accept",
+    "to_earn": "To Earn",
+    "payment_requested": "Payment Requested",
+    "key_discount": "Amount not valid for further discount",
+    "key_amount": "Bill amount",
+    "key_requested": "Amount requested:",
+    "pay_with": "Pay with {{method}}",
+    "select_voucher": "Select Voucher",
+    "subtotal": "Subtotal",
+    "payable": "{{method}} payable",
+    "insufient": "You have insufficient {{brandpoint}} for full payment. Please pay using {{brandpay}}.",
+    "topup_wallet": "Top Up",
+    "report_trx": "Report Transaction",
+    "unused_value":"Unused value will not be returned",
+    "back_to_cart": "Back to Cart"
+  },
+  "pin":{
+    "join_fee": "Please enter your PIN to confirm payment of the joining for {{name}}",
+    "cancel_membership": "Please enter your PIN to cancel your membership at {{name}}",
+    "renew_membership": "Please enter your PIN to renew your membership at {{name}}",
+    "confirm_payment_for": "Please enter your PIN to confirm your payment for {{brandName}}'s {{voucherName}} voucher.",
+    "confirm_sending": "Please enter your PIN to confirm sending",
+    "approve_payment": "Please enter your PIN to approve the payment"
+  },
+  "days": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "validations": {
+    "invalid": "{{target}} is invalid",
+    "password_format": "format not valid! at least one uppercase, one number & no spacing",
+    "url_format": "format not valid! please add http:// or https://",
+    "image_format": "your image format is incorrect.",
+    "maximum_file_x": "Maximum image size exceed. Please make sure image size not more than {{x}}MB",
+    "percent_format": "Percentage is wrong",
+    "phone_format": "Your format phone number is incorrect.",
+    "format_amount": "Wrong format amount",
+    "required": "{{target}} is a required field",
+    "must_x_character": "{{target}} must be {{x}} character",
+    "min_x_character": "{{target}} must be at least {{x}} character",
+    "max_x_character": "{{target}} must be at most {{x}} character",
+    "password_confirm": "Both password need to be the same",
+    "must_number":"Must Number",
+    "either":"{{target}} is either {{num1}} or {{num2}} digit."
+  },
+  "app": {
+    "exit": "tap back again to exit the App",
+    "no_data": "No Data Found",
+    "no_data_available": "No data available",
+    "view_all": "View All",
+    "format_date_long": "DD MMM YYYY, hh:mm A",
+    "format_date_normal": "DD MMM YYYY, LT",
+    "format_date_short": "DD/MM/YYYY",
+    "format_date_lt": "LT",
+    "format_time": "hh:mm A",
+    "other": "Other",
+    "update_now": "Update Now!",
+    "updating": "Updating...",
+    "installing": "Installing...",
+    "camera_permission": {
+      "title": "No Camera Access",
+      "message": "To scan QR codes, allow {{brandapp}} to access your camera."
+    },
+    "gps_permission": {
+      "title": "No GPS Access",
+      "message": "Allow {{brandapp}} access to your location"
+    },
+    "turn_flash": {
+      "message": "Turn Flash {{status_target}}",
+      "on": "On",
+      "off": "Off"
+    },
+    "button": {
+      "pay": "Pay",
+      "reject": "Reject",
+      "next": "Next",
+      "ok": "Ok",
+      "cancel": "Cancel",
+      "dismiss": "Dismiss",
+      "login": "Log In",
+      "signup": "Sign Up",
+      "changed_phonenumber": "Changed Your Phone Number?",
+      "send_otp": "Send One-Time Password",
+      "resend_otp": "Resend One-Time Password",
+      "phone_number_verify": "Verify Phone Number",
+      "approve_payment": "Approve Payment",
+      "reset_brandpay": "Reset {{brandpay}} PIN",
+      "change_brandpay": "Change {{brandpay}} PIN",
+      "open_map": "Open Map",
+      "view_stores": "View Stores",
+      "date": "Date",
+      "type": "Type",
+      "set_location": "Set Location",
+      "change_location": "Change Location",
+      "filter": "Filter",
+      "filter_by_type": "Filter By Type",
+      "filter_by_date": "Filter By Date",
+      "current": "Current",
+      "browse_menu": "Browse Menu",
+      "view_other_store": "View Other Stores",
+      "view_item": "View Item",
+      "view_chart": "View Chart",
+      "redeem": "Redeem Now",
+      "skip": "Skip",
+      "lets_do_it": "Let's Do It",
+      "set_pin": "Set PIN",
+      "view_more": "View More",
+      "save": "Save",
+      "choose": "Choose"
+    },
+    "label": {
+      "loading": "Loading",
+      "phone_number": "Phone Number",
+      "email": "Email",
+      "sms": "SMS",
+      "enter_location": "Enter Location",
+      "km": "{{distance}} km",
+      "min": "{{time}} min",
+      "in_min": "in {{time}} min",
+      "unknown": "Unknown",
+      "items": "items",
+      "exclusive": "Exclusive",
+      "just_for_friends": "Just For {{brandname}} Friends",
+      "all": "All",
+      "points": "{{point}} Points",
+      "brandpoint_earned": "{{brandpoint}} earned",
+      "points_earned": "{{earned}} Points earned",
+      "points_left": "{{points}} Points left",
+      "method_paid": "{{method}} Paid",
+      "bill_amount": "Bill Amount",
+      "please_wait": "Please Wait !",
+      "from": "from",
+      "to": "to",
+      "for": "for",
+      "voucher": "Voucher",
+      "total": "Total",
+      "join_friends": "Join {{brandname}} Friends",
+      "find_out_more": "Find out more",
+      "unavailable": "Unavailable",
+      "addon": "Add On",
+      "pagination_more": "...and {{total}} more",
+      "self_pickup": "Self Pick Up",
+      "in_store": "In Store",
+      "year": "Year",
+      "month": "Month",
+      "select_date": "select date"
+    },
+    "note": {
+      "search_contact": "Enter name or phone number",
+      "phone_number": "Enter the country code before your phone number",
+      "otp_second_left": "{{counterTime}} seconds left",
+      "pin_incorrect": "Your PIN is incorrect. Please try again or contact Support for help.",
+      "refund_note": "* This payment has been refunded.",
+      "refunded": "You have refunded",
+      "paid": "You have paid",
+      "received": "You have received",
+      "sent": "You have sent",
+      "discount_further_invalid": "Not Valid For Further Discount",
+      "discount_further_valid": "Valid For Further Discount",
+      "exclusive_product": "These products and prices are exclusive to members of {{brandgroup}} Friends. Join the Loyalty Program to purchase these products!",
+      "error": "Something went wrong! Please try again later or contact customer service"
+    },
+    "go_to_settings": "Go To Settings",
+    "payment_method": {
+      "cc": "Credit Card"
+    }
+  },
+  "brand": {
+    "app": "MediaBank",
+    "pay": "Wallet",
+    "wallet": "Wallet",
+    "amount": "Amount",
+    "point": "MediaBank Points",
+    "walletpoint": "Wallet and MB Points",
+    "mini_point": "MB Points",
+    "group": "MediaBank Group"
+  },
+  "currency": {
+    "symbol":"JPY ¥",
+    "symbol_only":"¥",
+    "text": "JPY",
+    "point": "point"
+  },
+  "api": {
+    "transactions": {
+      "category": {
+        "Payment": "Payment",
+        "Transfer": "Transfer",
+        "Point": "Point",
+        "Voucher": "Voucher",
+        "Expired": "Expired",
+        "Expired Point": "Expired Point",
+        "Transfer Received": "Transfer Received",
+        "Top Up": "Charge",
+        "Welcome Point": "Welcome Point",
+        "Self Pick Up": "Self Pick Up",
+        "Self Pick-Up": "Self Pick-Up",
+        "Loyalty": "Loyalty",
+        "Loyalty Program": "Loyalty Program",
+        "-": "-"
+      }
+    }
+  }
+}
