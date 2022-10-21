@@ -65,4 +65,4 @@ Home screen loyalty membership alert 1 - Your […] membership is due for renewa
 Confirm payment page caption - Please enter your PIN to confirm your payment for […] voucher. - 暗証番号を入力して […]のクーポンの購入をご確認ください。
 Purchase member price in-store voucher page voucher already used  - You have already purchased and used this voucher. - このクーポンはすでに利用されました。。
 Voucher bundle panel header - Vouchers You Will Receive - 受け取れるクーポン
-Onboarding referral page Label - Let’s Redeem! - 特典を引換えましょう！
+
