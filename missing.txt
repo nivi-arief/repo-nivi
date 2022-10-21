@@ -73,6 +73,102 @@ Allow MediaBank to access your camera to scan QR codes for payments and fund tra
 Don’t Allow -	許可しない
 This is not a valid phone number - 有効な電話番号ではありません。
 Wallet PIN	- ウォレットの暗証番号
+View Transaction- 取引履歴を確認
+Reset Type Filter	- 絞り込みを解除
+Last 3 Days -	過去3日間
+Last 7 Days	- 過去7日間
+Reset Date Filter	- 絞り込みを解除
+To {{merchant}} - {{加盟店名}}
+{{merchant address}} - {{加盟店の住所}}
+{{date, time}} - 	{{日付、時間}}
+To {{user}} -	受取人は {{ユーザー}}
+Item description	-   商品名
+Qty	-   数量
+Tax	-   税金
+Refund	-   返金
+by {{merchant}} -   {{加盟店名}}
+{{merchant address}}	-   {{加盟店の住所}}
+Service fee -	サービス料
+Amount Refunded	-   返金額
+MB Points Refunded	-   返されたMBポイント
+Member Savings	-   プロモーション
+View Refund	-   返金詳細を表示
+View Original Payment	-   元の決済詳細を表示
+Redemption	-   商品引換
+You have redeemed	-   次の商品を引換しました
+{{quantity}}x {{product}}	-   {{数}}x {{商品名}}
+at {{store}}    -   {{店舗名}}
+{{store address}}	-   {{店舗の住所}}
+[…] Points	-   […]ポイント
+to […]	-   対象店舗は[…]
+For Loyalty Program membership fee	-   ロイヤリティプログラム会費として
+Amount paid	-   支払った金額
+MB Points Paid	-   支払ったMBポイント
+for {{quantity}}x {{voucher name}}	 -  用途は{{割引券名}} x {{数}}
+Member Savings	-   プロモーション
+Voucher Received	-   受け取ったクーポン
+Quantity	-   数量
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
