@@ -65,4 +65,20 @@ Home screen loyalty membership alert 1 - Your […] membership is due for renewa
 Confirm payment page caption - Please enter your PIN to confirm your payment for […] voucher. - 暗証番号を入力して […]のクーポンの購入をご確認ください。
 Purchase member price in-store voucher page voucher already used  - You have already purchased and used this voucher. - このクーポンはすでに利用されました。。
 Voucher bundle panel header - Vouchers You Will Receive - 受け取れるクーポン
+Enter the country code before your phone number - 電話番号の前に国番号をご入力ください。
+Toh Su Shing Genevieve	例：田中　太郎
+hellomynameisgenevieve@gmail.com -	例：ex.taro.tanaka@gmail.com
+“MediaBank” Would Like to Access the Camera	-「MediaBank」がカメラにアクセスしようとしています
+Allow MediaBank to access your camera to scan QR codes for payments and fund transfers. - 	QRコードをスキャンしてお支払いや資金移動できるようにカメラにアクセスする権限をMediaBankに付与する。
+Don’t Allow -	許可しない
+This is not a valid phone number - 有効な電話番号ではありません。
+Wallet PIN	- ウォレットの暗証番号
+
+
+
+
+
+
+
+
 
