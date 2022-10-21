@@ -6,7 +6,7 @@
     "wallet": "財布",
     "scan_shortcut": "スキャン",
     "send": "送る",
-    "receive": "受取",
+    "receive": "受け取る",
     "self_pickup": "地図",
     "self pick-up": "地図",
     "news": "ニュース",
@@ -24,7 +24,7 @@
         "top_up": "チャージ",
         "scan": "スキャン",
         "send": "送る",
-        "receive": "受取"  
+        "receive": "受け取る"  
     }
   },
   "landing": {
@@ -257,20 +257,20 @@
   "top_up": {
     "title": "チャージ",
     "title_payment": "支払いを補充します",
-    "title_success": "成功を補充します",
-    "title_fail": "障害を補充します",
-    "min_topup": "少なくとも{{minimum}}を補充する必要があります。",
-    "max_topup": "今日は{{limit}}をさらに補充できます。",
-    "alert_max_topup": "あなたはあなたの毎日のトップアップ制限に到達しました。 明日もう一度やり直してください。",
+    "title_success": "チャージ完了",
+    "title_fail": "チャージ失敗",
+    "min_topup": "最低で{{minimum}}円をチャージする必要があります",
+    "max_topup": "本日はさらに{{limit}}円チャージできます",
+    "alert_max_topup": "本日のチャージ上限に達しました。明日もう一度お試しください。",
     "alert_min_topup": "JPY ¥ 1,000 以上チャージする必要があります",
-    "input_label": "補充したい金額のキー",
+    "input_label": "チャージしたい金額をご入力ください",
     "success": {
-      "title": "次の金額をチャージできました", 
+      "title": "下記の金額をチャージできました。", 
       "via": "{{method}}チャージ方法は "},
     "available_balance": "利用可能残高",
     "failure": {
-      "title": "あなたのトップアップは失敗しました",
-      "message": "もう一度やり直すか、サポートにお問い合わせください。",
+      "title": "チャージできませんでした",
+      "message": "再試行するか、サポートセンターにお問い",
       "retry": "再試行",
       "support": "問い合わせ"
     }
@@ -532,7 +532,7 @@
     "format_date_short": "DD/MM/YYYY",
     "format_date_lt": "LT",
     "format_time": "HH:mm",
-    "other": "他の",
+    "other": "その他",
     "update_now": "今すぐアップデート！",
     "updating": "更新中...",
     "installing": "インストール中...",
