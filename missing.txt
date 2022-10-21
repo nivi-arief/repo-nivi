@@ -1,0 +1,86 @@
+Self Pick Up
+User location button-{{User location}}-{{利用者の位置情報}}
+User location permission modal caption-Allow “MediaBank” to use your location? Discover stores near you when you share your location.-MediaBankに位置情報の使用を許可しますか？許可すると、近くにあるお店が発見できます。
+User location permission modal precision indicator - Precise: {{On / Off}} - 正確な位置情報：{{オン/オフ}}
+User location permission modal allow once button -	Allow Once -	一回のみ許可
+User location permission modal allow while using button - Allow While Using - このAppの使用中のみ許可
+User location permission modal don’t allow button - Don’t Allow - 許可しない
+Store list page all stores list label - All Stores - すべてのお店
+Current location popup header- Current Location - 現在の位置情報
+Distance and pickup time display - […] km | […] min -	[…] km
+Change button -	Change - 変更
+Enter location field placeholder -	Postal code, landmark, or address -	郵便番号、ランドマークまたは住所
+Reset filter button -	Reset Filters -	絞り込みを解除
+Distance and pick-up time display -	[…] km | […] min -	[…] km
+Store menu page new arrival menu display -	New Arrival -	新着情報
+Store menu page recommended menu display -	Recommended -	おすすめ
+Store menu page operating hours slides working hours -	{{hour}} to {{hour}} -	{{～時}}から {{～時}}まで
+Comment field placeholder -	Comment -	コメント
+Loyalty program exclusive menu message -	This product is exclusive to members of […]. Join the Loyalty Program to purchase it! -	こちらの商品は[…]会員限定です。ロイヤリティプログラムに参加し、購入してください。
+Add item to cart button -	Add Item to Cart -	アイテムをカートに追加
+Price of item on cart display -	$ […] -	￥ […]
+Quantity of item on cart display -	[…] items -	[…] アイテム
+Item multiple order indicator	[…] x 	[…] x 
+View cart popup comment display placeholder (no comment) -	No comments -	コメントがありません。
+Order another button	Order Another	もう一つ注文する
+Modify Item button -	Modify Item -	アイテムを編集
+Remove Item button -	Remove Item -	アイテムを削除
+Compulsory attribute caption- Pick at least one -	少なくとも1つ選択してください。
+Comment field placeholder -	Comments -	コメント
+Add item to cart  button -	Add Item to Cart - アイテムをカートに追加
+Order another button -	Order Another -	もう一つ注文する
+Modify Item button -	Modify Item -	アイテムを編集
+Remove Item button -	Remove Item -	アイテムを削除
+Cart page header -	Cart -	カート
+Order summary list header -	Order Summary -	注文の概要
+Order summary list subtotal label -	Subtotal -	小計
+Order summary list service fees label -	Service Fees -	サービス料
+Order summary list member savings label -	Member Savings -	プロモーション
+Selected voucher display label -	{{voucher name}} applied. -	{{割引券名}}が適用されました。
+Change voucher button -	Change voucher -	クーポンを変更
+Pay with BoltPay switch button -	Pay with MediaBank Wallet -	MediaBankのウォレットで支払う
+Pay with BoltPoint switch button -	Pay with MB Points -	MBポイントで支払う
+Pay with wallet button -	Pay $ […] -	  […]円を支払う
+Pay with BoltPoint button -	Pay […] -	 […]を支払う
+Top Up button -	Top Up -	チャージ
+Insufficient BoltPoints alert -	You have insufficient MB Points for full payment. Please pay using wallet. -	MBポイントが不足しているため、全額を支払うことができません。ウォレットでお支払いください。
+Pay button -	Pay […] -	[…]を支払う
+Remove voucher button -	Remove Voucher -	クーポンを削除
+Active order status display ready  -	Ready as of {{time}} -	 {{時間}}に準備完了
+Order details page header -	Order Details -	注文詳細
+Order details page label -	Self Pick-Up -	テイクアウト
+Order details page caption - waiting -	Waiting for store to accept your Order - #[…]	番号が[…]であるご注文はただいまお店側の受付待ちの状態です
+Order details page caption - prepared - Your Order #[…] is Being Prepared -	番号が[…]であるご注文はただいま準備中です。
+Order details page caption - ready -	Your order #[…] is Ready! -	番号が[…]であるご注文はただいま準備完了になりました！
+Order details page caption - ready time -	Ready for pick up as of {{time}} -	{{時間}}にピックアップできます。
+Order details page caption - rejected -	Your Order #[…] has been rejected -	注文番号[…]のご注文は受け付けられませんでした。
+Order details page caption - rejected message -	The store is too busy right now. [...] -	ただいま注文が集中しています。 [...]
+Order details page caption - picked up -	Your Order #[…] has been Picked Up -	注文番号[…]のご注文はただいまピックアップされました。
+Order details page caption - picked up time -	Order picked up {{date}} -	ご注文は{{日付}}にピックアップされました。
+Order details page caption - picked up customer support caption -	Didn’t pick up your order?	ご注文をピックアップしませんでした？
+Input payment page header-	Payment-	決済画面
+Input payment field caption -	Key in the total amount -	合計金額を入力してください
+Input payment field placeholder -	0 -	0
+Key in amount not valid for further discount expand button label	Key in amount not valid for further discount	追加値引きが利用不可の金額をご入力ください
+Input payment page header -	Payment -	決済明細
+Selected voucher label display -	{{voucher name}} applied. -	{{クーポン名}}が適用されました.
+Change voucher button -	Change voucher -	クーポンを変更
+Payment method switch button 1 -	Pay with wallet -	ウォレットで支払う
+Payment method switch button 2 -	Pay with MB Points -	MBポイントで支払う
+BoltPoints Payable label -	MB Points Payable -	利用できるMBポイント数
+BoltPay Payable label -	Amount Payable -	利用できる金額
+Pay with BoltPay button -	Pay $[…] -	[…]円を支払う
+Pay with BoltPoints button -	Pay […] Points -	 […] ポイントを支払う
+Payment verification page caption -	Please enter your PIN to approve the payment. -	暗証番号を入力して支払いを承認してください。
+Payment succesful page label	You have paid […] to {{merchant name}}	 […] を {{加盟店名}}に支払いました
+Payment successful page merchant location -	{{merchant location}} -	{{加盟店のロケーション}}
+Transaction time -	{{date}}, {{time}} -	{{日付}}, {{時間}}
+BoltPay payment - Earned BoltPay balance display -	$[…] -	[…]円
+BoltPoint Payment - BoltPoint balance display -	Balance: […] -	残高：[…] 
+BoltPay payment - BoltPay amount display -	$ […] -	[…]円
+BoltPoint payment - BoltPoint amount display -	[…] Points -	[…] ポイント
+Transaction time -	{{date}}, {{time}} -	{{日付}}, {{時間}}
+Payment switch button 1	Pay with wallet	ウォレットで支払う
+Payment switch button 2	Pay with MB Point	MBポイントで支払う
+Pay with BoltPoint amount payable display	Amount Payable	利用できる金額
+Pay button	Pay […]	 […]を支払う
