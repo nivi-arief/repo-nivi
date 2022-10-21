@@ -196,6 +196,12 @@ for {{quantity}}x {{voucher name}}	 -  用途は{{割引券名}} x {{数}}
 Member Savings	-   プロモーション
 Voucher Received	-   受け取ったクーポン
 Quantity	-   数量
+$ […]   -	[…]円
+$ 0.00	-   ￥0
+
+
+
+
 
 
 
