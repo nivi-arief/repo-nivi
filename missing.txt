@@ -62,5 +62,7 @@ Membership fee (per month) display header - Member fee (per month) - 会費（�
 Confirm payment page - Please enter your PIN to pay your […] membership fee. - 暗証番号を入力して[...]の会費をお支払いください
 Pay to renew successful page caption - You may continue enjoying your perks at […] - 続けて […]の会員特権を享受できます
 Home screen loyalty membership alert 1 - Your […] membership is due for renewal in 7 days. Please make sure you have sufficient wallet balance or MB Points. - […]の会員資格は7日後に更新されます。十分なウォレット残高またはMBポイントを確保してください。
-
-
+Confirm payment page caption - Please enter your PIN to confirm your payment for […] voucher. - 暗証番号を入力して […]のクーポンの購入をご確認ください。
+Purchase member price in-store voucher page voucher already used  - You have already purchased and used this voucher. - このクーポンはすでに利用されました。。
+Voucher bundle panel header - Vouchers You Will Receive - 受け取れるクーポン
+Onboarding referral page Label - Let’s Redeem! - 特典を引換えましょう！
