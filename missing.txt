@@ -1,3 +1,4 @@
+
 Self Pick Up
 User location button-{{User location}}-{{利用者の位置情報}}
 User location permission modal caption-Allow “MediaBank” to use your location? Discover stores near you when you share your location.-MediaBankに位置情報の使用を許可しますか？許可すると、近くにあるお店が発見できます。
@@ -84,3 +85,185 @@ Payment switch button 1	Pay with wallet	ウォレットで支払う
 Payment switch button 2	Pay with MB Point	MBポイントで支払う
 Pay with BoltPoint amount payable display	Amount Payable	利用できる金額
 Pay button	Pay […]	 […]を支払う
+=======
+Voucher quantity display - … and […] more - … と […] 枚
+Voucher expire date display label - Expires On - 有効期限
+In-Store voucher detail product voucher expand button - View All Vouchers - すべてのクーポンを表示
+Clear Filters button - Clear Filters - 絞り込み設定をクリア
+Voucher already used alert - You have already claimed and used this voucher. - このクーポンはすでに利用されました。
+Confirm payment caption - Please enter your PIN to confirm your payment for {{brand}}’s $[…] {{product}} voucher. - 暗証番号を入力して{{ブランド}}の{{商品}}に利用できる￥[…] 円のクーポンをお支払いください。
+Used purchased voucher alert - You have already purchased and used this voucher. - このクーポンはすでに利用されました。
+Loyalty program exclusive display label - […] Exclusive - […] 会員限定
+Additional terms alert - Please note! Additional terms may apply. Confirm with the staff member before use - ご注意！その他の条件が適用される場合もありますので、使用前にスタッフにご確認ください。
+Number of vouchers to redeem field caption - Key in the number of vouchers you wish to redeem. - 引換えたいクーポンの数をご入力ください
+Redeem voucher swipe or QR page caption - Show this QR code to the staff member or swipe the bar below to redeem this voucher. - このQRコードを係員にご提示いただくか、下記のボタンをスワイプしてクーポンをお引換ください。
+Swipe bar label - Swipe right to redeem - 右にスワイプして引換
+Redeem voucher pop-up header - Confirm Redemption - 引換確認
+Redeem voucher pop-up caption - Would you like to redeem […]x {{voucher name}} at {{store}}? - {{store店舗名}}で[…]x{{voucher name割引券名}}を引換えますか
+No, change store button - No, Change Store - 店舗を変更
+Yes, Redeem button - Yes, Redeem - 引換
+Voucher already claimed alert - You have already claimed and used this voucher. - このクーポンはすでに利用されました。
+Top Up BoltPay shortcut button - Charge wallet - ウォレットにチャージ
+Send page note field caption -  […] characters remaining -  あと[…]文字入力できます
+Request access to contact pop-up label - “MediaBank” Would Like to Access Your Contacts - 「MediaBank」は連絡先にアクセスしようとしています。
+Request access to contact pop-up caption - See which of your contacts are on MediaBank so you do not have to enter their number manually when sending them money. - 連絡先の中でMediaBankを利用している人がわかると、相手の番号を入力せずに送金できます。
+Request access to contact pop-up reject button - Don’t Allow - 許可なし
+Select recipient page - To select a recipient from your Contact, allow MediaBank to access your Contacts in Settings > Privacy > Contacts. - 連絡先から受取人を選択するには、「設定」＞「プライバシー」＞「連絡先」でMediaBankに連絡先へのアクセスを許可してください。
+Alert message 1 - You may still send funds by keying a phone number in the search bar. - 検索欄に電話番号を入力して送金することもできます。
+Alert message 2 - This number does not belong to any of your contacts, but you may still send the owner money using wallet. - この番号はどの連絡先にも属していませんが、ウォレットを使用して送金することはできます。
+Send button - Send to […] - […]に送金
+Turn on flash  action button - Turn Flash On - フラッシュをオンにしてください
+No QR code detected alert - No QR code detected. - QRコードが識別できません
+Request access to camera pop-up shortcut button to Settings - Settings - 設定
+Send successful page caption - You have sent $ […] to […] -  […]宛てに￥ […]円を送金しました
+Transaction time - {{date}}, {{time}} - {{日付}}, {{時間}}
+Receive successful page header - Received - 受け取った金額
+Receive successful page caption - You have received $ […] from {{user}} - {{ユーザー}}から […] 円を受け取りました
+Receive successful page note from sender - {{note}} - {{備考}}
+LetsBolt money received system notification header - MediaBank Wallet - MediaBankのウォレット
+LetsBolt Money received notification label - Money Received - 受け取った金額
+LetsBolt Money received notification caption - You have received money from […] users while MediaBank app was closed - MediaBankのアプリが閉じられた際に、[…]ユーザーからお金を受け取りました
+Receive successful page header - Received - 受領
+Carousel caption - […] of […] - […] の […]（Ａof B =BのＡ）
+Loyalty program listing page message - Yay! You have saved ~$ […] - やりました！~[…]円を節約できました。
+Joined loyalty program card estimated savings display - Estimated Saving: $ […] - 予測される節約額：[…]円
+Joined loyalty program card join date - Member since {{date}} - 会員開始日 {{date}}
+Joined loyalty program card renewal date - Auto-renew on {{date}} - 自動更新日 {{date}}
+Joined loyalty program card price display - From $ […] /month - ￥ […]円 /月から
+Available loyalty program card potential savings display - Potential Savings: $ […] - 潜在的な節約額：[…]円
+Voucher tab voucher card amount discount label - $ […] Off - ￥ […]円OFF
+View button - View - 表示
+Distance and time display - […] km | […] min - […] km | […] 分
+Pay with BoltPay switch button - Pay with wallet - ウォレットで支払う
+Pay with BoltPoints switch button - Pay with MB Points - MBポイントで支払う
+BoltPay payable display label - Amount Payable - 利用可能な金額
+BoltPoints payable display label - MB Points Payable - 利用可能なポイント
+Pay button - Pay […] - […]を支払う
+Join successful page header - Joined Successfully - 入会完了
+Cancel membership popup header - Cancel Membership? - 退会しますか？
+Renew membership page expire date display - Expired On {{date}} - 失効日{{日付}}
+Renew membership page details tab expire date display - Expire On - 有効期限
+Renew membership alert - Renew your membership before it expires on {{date}} to continue enjoying your perks - 会員特権を継続して享受するために、 {{date}} までに会員資格を更新してください
+Renewal successful page header - Renewed Successfully - 更新完了
+Renewal successful page caption - You have renewed your membership at […]. - […]の会員資格を更新できました
+Membership fee (per month) display header - Member fee (per month) - 会費（月額）
+Confirm payment page - Please enter your PIN to pay your […] membership fee. - 暗証番号を入力して[...]の会費をお支払いください
+Pay to renew successful page caption - You may continue enjoying your perks at […] - 続けて […]の会員特権を享受できます
+Home screen loyalty membership alert 1 - Your […] membership is due for renewal in 7 days. Please make sure you have sufficient wallet balance or MB Points. - […]の会員資格は7日後に更新されます。十分なウォレット残高またはMBポイントを確保してください。
+Confirm payment page caption - Please enter your PIN to confirm your payment for […] voucher. - 暗証番号を入力して […]のクーポンの購入をご確認ください。
+Purchase member price in-store voucher page voucher already used  - You have already purchased and used this voucher. - このクーポンはすでに利用されました。。
+Voucher bundle panel header - Vouchers You Will Receive - 受け取れるクーポン
+Enter the country code before your phone number - 電話番号の前に国番号をご入力ください。
+Toh Su Shing Genevieve	例：田中　太郎
+hellomynameisgenevieve@gmail.com -	例：ex.taro.tanaka@gmail.com
+“MediaBank” Would Like to Access the Camera	-「MediaBank」がカメラにアクセスしようとしています
+Allow MediaBank to access your camera to scan QR codes for payments and fund transfers. - 	QRコードをスキャンしてお支払いや資金移動できるようにカメラにアクセスする権限をMediaBankに付与する。
+Don’t Allow -	許可しない
+This is not a valid phone number - 有効な電話番号ではありません。
+Wallet PIN	- ウォレットの暗証番号
+View Transaction- 取引履歴を確認
+Reset Type Filter	- 絞り込みを解除
+Last 3 Days -	過去3日間
+Last 7 Days	- 過去7日間
+Reset Date Filter	- 絞り込みを解除
+To {{merchant}} - {{加盟店名}}
+{{merchant address}} - {{加盟店の住所}}
+{{date, time}} - 	{{日付、時間}}
+To {{user}} -	受取人は {{ユーザー}}
+Item description	-   商品名
+Qty	-   数量
+Tax	-   税金
+Refund	-   返金
+by {{merchant}} -   {{加盟店名}}
+{{merchant address}}	-   {{加盟店の住所}}
+Service fee -	サービス料
+Amount Refunded	-   返金額
+MB Points Refunded	-   返されたMBポイント
+Member Savings	-   プロモーション
+View Refund	-   返金詳細を表示
+View Original Payment	-   元の決済詳細を表示
+Redemption	-   商品引換
+You have redeemed	-   次の商品を引換しました
+{{quantity}}x {{product}}	-   {{数}}x {{商品名}}
+at {{store}}    -   {{店舗名}}
+{{store address}}	-   {{店舗の住所}}
+[…] Points	-   […]ポイント
+to […]	-   対象店舗は[…]
+For Loyalty Program membership fee	-   ロイヤリティプログラム会費として
+Amount paid	-   支払った金額
+MB Points Paid	-   支払ったMBポイント
+for {{quantity}}x {{voucher name}}	 -  用途は{{割引券名}} x {{数}}
+Member Savings	-   プロモーション
+Voucher Received	-   受け取ったクーポン
+Quantity	-   数量
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 2f2ecb07c4de29d1a199ede0f1685e3a6fa1886b
