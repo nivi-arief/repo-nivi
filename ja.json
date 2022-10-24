@@ -1,9 +1,9 @@
-{
+
   "menu": {
     "home": "ホーム",
     "top_up": "チャージ",
     "scan": "スキャン",
-    "wallet": "財布",
+    "wallet": " ウォレット",
     "scan_shortcut": "スキャン",
     "send": "送る",
     "receive": "受け取る",
@@ -61,8 +61,8 @@
     "reset_message": "入力された情報の中で、少なくとも1つが正しくありません。再試行するか、サポートセンターにお問い合わせください。",
     "message": "アカウントを登録するには、電話番号を入力してください。確認のためワンタイムパスワードをお送りします。",
     "email_invalid": "有効なメールアドレスではありません。",
-    "email_required": "メールアドレス必須！",
-    "name_required": "お名前必須！",
+    "email_required": "メールアドレスは必須です",
+    "name_required": "氏名は必須です",
     "min_2_character": "短すぎます。最小の長さは 2 です!",
     "max_50_character" : "長すぎます。最大長は 50 です!",
     "button": {
@@ -77,7 +77,7 @@
       "opt_in_to": "{{target}}にオプトインします",
       "email_sms": "電子メールとSMSマーケティング",
       "sms": "SMSマーケティング",
-      "email": "Eメール",
+      "email": "メールアドレス",
       "set_wallet_pin": "ウォレットの暗証番号を設定する",
       "login": "ログイン",
       "continue": "継続する",
@@ -89,7 +89,7 @@
       "account_information": "アカウント情報"
     },
     "referral": {
-      "title": "照会",
+      "title": "紹介",
       "caption_1": "特典を引換えましょう！",
       "caption_2": "紹介コードをお持ちでしょうか。",
       "label": "手動でコードを入力",
@@ -190,7 +190,7 @@
     "label": {
       "birthday": "誕生日",
       "gender": "性別",
-      "male": "男",
+      "male": "男性",
       "female": "女性",
       "save": "プロファイルを保存"
     },
@@ -207,7 +207,7 @@
       "language": "言語"
     },
     "form": {
-      "name": "名前",
+      "name": "氏名",
       "email_addr": "メールアドレス",
       "email": "メール",
       "postal_code": "郵便番号",
@@ -345,12 +345,12 @@
   },
   "order": {
     "history": "注文履歴",
-    "active": "進行中",
-    "inactive": "非活性",
+    "active": "有効",
+    "inactive": "無効",
     "closed": "完了済み",
 
     "closed": "閉じる",
-    "status": {
+    "status": "ステータス",{ 
       "rejected": "受け付けられませんでした",
       "waiting": {"text": "待っている", "desc": "お店側の受注待ち"},
       "pickup": "で拾います",
@@ -469,7 +469,7 @@
     "payment_method": "支払方法",
     "perks": "会員特権",
     "join_brand": "{{brand}}に参加",
-    "referral": "友人からご紹介",
+    "referral": "紹介",
     "referral_text": "どなたかに{{brandname}}へ招待されましたか？その方の電話番号を入力して、お二人ともを受け取れます！",
     "referral_code": "紹介コード",
     "submit_referral": "紹介コードを送信",
@@ -520,7 +520,7 @@
     "unused_value": "未使用の値は返されません",
     "back_to_cart": "カートに戻ります"
   },
-  "pin": {
+  "pin": "暗証番号",{
     "join_fee": "暗証番号を入力して {{name}} の入会費の支払いをご確認ください",
     "cancel_membership": "暗証番号を入力して {{name}}から退会の確認をしてください",
     "renew_membership": "暗証番号を入力して {{name}}の会員資格を更新してください。",
@@ -605,7 +605,7 @@
       "change_brandpay": "{{brandpay}}ピンを変更します",
       "open_map": "地図を開く",
       "view_stores": "絞り込む",
-      "date": "日にち",
+      "date": "日付",
       "type": "タイプ",
       "set_location": "場所を設定します",
       "change_location": "地域を変更",
@@ -708,8 +708,8 @@
   "brand": {
     "app": "Mediabank",
     "pay": "ウォレット",
-    "wallet": "ウォレット",
-    "amount": "額",
+    "wallet": " ウォレット",
+    "amount": " 金額",
     "walletpoint": "ウォレットと MB ポイント",
     "point": "Mediabankポイント",
     "mini_point": "MBポイント",
