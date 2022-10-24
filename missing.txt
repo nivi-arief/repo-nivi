@@ -199,77 +199,118 @@ Quantity	-   数量
 $ […]   -	[…]円
 $ 0.00	-   ￥0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 2f2ecb07c4de29d1a199ede0f1685e3a6fa1886b
+===============
+MK	 	-	 MK
+Customer ID :-お客様ID：
+Contact Information	- 連絡先
+Mobile Number - 携帯番号
+Location - 所在地
+Postal Code - 郵便番号
+Join date - 登録日付
+Status: Active / Inactive - ステータス：有効/無効
+To Deactivate it, click the button below - 無効にするには、次のボタンをクリックしてください
+Deactivate	- 無効にする
+Promotion - プロモーション
+Create - 新規作成
+Promotion Information - プロモーション詳細
+Headline Promotion*	- 見出し*
+Enter the headline -   見出しを入力
+Publish Date* -  公開日*
+Choose a date & time - 日時を選択
+End Date* - 終了日
+Choose a date & time - 日時を選択
+Description*- 詳細＊
+0/140 -  0/140
+Target Promotion -  プロモーションの対象者
+Brand - ブランド
+Outlet - 販売チャネル
+Store - 店舗
+Choose with target that fit with this promotion	- このプロモーションを適用できる対象者を選択
+Status: Active /Inactive - ステータス：有効/無効
+To Inactive  it, click the button below	- 無効にするには、次のボタンをクリックしてください
+Inactive - 無効にする
+Banner Image* - バナーのイメージ図＊
+Drag ‘n’ drop the image or click to select an image. - 画像をこちらにドラッグしてアップロード、またはクリックして画像を選択
+Minimum resolution for best view is 343x172. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted. - 最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 
+Banner -	バナー
+Create -	新規作成
+Banner Information -	バナー詳細
+Banner name* -	バナー名
+Demo Banner one -	デモバナー1
+Status: Active -	ステータス：有効
+To Deactivate it, click the button below -	無効にするには、次のボタンをクリックしてください
+Banner Image* -	バナーのイメージ図＊
+Drag ‘n’ drop the image or click to select an image. -	画像をこちらにドラッグしてアップロード、またはクリックして画像を選択
+Minimum resolution for best view is 375x310. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted. -	最適な解像度は375x310以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。
+Image can't be empty -	イメージ図は必須です
+Confirmation -	確認
+Are you sure you want to exit from this page? -	本当にこのページを離れますか。
+Yes I am sure -	はい
+Cancel -	キャンセル
+Your changes is not saved yet. -	変更箇所はまだ保存されていません
+BOLT Setup -	設定
+Global Conversion Rate -	コンバージョン率
+Earn Logic -	付与ロジック
+Redeem Logic -	利用ロジック
+Earn 1 point per Point Spend -	1ポイント消費につき1ポイントを取得できる
+Redeem 1 point per Point -	1ポイントを1ポイントに両替する
+WElcome Points -	ウェルカムポイント
+Set Welcome Points -	ウェルカムポイントを設定
+Welcome Points* -	ウェルカムポイント＊
+The additional point - added after customer success registration	お客様が登録完了した場合の贈呈ポイント
+Birthday Gift Points -	誕生日プレゼントポイント
+Set Birthday Gift Points* -	誕生日プレゼントポイントを設定＊
+The additional point added on the customer's birthday -	お客様の誕生日に贈呈するポイント
+Status：Deactivate -	ステータス：無効
+To active it, click the button below -	有効にするには、次のボタンをクリックしてください
+Active -	有効
+Voucher Type Details -	クーポン種類の詳細
+Voucher Name* -	クーポン名
+Brand* -	ブランド＊
+No brand selected -	ブランドが選択されていません
+Voucher Mode* -	クーポン種別＊
+Custom Voucher -	カスタムクーポン
+Bundling Voucher -	バンドルクーポン
+Single Voucher -	シングルクーポン
+Free Product Voucher -	無料商品クーポン
+Voucher Type -	クーポン種類
+Cash -	現金
+Cash Discount -	現金割引
+Percentage Discount -	割引の割合
+Between 0 and 100 -	0~100の間
+Product Name -	商品名
+Voucher Price* -	クーポン価格＊
+Voucher Criteria -	クーポン利用基準
+Member Only -	会員限定
+Self Pickup -	テイクアウト
+Discount -	割引
+Max. Purchase each campaign -	キャンペーンごとの最大購入額
+Max. Purchase each person -	一人当たりの最大購入額
+Campaign Start Date* -	キャンペーン開始日＊
+mm/dd/yyyy -	yyyy/mm/dd
+Campaign End Date* -	キャンペーン終了日＊
+Minimum Spend -	最低利用金額
+Outlets Specific -	チャネル指定
+No outlet specific -	チャネル指定なし
+Expiry days (Days/Months/Years)* -	"有効期限＊（年/月/日）"
+Save as a Draft -	下書き保存
+Upload Voucher Images -	クーポンのイメージ図をアップロード
+Select a few images up to 10 pictures to give the best attraction for the voucher. -	最大10枚の画像をアップロードできます。枚数が多いとクーポンの魅力が伝わりやすくなります。
+Voucher name -	クーポン名
+Voucher Type Id -	クーポン種類番号
+No file chosen -	まだファイルを選択していません
+Loyalty Program Details -	ロイヤリティプログラムの詳細
+Loyalty Program Name* -	ロイヤリティプログラム名
+Select Brands -	ブランドを選択
+Membership Type* -	会員種類＊
+MonthlyYearly -	月間 年間
+Joining Fee* -	入会費＊
+Renewal Fee* -	更新費＊
+Commission % Voucher -	クーポンのコミッション率％
+Commission % In App Purchase -	アプリで購入された場合のコミッション％
+Commission % In Store Purchase -	店舗で購入された場合のコミッション％
+Image -	画像＊
+*No file chosen -	ファイルが選択されていません＊
+Description -	説明
+Save as a Draft -	下書き保存
+Publish -	公開
