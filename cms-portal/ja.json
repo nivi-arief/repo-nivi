@@ -22,10 +22,10 @@
     "brands": "ブランド",
     "brand": "ブランド",
     "outlets": "アウトレット",
-    "outlet": "出口",
+    "outlet": "販売チャネル",
     "stores": "店舗",
     "stores_managers": "店舗とマネージャー",
-    "store": "店",
+    "store": "店舗",
     "branch": "ブランチ",
     "menu": "メニュー",
     "menu-child": {
@@ -56,7 +56,7 @@
     "send_notifications": "通知送信",
     "brandname_setup": "{{brandname}}セットアップ",
     "brandname_setup-child": {
-      "conversion": "グローバル変換率",
+      "conversion": "コンバージョン率",
       "welcome-point": "ウェルカムポイント",
       "birthday-gift": "誕生日プレゼントポイント"
     },
@@ -68,7 +68,7 @@
       "name": "名前",
       "role": "役割",
       "assigned_at": "で割り当てられます",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しいユーザーを作成します" },
     "label": {
@@ -79,8 +79,8 @@
       "managed_by": "{{role}} {{name}}で管理",
       "Super": "素晴らしい",
       "Brand": "ブランド",
-      "Outlet": "出口",
-      "Store": "店",
+      "Outlet": "販売チャネル",
+      "Store": "店舗",
       "placement": "配置"
     },
     "form": {
@@ -91,11 +91,11 @@
       "role": "役割",
       "gender": "性別",
       "place": "出生地",
-      "date": "生年月日",
+      "date": "誕生日",
       "email": "Eメール",
-      "mobile": "携帯電話番号",
+      "mobile": "携帯番号",
       "phone": "電話番号",
-      "location": "位置",
+      "location": "所在地",
       "address": "住所",
       "region": "領域",
       "area": "領域",
@@ -139,13 +139,13 @@
       "email": "Eメール",
       "address": "住所",
       "manager": "マネジャー",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しいブランドを作成します" },
     "label": {
       "search": "名前、電話、電子メール、住所、マネージャーで検索",
       "logo": "ロゴ",
-      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "logoDescription3": "最適なビューの最小解像度は{{resolution}}です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "name": "ブランド名",
@@ -154,7 +154,7 @@
       "phone_number": "電話番号",
       "business": "事業者登録番号",
       "remark": "述べる",
-      "location": "位置",
+      "location": "所在地",
       "address": "住所",
       "commision": "委員会",
       "voucher": "コミッション % バウチャー",
@@ -164,13 +164,13 @@
     "detail": {
       "manager": "マネージャー情報",
       "noManager": "マネージャーはまだ選択されていません",
-      "brand": "ブランド情報",
+      "brand": "ブランド",
       "name": "ブランド名",
       "email": "Eメール",
       "phone": "電話番号",
       "business": "事業者登録番号",
       "remark": "述べる",
-      "location": "位置",
+      "location": "所在地",
       "address": "住所",
       "comission": "委員会",
       "voucher": "Commision％バウチャー",
@@ -196,7 +196,7 @@
       "email": "Eメール",
       "address": "住所",
       "manager": "マネジャー",
-      "status": "状態"
+      "status": "状态"
     },
     "placeholder": {
       "outlet": "ブランドを選択してください",
@@ -210,12 +210,12 @@
       "name": "アウトレット名",
       "email": "Eメール",
       "logo": "ロゴ",
-      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "search": "名前、電話、電子メール、住所、マネージャーで検索",
       "address": "住所",
       "phone": "電話番号",
-      "location": "位置",
+      "location": "所在地",
       "map": "アウトレットの場所を選択します",
       "map2": "マーカーをドラッグして場所を設定します",
       "outlet": "ブランド",
@@ -230,7 +230,7 @@
       "email": "Eメール",
       "address": "住所",
       "manager": "マネジャー",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しいストアを作成します" },
     "label": {
@@ -242,12 +242,12 @@
       "phone_number": "電話番号",
       "tags": "タグ",
       "isAutoAccept": "店舗支払いの受け入れ",
-      "location": "位置",
+      "location": "所在地",
       "address": "住所",
-      "outlet": "出口",
-      "banner": "バナー画像",
+      "outlet": "販売チャネル",
+      "banner": "バナーのイメージ図＊",
       "bannerMax": "マックス。 1つの画像",
-      "bannerDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "bannerDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "bannerDescription2": "最高のビューの最小解像度は343 x 172です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "img": "画像",
       "imgMax": "マックス。 5つの画像",
@@ -280,7 +280,7 @@
     }
   },
   "categories": {
-    "columns": { "name": "種別名", "status": "状態" },
+    "columns": { "name": "種別名", "status": "状态" },
     "placeholder": {
       "category": "例: アメリカ、西洋、日本など",
       "tag": "例: 動きの速い、人気のある、トレンディなど"
@@ -288,7 +288,7 @@
     "buttons": { "new": "新しいカテゴリを作成します" }
   },
   "tags": {
-    "columns": { "name": "タグ名", "status": "状態" },
+    "columns": { "name": "タグ名", "status": "状态" },
     "buttons": { "new": "新しいタグを作成します" }
   },
   "menu-list": {
@@ -339,48 +339,48 @@
       "category": "カテゴリー",
       "brand": "ブランド",
       "unit_price": "単価",
-      "status": "状態"
+      "status": "状态"
     }
   },
   "customers": {
     "columns": {
       "name": "名前",
-      "mobile": "携帯電話番号",
+      "mobile": "携帯番号",
       "email": "Eメール",
       "gender": "性別",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しいユーザーを作成します", "back": "戻る" },
     "label": {
       "filter": "ステータスごとにフィルター",
       "search": "名前、電話番号、電子メール",
-      "male": "男",
+      "male": "男性",
       "female": "女性",
-      "status": "状態",
-      "deactivate": "無効にします",
-      "inactive": "非活性",
-      "active": "アクティブ",
+      "status": "状态",
+      "deactivate": "無効にする",
+      "inactive": "無効にする",
+      "active": "有効",
       "status_info": "{{status}}に、下のボタンをクリックします",
       "detail": "詳細",
       "users": "ユーザー"
     },
     "detail": {
-      "account_information": "口座情報",
+      "account_information": "アカウント情報",
       "customer_id": "顧客ID",
       "gender": "性別",
       "contact_information": "連絡先",
       "email": "Eメール",
-      "date_of_birth": "生年月日",
-      "mobile_number": "携帯電話番号",
-      "location": "位置",
+      "date_of_birth": "誕生日",
+      "mobile_number": "携帯番号",
+      "location": "所在地",
       "address": "住所",
       "unit_number": "ユニット番号",
       "postal_code": "郵便番号",
-      "join_date": "参加日"
+      "join_date": "登録日付"
     },
     "modal": {
       "title": "確認",
-      "content": "よろしいですか？",
+      "content": "本当にこのページを離れますか？",
       "second_content": "この顧客？",
       "cancel": "キャンセル",
       "confirm": "私は確信しています"
@@ -389,9 +389,9 @@
   "promotions": {
     "columns": {
       "image": "バナー画像",
-      "headline": "ヘッドラインプロモーション",
+      "headline": "見出し",
       "publish_date": "オンに公開します",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": {
       "new": "新しいプロモーションを作成します",
@@ -403,42 +403,42 @@
     "label": {
       "filter": "ステータスごとにフィルター",
       "search": "名前、電話番号、電子メール",
-      "male": "男",
+      "male": "男性",
       "female": "女性",
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "detail": "詳細",
-      "promotion": "昇進",
+      "promotion": "プロモーション",
       "promotions": "プロモーション",
-      "outlet": "出口",
+      "outlet": "販売チャネル",
       "brand": "ブランド",
-      "store": "店",
-      "status": "状態",
-      "deactivate": "無効にします",
-      "inactive": "非活性",
-      "active": "アクティブ",
+      "store": "店舗",
+      "status": "状态",
+      "deactivate": "無効にする",
+      "inactive": "無効にする",
+      "active": "有効",
       "confirmation": "確認",
-      "promotion_information": "プロモーション情報",
+      "promotion_information": "プロモーション詳細",
       "news_information": "ニュース情報",
       "offering_information": "情報を提供します",
-      "target_promotion": "ターゲットプロモーション",
+      "target_promotion": "プロモーションの対象者",
       "brand_info": "選択したブランドに添付されたすべてのアウトレットと店舗に影響を与えます",
       "outlet_info": "選択したアウトレットとストアのみに影響します",
       "store_info": "選択したストアのみに影響します",
-      "choose_target": "このプロモーションに適合するターゲットを選択してください",
-      "headline_promotion": "見出しを入力します",
-      "choose_date": "日付と時刻を選択してください",
+      "choose_target": "このプロモーションを適用できる対象者を選択",
+      "headline_promotion": "見出しを入力",
+      "choose_date": "日時を選択",
       "choose_brand": "ブランドを選択してください",
       "choose_outlet": "アウトレットを選択してください",
       "choose_store": "店を選択してください",
       "status_info": "{{status}}に、下のボタンをクリックします",
-      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
-      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
+      "upload_additional_content": "最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
       "sucesss_create": "成功はプロモーションを作成します",
       "sucesss_update": "成功更新プロモーション",
       "failed_create": "プロモーションの作成に失敗しました",
       "failed_update": "プロモーションの更新に失敗しました",
-      "image_empty_error": "画像を空にすることはできません",
+      "image_empty_error": "イメージ図は必須です",
       "failed_fetch_placement": "フェッチの配置に失敗しました",
       "success_update_status_promotion": "成功更新ステータスプロモーション",
       "failed_update_status_promotion": "更新ステータスプロモーションに失敗しました",
@@ -446,21 +446,21 @@
       "subtitle": "サブタイトルを入力します"
     },
     "form": {
-      "headline_promotion": "ヘッドラインプロモーション",
+      "headline_promotion": "見出し*",
       "headline_offering": "見出しの提供",
       "headline_news": "ヘッドラインニュース",
-      "publish_date": "公開日",
-      "end_date": "終了日",
-      "description": "説明",
+      "publish_date": "公開日*",
+      "end_date": "終了日*",
+      "description": "詳細*",
       "subtitle": "字幕",
       "brand": "ブランド",
-      "outlet": "出口",
-      "store": "店",
-      "banner_image": "バナー画像"
+      "outlet": "販売チャネル",
+      "store": "店舗",
+      "banner_image": "バナーのイメージ図＊"
     },
     "modal": {
       "title": "確認",
-      "content": "このページから終了したいですか？",
+      "content": "本当にこのページを離れますか？",
       "second_content": "あなたの変更はまだ保存されていません。",
       "cancel": "キャンセル",
       "confirm": "はい、確かです",
@@ -470,41 +470,41 @@
   },
   "news": {
     "columns": {
-      "image": "バナー画像",
+      "image": "バナーのイメージ図＊",
       "headline": "ヘッドラインニュース",
       "publish_date": "オンに公開します",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しいニュースを作成します" },
     "label": {
       "filter": "ステータスごとにフィルター",
       "search": "名前、電話番号、電子メール",
-      "male": "男",
+      "male": "男性",
       "female": "女性",
       "preview": "プレビュー",
       "news_banner": "ニュースバナー",
-      "publish_date": "公開日",
+      "publish_date": "公開日*",
       "title": "題名",
       "article_desc": "記事の説明"
     }
   },
   "offering": {
     "columns": {
-      "image": "バナー画像",
+      "image": "バナーのイメージ図＊",
       "headline": "見出しの提供",
       "publish_date": "オンに公開します",
-      "status": "状態"
+      "status": "状态"
     },
     "buttons": { "new": "新しい製品を作成します" },
     "label": {
       "filter": "ステータスごとにフィルター",
       "search": "名前、電話番号、電子メール",
-      "male": "男",
+      "male": "男性",
       "female": "女性"
     }
   },
   "banners": {
-    "columns": { "image": "バナー画像", "name": "バナー名", "status": "状態" },
+    "columns": { "image": "バナー画像", "name": "バナー名", "status": "状态" },
     "buttons": {
       "new": "新しいバナーを作成します",
       "submit": "送信",
@@ -513,18 +513,18 @@
       "back": "戻る"
     },
     "label": {
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "banner": "バナー",
-      "banner_information": "バナー情報",
-      "status": "状態",
-      "active": "アクティブ",
+      "banner_information": "バナー詳細",
+      "status": "状态",
+      "active": "有効",
       "image": "画像",
       "max_1_image": "最大1画像",
       "max_x_images": "最大 {{total}} 枚の画像",
       "item_images": "アイテム画像",
       "menu_image": "メニュー画像",
-      "deactivate": "無効にします",
+      "deactivate": "無効にする",
       "banner_plaeholder": "バナー名を入力します",
       "status_info": "{{status}}に、下のボタンをクリックします",
       "banner_image_info": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
@@ -533,16 +533,16 @@
       "failed_create": "CREATE BANNERに失敗しました",
       "sucesss_update": "サクセスアップデートバナー",
       "failed_update": "バナーの更新に失敗しました",
-      "image_empty_error": "画像を空にすることはできません",
+      "image_empty_error": "イメージ図は必須です",
       "success_update_status_banner": "サクセスアップデートステータスバナー",
       "failed_update_status_banner": "更新ステータスバナーに失敗しました",
       "confirmation": "確認"
     },
-    "form": { "banner_name": "バナー名", "banner_image": "バナー画像" },
+    "form": { "banner_name": "バナー名", "banner_image": "バナーのイメージ図＊" },
     "modal": {
       "sure": "私は確信しています",
       "content": "このページから終了したいですか？",
-      "second_content": "あなたの変更はまだ保存されていません。",
+      "second_content": "変更箇所はまだ保存されていません",
       "content_deactivate": "よろしいですか？",
       "second_content_deactivate": "このバナー？"
     }
@@ -559,8 +559,8 @@
         "date": "日にち",
         "trx_type": "トランザクションタイプ",
         "trx_id": "トランザクションID",
-        "usertype_id": "顧客ID /マーチャントID（{{trx_type}}）",
-        "status": "状態",
+        "usertype_id": "お客様ID /マーチャントID（{{trx_type}}）",
+        "status": "状态",
         "amount": "額",
         "2c2p_trx_id": "2C2PトランザクションID",
         "refund_remarks": "払い戻し備考"
@@ -572,10 +572,10 @@
         "trx_type": "トランザクションタイプ",
         "trx_id": "トランザクションID",
         "brand": "ブランド",
-        "outlet": "出口",
+        "outlet": "販売チャネル",
         "store": "お店",
         "customer_id": "顧客ID",
-        "status": "状態",
+        "status": "状态",
         "service_fee": "サービス料",
         "sub_total": "サブ合計",
         "not_valid_for_further_discount": "さらなる割引には無効です",
@@ -625,7 +625,7 @@
         "payment_type": "払いの種類",
         "payment_amount": "支払金額",
         "payment_point": "支払いポイント",
-        "status": "状態",
+        "status": "状态",
         "refund_reason": "払い戻し理由",
         "refund_on": "払い戻し",
         "refund_by": "払い戻し"
@@ -646,9 +646,9 @@
         "period": "限目",
         "period_range": "周期範囲",
         "brand": "ブランド",
-        "outlet": "出口",
-        "store": "店",
-        "status": "状態",
+        "outlet": "販売チャネル",
+        "store": "店舗",
+        "status": "状态",
         "master_table": "マスターテーブル"
       },
       "placeholder": {
@@ -691,7 +691,7 @@
         "point_used": "{{brandpoint}}使用されています",
         "point_redeem_rate": "{{brandpoint}}償還率",
         "loyalty_badge_discount": "ロイヤルティバッジ割引{{currencytext}}",
-        "status": "状態"
+        "status": "状态"
       },
       "options": {
         "master_trx": "マスタートランザクション",
@@ -710,12 +710,12 @@
         "badge": "バッジ",
         "brand": "ブランド",
         "trx_type": "トランザクションタイプ",
-        "outlet": "出口",
+        "outlet": "販売チャネル",
         "store": "お店",
         "timestamp": "タイムスタンプ",
         "trx_id": "トランザクションID",
         "user_id": "ユーザーID",
-        "status": "状態"
+        "status": "状态"
       }
     },
     "voucher": {
@@ -723,7 +723,7 @@
         "timestamp": "タイムスタンプ",
         "trx_type": "トランザクションタイプ",
         "brand": "ブランド",
-        "outlet": "出口",
+        "outlet": "販売チャネル",
         "store": "お店",
         "trx_id": "トランザクションID",
         "user_id": "ユーザーID",
@@ -795,12 +795,12 @@
       "message_placeholder": "通知メッセージを入力します",
       "message_hint": "ブラウザからテキストをコピーすると、乱雑なレイアウトが発生します。",
       "schedule_placeholder": "日付と時刻を選択します",
-      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
-      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
+      "upload_additional_content": "最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
       "sucesss_create": "成功通知を作成します",
       "failed_create": "CREATE通知に失敗しました",
       "failed_fetch_notification": "フェッチの詳細notifに失敗しました",
-      "image_empty_error": "画像を空にすることはできません"
+      "image_empty_error": "イメージ図は必須です"
     },
     "form": {
       "subject": "主題",
@@ -811,20 +811,20 @@
     },
     "modal": {
       "confirmation": "確認",
-      "exit_content": "このページから終了したいですか？",
-      "exit_second_content": "あなたの変更はまだ保存されていません。"
+      "exit_content": "本当にこのページを離れますか？",
+      "exit_second_content": "変更箇所はまだ保存されていません。"
     }
   },
   "setup": {
     "label": {
-      "earn_logic": "ロジックを獲得します",
+      "earn_logic": "付与ロジック",
       "redeem_logic": "ロジックを引き換えます",
       "earn_point_per": "あたり1ポイントを獲得します",
       "redeem_point_per": "に1ポイントを引き換えます",
-      "set_welcome_point": "ウェルカムポイントを設定します",
-      "desc_welcome_point": "顧客の成功登録後に追加された追加ポイント",
+      "set_welcome_point": "ウェルカムポイント＊",
+      "desc_welcome_point": "お客様が登録完了した場合の贈呈ポイント",
       "set_birthday_point": "誕生日ポイントを設定します",
-      "desc_birthday_point": "顧客の誕生日に追加された追加ポイント"
+      "desc_birthday_point": "お客様の誕生日に贈呈するポイント"
     },
     "placeholder": {
       "earn_point": "入力獲得ポイント",
@@ -935,9 +935,9 @@
       "footer": "©{{year}} {{brandname}}。 全著作権所有",
       "status": {
         "all": "全て",
-        "active": "アクティブ",
-        "inactive": "非活性",
-        "status": "状態",
+        "active": "有効",
+        "inactive": "無効にする",
+        "status": "状态",
         "target_status": "これは{{target}}です：{{status}}",
         "status_cancel": "ステータスキャンセル",
         "reason_cancel": "理由キャンセル"
@@ -955,7 +955,7 @@
       "to_status_click": "{{status}}に、下のボタンをクリックします",
       "status_confirmation": "{{status}}この{{target}}を{0}したいですか？",
       "edit": "編集",
-      "create": "作成",
+      "create": "新規作成",
       "optional": "オプション",
       "detail": "詳細",
       "confirmation": "確認",
@@ -975,8 +975,8 @@
     "buttons": {
       "cancel_trx": "トランザクションをキャンセルします",
       "deactive": "無効にします",
-      "inactive": "非活性",
-      "active": "アクティブ",
+      "inactive": "無効",
+      "active": "有効",
       "search": "探す",
       "reset": "リセット",
       "submit": "送信",

@@ -1,2 +1,19 @@
 Username is a required - ユーザ名は必須です
 Enter your email and we'll send you instructions on how to reset your password. - パスワードをリセットするご案内をお送りしますので、メールアドレスを入力してください
+MK - MK
+To Deactivate it, click the button below - 無効にするには、次のボタンをクリックしてください
+0/140 - 0/140 -	0/140
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+Status: Active /Inactive	- ステータス：有効/無効
+Demo Banner one -	 デモバナー1
+Status: Active -ステータス：有効
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+Yes I am sure - はい
+BOLT Setup - 設定
+Redeem Logic  - 利用ロジック
+Earn 1 point per Point Spend - 1ポイント消費につき1ポイントを取得できる
+Redeem 1 point per Point -  	 1イントを1ポイントに両替する
+Set Birthday Gift Points* - 誕生日プレゼントポイントを設定＊
+Status：Deactivate - ステータス：無効
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+To active it, click the button below - 有効にするには、次のボタンをクリックしてください
