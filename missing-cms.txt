@@ -1,1 +1,2 @@
 Username is a required - ユーザ名は必須です
+Enter your email and we'll send you instructions on how to reset your password. - パスワードをリセットするご案内をお送りしますので、メールアドレスを入力してください

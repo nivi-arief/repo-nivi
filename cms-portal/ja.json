@@ -53,7 +53,7 @@
       "loyalty": "忠誠心",
       "voucher": "バウチャー"
     },
-    "send_notifications": "通知を送信します",
+    "send_notifications": "通知送信",
     "brandname_setup": "{{brandname}}セットアップ",
     "brandname_setup-child": {
       "conversion": "グローバル変換率",
