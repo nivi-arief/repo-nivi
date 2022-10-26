@@ -1,0 +1,1033 @@
+{
+  "login": {
+    "title": "ログイン",
+    "welcome": "いらっしゃいませ、",
+    "desc": "ようこそ、アカウントにログインしてください。",
+    "form": {
+      "username": "ユーザー名",
+      "password": "パスワード",
+      "forgot_password": "パスワードをお忘れですか？",
+      "login": "ログイン",
+      "loading": "読み込み..."
+    },
+    "alert": {
+      "wrong_credential": "電子メールまたはパスワードが間違っています",
+      "unauthorized": "アクセスは許可されていません！"
+    }
+  },
+  "menu": {
+    "management": "管理",
+    "user": "ユーザー",
+    "admin": "管理者",
+    "brands": "ブランド",
+    "brand": "ブランド",
+    "outlets": "アウトレット",
+    "outlet": "出口",
+    "stores": "店舗",
+    "stores_managers": "店舗とマネージャー",
+    "store": "店",
+    "branch": "ブランチ",
+    "menu": "メニュー",
+    "menu-child": {
+      "categories": "カテゴリ",
+      "category": "カテゴリー",
+      "tags": "タグ",
+      "list": "メニューリスト"
+    },
+    "customers": "顧客",
+    "highlight": "ハイライト",
+    "highlight-child": {
+      "promotions": "プロモーション",
+      "news": "ニュース",
+      "offering": "募集"
+    },
+    "banners": "バナー",
+    "banner": "バナー",
+    "reports": "報告",
+    "reports-child": {
+      "wallets": "財布",
+      "sales": "取引販売",
+      "in-app-sales": "トランザクション販売（アプリの販売）",
+      "referral": "照会",
+      "settlement": "決済",
+      "loyalty": "忠誠心",
+      "voucher": "バウチャー"
+    },
+    "send_notifications": "通知を送信します",
+    "brandname_setup": "{{brandname}}セットアップ",
+    "brandname_setup-child": {
+      "conversion": "グローバル変換率",
+      "welcome-point": "ウェルカムポイント",
+      "birthday-gift": "誕生日プレゼントポイント"
+    },
+    "voucher": "バウチャー",
+    "product_trx_cancel": "製品TRXキャンセル"
+  },
+  "user": {
+    "columns": {
+      "name": "名前",
+      "role": "役割",
+      "assigned_at": "で割り当てられます",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しいユーザーを作成します" },
+    "label": {
+      "filter": "ステータスごとにフィルター",
+      "search": "名前、役割、で割り当てられた名前で検索します",
+      "title": "管理者情報",
+      "contact": "連絡先",
+      "managed_by": "{{role}} {{name}}で管理",
+      "Super": "素晴らしい",
+      "Brand": "ブランド",
+      "Outlet": "出口",
+      "Store": "店",
+      "placement": "配置"
+    },
+    "form": {
+      "upload_photo": "写真をアップする",
+      "upload_photo_note": "フォーマルプロファイルの写真を使用してください。 最良のビュー解像度は600 x 600です。",
+      "name": "フルネーム",
+      "username": "ユーザー名",
+      "role": "役割",
+      "gender": "性別",
+      "place": "出生地",
+      "date": "生年月日",
+      "email": "Eメール",
+      "mobile": "携帯電話番号",
+      "phone": "電話番号",
+      "location": "位置",
+      "address": "住所",
+      "region": "領域",
+      "area": "領域",
+      "postal": "郵便番号",
+      "security": "安全",
+      "password": "パスワード",
+      "password2": "確認パスワード",
+      "pin": "ピン",
+      "identity": "ID情報",
+      "idCardType": "IDカードタイプ",
+      "idCardNumber": "IDカード番号"
+    },
+    "detail": { "identity": "ID情報" },
+    "placeholder": {
+      "name": "フルネームを入力してください",
+      "username": "ユーザー名を入力します",
+      "role": "役割を選択してください",
+      "gender": "性別を選択してください",
+      "place": "例えば。 ジャカルタ、パレンバンなど",
+      "birth": "dd/mm/yyyy",
+      "email": "youremail@example.com",
+      "mobile": "例： +81xxxxxxxx",
+      "phoneNumber": "例： +81xxxxxxxx",
+      "address": "例：16 Sandilands Road Singapore",
+      "region": "地域を選択してください",
+      "area": "エリアを選択してください",
+      "zip": "郵便番号を入力します",
+      "password": "分でなければなりません。 6桁の英数字",
+      "password2": "パスワードと一致する必要があります",
+      "pin": "セット-8桁のピン",
+      "idCardType": "IDタイプを選択します",
+      "idCardNumber": "IDカード番号を入力します",
+      "target_email_address": "{{target}}のメールアドレス",
+      "target_phone_number": "{{target}}の電話番号"
+    }
+  },
+  "merchant": {
+    "columns": {
+      "name": "ブランド名",
+      "phone_number": "電話番号",
+      "email": "Eメール",
+      "address": "住所",
+      "manager": "マネジャー",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しいブランドを作成します" },
+    "label": {
+      "search": "名前、電話、電子メール、住所、マネージャーで検索",
+      "logo": "ロゴ",
+      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "logoDescription3": "最適なビューの最小解像度は{{resolution}}です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "name": "ブランド名",
+      "email": "Eメール",
+      "phoneNumber": "電話番号",
+      "phone_number": "電話番号",
+      "business": "事業者登録番号",
+      "remark": "述べる",
+      "location": "位置",
+      "address": "住所",
+      "commision": "委員会",
+      "voucher": "コミッション % バウチャー",
+      "inAppPurchase": "アプリ購入のコミッション％",
+      "inStorePurchase": "店舗購入中のコミッション％"
+    },
+    "detail": {
+      "manager": "マネージャー情報",
+      "noManager": "マネージャーはまだ選択されていません",
+      "brand": "ブランド情報",
+      "name": "ブランド名",
+      "email": "Eメール",
+      "phone": "電話番号",
+      "business": "事業者登録番号",
+      "remark": "述べる",
+      "location": "位置",
+      "address": "住所",
+      "comission": "委員会",
+      "voucher": "Commision％バウチャー",
+      "inAppPurchase": "アプリ購入のコミッション％",
+      "inStorePurchase": "店舗購入中のコミッション％"
+    },
+    "placeholder": {
+      "name": "ブランド名を入力します",
+      "email": "brand@example.com",
+      "phoneNumber": "例： +81xxxxxxxx",
+      "business": "3921491",
+      "remark": "ここに書いてください",
+      "address": "例：JL H. Juanda No. 18 ...",
+      "voucher": "パーセンテージを入力します",
+      "percentage": "パーセンテージを入力します"
+    }
+  },
+  "outlets": {
+    "parent": "アウトレットとマネージャー",
+    "columns": {
+      "name": "アウトレット名",
+      "phone_number": "電話番号",
+      "email": "Eメール",
+      "address": "住所",
+      "manager": "マネジャー",
+      "status": "状態"
+    },
+    "placeholder": {
+      "outlet": "ブランドを選択してください",
+      "name": "アウトレット名を入力します",
+      "email": "outlet@example.com",
+      "phoneNumber": "例： +81xxxxxxxx",
+      "address": "例：16 JL H. Juanda No. 18 ..."
+    },
+    "buttons": { "new": "新しいアウトレットを作成します", "back": "戻る" },
+    "label": {
+      "name": "アウトレット名",
+      "email": "Eメール",
+      "logo": "ロゴ",
+      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "search": "名前、電話、電子メール、住所、マネージャーで検索",
+      "address": "住所",
+      "phone": "電話番号",
+      "location": "位置",
+      "map": "アウトレットの場所を選択します",
+      "map2": "マーカーをドラッグして場所を設定します",
+      "outlet": "ブランド",
+      "outletInformation": "アウトレット情報"
+    }
+  },
+  "stores": {
+    "parent": "店舗とマネージャー",
+    "columns": {
+      "name": "店舗名",
+      "phone_number": "電話番号",
+      "email": "Eメール",
+      "address": "住所",
+      "manager": "マネジャー",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しいストアを作成します" },
+    "label": {
+      "search": "名前、電話、電子メール、住所、マネージャーで検索",
+      "storeInformation": "店舗情報",
+      "name": "店舗名",
+      "merchant_id": "販売者ID",
+      "email": "Eメール",
+      "phone_number": "電話番号",
+      "tags": "タグ",
+      "isAutoAccept": "店舗支払いの受け入れ",
+      "location": "位置",
+      "address": "住所",
+      "outlet": "出口",
+      "banner": "バナー画像",
+      "bannerMax": "マックス。 1つの画像",
+      "bannerDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "bannerDescription2": "最高のビューの最小解像度は343 x 172です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "img": "画像",
+      "imgMax": "マックス。 5つの画像",
+      "auto": "自動",
+      "manual": "マニュアル",
+      "openHours": "営業時間",
+      "sunday": "日曜日",
+      "monday": "月曜日",
+      "tuesday": "火曜日",
+      "wednesday": "水曜日",
+      "thursday": "木曜日",
+      "friday": "金曜日",
+      "saturday": "土曜日",
+      "open": "で開いています",
+      "close": "閉じます",
+      "closed": "閉まっている",
+      "optional": "オプション",
+      "smaller": "複数のオプションを選択できます。 マックス。 4タグ",
+      "download_qr": "QRコードをダウンロードします"
+    },
+    "placeholder": {
+      "merchant_id": "マーチャント ID を入力してください",
+      "outlet": "アウトレットを選択してください",
+      "name": "ブランチ名を入力します",
+      "email": "brand@example.com",
+      "phone_number": "例： +81xxxxxxxx",
+      "tags": "タグを選択します",
+      "categories": "カテゴリを選択",
+      "address": "例：16 JL H. Juanda No. 18 ..."
+    }
+  },
+  "categories": {
+    "columns": { "name": "種別名", "status": "状態" },
+    "placeholder": {
+      "category": "例: アメリカ、西洋、日本など",
+      "tag": "例: 動きの速い、人気のある、トレンディなど"
+    },
+    "buttons": { "new": "新しいカテゴリを作成します" }
+  },
+  "tags": {
+    "columns": { "name": "タグ名", "status": "状態" },
+    "buttons": { "new": "新しいタグを作成します" }
+  },
+  "menu-list": {
+    "label": {
+     "ready": "準備",
+     "not_ready": "準備ができていない",
+      "detail": "詳細メニュー",
+      "available": "利用可能なメニュー",
+      "choose_menu_store": "この店で利用可能なメニューを選択してください",
+      "search": "アイテムコード、製品名、カテゴリで検索します",
+      "choose_menu": "このメニューで{{name}}を選択します",
+      "choose_brand": "最初にブランドを選択してください",
+      "create_variant_first": "{{name}}はありません、最初にバリアントを作成してください",
+      "name": "{{target}}名前",
+      "library": "{{target}} ライブラリ",
+      "name_cannot_empty": "フィールド属性名は空になりません",
+      "option_cannot_empty": "フィールドオプションは空になりません",
+      "options": "オプション",
+      "option": "オプション",
+      "product_information": "製品情報",
+      "item_code": "アイテムコード",
+      "member_price": "会員価格",
+      "purchase_member": "メンバーのみで購入しますか？",
+      "attribute_name": "属性名",
+      "hideshow": "非表示 /表示",
+      "show": "表示",
+      "hide": "非表示",
+      "default": "デフォルト",
+      "price_change": "価格の変化",
+      "variation": "変化",
+      "variant": "バリアント",
+      "addon": "アドオン",
+      "you_can_choose_multiple": "複数のオプションを選択できます"
+    },
+    "placeholder": {
+      "name": "{{target}}名を入力します",
+      "target": "{{target}}を入力します"
+    },
+    "buttons": {
+      "new": "新しいメニューを作成します",
+      "new_target": "新しい{{target}}を作成する",
+      "new_option": "新しいオプションを追加します",
+      "add_attr": "属性を追加します"
+    },
+    "columns": {
+      "item": "アイテムコード",
+      "name": "商品名",
+      "category": "カテゴリー",
+      "brand": "ブランド",
+      "unit_price": "単価",
+      "status": "状態"
+    }
+  },
+  "customers": {
+    "columns": {
+      "name": "名前",
+      "mobile": "携帯電話番号",
+      "email": "Eメール",
+      "gender": "性別",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しいユーザーを作成します", "back": "戻る" },
+    "label": {
+      "filter": "ステータスごとにフィルター",
+      "search": "名前、電話番号、電子メール",
+      "male": "男",
+      "female": "女性",
+      "status": "状態",
+      "deactivate": "無効にします",
+      "inactive": "非活性",
+      "active": "アクティブ",
+      "status_info": "{{status}}に、下のボタンをクリックします",
+      "detail": "詳細",
+      "users": "ユーザー"
+    },
+    "detail": {
+      "account_information": "口座情報",
+      "customer_id": "顧客ID",
+      "gender": "性別",
+      "contact_information": "連絡先",
+      "email": "Eメール",
+      "date_of_birth": "生年月日",
+      "mobile_number": "携帯電話番号",
+      "location": "位置",
+      "address": "住所",
+      "unit_number": "ユニット番号",
+      "postal_code": "郵便番号",
+      "join_date": "参加日"
+    },
+    "modal": {
+      "title": "確認",
+      "content": "よろしいですか？",
+      "second_content": "この顧客？",
+      "cancel": "キャンセル",
+      "confirm": "私は確信しています"
+    }
+  },
+  "promotions": {
+    "columns": {
+      "image": "バナー画像",
+      "headline": "ヘッドラインプロモーション",
+      "publish_date": "オンに公開します",
+      "status": "状態"
+    },
+    "buttons": {
+      "new": "新しいプロモーションを作成します",
+      "cancel": "キャンセル",
+      "submit": "送信",
+      "back": "戻る",
+      "sure": "私は確信しています"
+    },
+    "label": {
+      "filter": "ステータスごとにフィルター",
+      "search": "名前、電話番号、電子メール",
+      "male": "男",
+      "female": "女性",
+      "create": "作成",
+      "edit": "編集",
+      "detail": "詳細",
+      "promotion": "昇進",
+      "promotions": "プロモーション",
+      "outlet": "出口",
+      "brand": "ブランド",
+      "store": "店",
+      "status": "状態",
+      "deactivate": "無効にします",
+      "inactive": "非活性",
+      "active": "アクティブ",
+      "confirmation": "確認",
+      "promotion_information": "プロモーション情報",
+      "news_information": "ニュース情報",
+      "offering_information": "情報を提供します",
+      "target_promotion": "ターゲットプロモーション",
+      "brand_info": "選択したブランドに添付されたすべてのアウトレットと店舗に影響を与えます",
+      "outlet_info": "選択したアウトレットとストアのみに影響します",
+      "store_info": "選択したストアのみに影響します",
+      "choose_target": "このプロモーションに適合するターゲットを選択してください",
+      "headline_promotion": "見出しを入力します",
+      "choose_date": "日付と時刻を選択してください",
+      "choose_brand": "ブランドを選択してください",
+      "choose_outlet": "アウトレットを選択してください",
+      "choose_store": "店を選択してください",
+      "status_info": "{{status}}に、下のボタンをクリックします",
+      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "sucesss_create": "成功はプロモーションを作成します",
+      "sucesss_update": "成功更新プロモーション",
+      "failed_create": "プロモーションの作成に失敗しました",
+      "failed_update": "プロモーションの更新に失敗しました",
+      "image_empty_error": "画像を空にすることはできません",
+      "failed_fetch_placement": "フェッチの配置に失敗しました",
+      "success_update_status_promotion": "成功更新ステータスプロモーション",
+      "failed_update_status_promotion": "更新ステータスプロモーションに失敗しました",
+      "failed_fetching_data": "データの取得に失敗しました",
+      "subtitle": "サブタイトルを入力します"
+    },
+    "form": {
+      "headline_promotion": "ヘッドラインプロモーション",
+      "headline_offering": "見出しの提供",
+      "headline_news": "ヘッドラインニュース",
+      "publish_date": "公開日",
+      "end_date": "終了日",
+      "description": "説明",
+      "subtitle": "字幕",
+      "brand": "ブランド",
+      "outlet": "出口",
+      "store": "店",
+      "banner_image": "バナー画像"
+    },
+    "modal": {
+      "title": "確認",
+      "content": "このページから終了したいですか？",
+      "second_content": "あなたの変更はまだ保存されていません。",
+      "cancel": "キャンセル",
+      "confirm": "はい、確かです",
+      "content_deactivate": "よろしいですか？",
+      "second_content_deactivate": "このバナー？"
+    }
+  },
+  "news": {
+    "columns": {
+      "image": "バナー画像",
+      "headline": "ヘッドラインニュース",
+      "publish_date": "オンに公開します",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しいニュースを作成します" },
+    "label": {
+      "filter": "ステータスごとにフィルター",
+      "search": "名前、電話番号、電子メール",
+      "male": "男",
+      "female": "女性",
+      "preview": "プレビュー",
+      "news_banner": "ニュースバナー",
+      "publish_date": "公開日",
+      "title": "題名",
+      "article_desc": "記事の説明"
+    }
+  },
+  "offering": {
+    "columns": {
+      "image": "バナー画像",
+      "headline": "見出しの提供",
+      "publish_date": "オンに公開します",
+      "status": "状態"
+    },
+    "buttons": { "new": "新しい製品を作成します" },
+    "label": {
+      "filter": "ステータスごとにフィルター",
+      "search": "名前、電話番号、電子メール",
+      "male": "男",
+      "female": "女性"
+    }
+  },
+  "banners": {
+    "columns": { "image": "バナー画像", "name": "バナー名", "status": "状態" },
+    "buttons": {
+      "new": "新しいバナーを作成します",
+      "submit": "送信",
+      "cancel": "キャンセル",
+      "sure": "はい、確かです",
+      "back": "戻る"
+    },
+    "label": {
+      "create": "作成",
+      "edit": "編集",
+      "banner": "バナー",
+      "banner_information": "バナー情報",
+      "status": "状態",
+      "active": "アクティブ",
+      "image": "画像",
+      "max_1_image": "最大1画像",
+      "max_x_images": "最大 {{total}} 枚の画像",
+      "item_images": "アイテム画像",
+      "menu_image": "メニュー画像",
+      "deactivate": "無効にします",
+      "banner_plaeholder": "バナー名を入力します",
+      "status_info": "{{status}}に、下のボタンをクリックします",
+      "banner_image_info": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "banner_image_additional_info": "最高のビューの最小解像度は375x310です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "sucesss_create": "成功はバナーを作成します",
+      "failed_create": "CREATE BANNERに失敗しました",
+      "sucesss_update": "サクセスアップデートバナー",
+      "failed_update": "バナーの更新に失敗しました",
+      "image_empty_error": "画像を空にすることはできません",
+      "success_update_status_banner": "サクセスアップデートステータスバナー",
+      "failed_update_status_banner": "更新ステータスバナーに失敗しました",
+      "confirmation": "確認"
+    },
+    "form": { "banner_name": "バナー名", "banner_image": "バナー画像" },
+    "modal": {
+      "sure": "私は確信しています",
+      "content": "このページから終了したいですか？",
+      "second_content": "あなたの変更はまだ保存されていません。",
+      "content_deactivate": "よろしいですか？",
+      "second_content_deactivate": "このバナー？"
+    }
+  },
+  "reports": {
+    "wallet": {
+      "label": {
+        "failed": "失敗した",
+        "success": "成功",
+        "pending": "保留中",
+        "insufficient_balance": "残高不足"
+      },
+      "columns": {
+        "date": "日にち",
+        "trx_type": "トランザクションタイプ",
+        "trx_id": "トランザクションID",
+        "usertype_id": "顧客ID /マーチャントID（{{trx_type}}）",
+        "status": "状態",
+        "amount": "額",
+        "2c2p_trx_id": "2C2PトランザクションID",
+        "refund_remarks": "払い戻し備考"
+      }
+    },
+    "sales": {
+      "columns": {
+        "date": "日にち",
+        "trx_type": "トランザクションタイプ",
+        "trx_id": "トランザクションID",
+        "brand": "ブランド",
+        "outlet": "出口",
+        "store": "お店",
+        "customer_id": "顧客ID",
+        "status": "状態",
+        "service_fee": "サービス料",
+        "sub_total": "サブ合計",
+        "not_valid_for_further_discount": "さらなる割引には無効です",
+        "loyalty_badge_member": "ロイヤルティバッジメンバー",
+        "loyalty_badge_discount": "ロイヤルティバッジ割引{{currencytext}}",
+        "voucher_id_used": "使用されるバウチャーID",
+        "voucher_name_used": "使用されるバウチャー名",
+        "voucher_value_used": "使用されるバウチャー値",
+        "point_used": "{{brandpoint}}使用されています",
+        "point_redeem_rate": "{{brandpoint}}償還率",
+        "point_used_symbol": "{{brandpoint}}使用（{{symbol}}）",
+        "currency": "通貨",
+        "payable_amount_using_brand_symbol": "{{brand.dollar}}（{{symbol}}）を使用した支払額",
+        "customer_earned_point": "顧客獲得{{brandpoint}}",
+        "voucher_fees": "バウチャー料金{{unit}}",
+        "marketplace_self_pickup_fees": "マーケットプレイスセルフピックアップ料金（{{unit}}）",
+        "e-wallet_fees": "{{brandname}} e-wallet料金（{{unit}}）",
+        "merchant_tackback": "マーチャントタックバック（{{unit}}）",
+        "merchant_holdback": "マーチャントホールドバック（{{unit}}）",
+        "self_pickup_completion_timestamp": "セルフピックアップ完了タイムスタンプ",
+        "cancellation_reason": "キャンセル理由",
+        "refund_reason": "払い戻し理由"
+      }
+    },
+    "inapp": {
+      "columns": {
+        "date": "日にち",
+        "trx_id": "トランザクションID",
+        "customer_id": "顧客ID",
+        "customer": "お客様",
+        "brand_id": "ブランドID",
+        "brand_name": "ブランド名",
+        "outlet_id": "アウトレットID",
+        "outlet_name": "アウトレット名",
+        "store_id": "IDを保存します",
+        "store_name": "店舗名",
+        "currency": "通貨",
+        "valid_for_further_discount": "さらなる割引に有効（{{unit}}）",
+        "not_valid_for_further_discount": "さらなる割引には無効です",
+        "total_price": "合計金額",
+        "total_member_price": "総会員価格",
+        "total_point": "合計ポイント",
+        "point_earned": "獲得したポイント",
+        "member_loyalty": "メンバーの忠誠心",
+        "loyalty_name": "ロイヤルティ名",
+        "voucher_id_used": "使用されるバウチャーID",
+        "payment_type": "払いの種類",
+        "payment_amount": "支払金額",
+        "payment_point": "支払いポイント",
+        "status": "状態",
+        "refund_reason": "払い戻し理由",
+        "refund_on": "払い戻し",
+        "refund_by": "払い戻し"
+      }
+    },
+    "referral": {
+      "columns": {
+        "customer_id": "顧客ID",
+        "activity_type": "アクティビティタイプ",
+        "customer_name": "顧客名",
+        "phone_number": "電話番号",
+        "referral_date_submission": "紹介日の提出",
+        "referral_text": "紹介テキスト"
+      }
+    },
+    "settlement": {
+      "label": {
+        "period": "限目",
+        "period_range": "周期範囲",
+        "brand": "ブランド",
+        "outlet": "出口",
+        "store": "店",
+        "status": "状態",
+        "master_table": "マスターテーブル"
+      },
+      "placeholder": {
+        "period": "ピリオド範囲を選択します",
+        "brand": "ブランドを選択します",
+        "outlet": "アウトレットを選択します",
+        "store": "ストアを選択します",
+        "status": "ステータスを選択します",
+        "master_table": "マスターテーブルを選択します"
+      },
+      "columns": {
+        "date": "日にち",
+        "trx_id": "トランザクションID",
+        "from_account_id": "account（id user）から",
+        "from_account_name": "アカウントから（名前）",
+        "to_account_id": "アカウント（IDユーザー）",
+        "to_account_name": "アカウント（名前）",
+        "total_amount": "合計金額",
+        "trx_detail_id": "トランザクション詳細ID",
+        "trx_type_amount": "トランザクションタイプの量",
+        "trx_worth_monetery_amount": "金融額に相当するトランザクション",
+        "wallet_trx_id": "ウォレットトランザクションID",
+        "from_account_prev_balance": "アカウントの前の残高から",
+        "from_customer_prev_balance": "顧客の前の残高から",
+        "wallet_trx_detail_id": "ウォレットトランザクションの詳細ID",
+        "wallet_trx_type": "ウォレットトランザクションタイプ",
+        "account_name": "アカウント名",
+        "point_trx_id": "ポイントトランザクションID",
+        "point_wallet_trx_id": "ポイントウォレットトランザクションID",
+        "amount_unit": "金額（{{unit}}）",
+        "amount": "額",
+        "refund_remarks": "払い戻し備考",
+        "service_fee": "サービス料",
+        "sub_total": "サブ合計",
+        "not_valid_for_further_discount": "さらなる割引には無効です",
+        "loyalty_badge_member": "ロイヤルティバッジメンバー",
+        "voucher_id_used": "使用されるバウチャーID",
+        "voucher_name_used": "使用されるバウチャー名",
+        "voucher_value_used": "使用されるバウチャー値",
+        "point_used": "{{brandpoint}}使用されています",
+        "point_redeem_rate": "{{brandpoint}}償還率",
+        "loyalty_badge_discount": "ロイヤルティバッジ割引{{currencytext}}",
+        "status": "状態"
+      },
+      "options": {
+        "master_trx": "マスタートランザクション",
+        "master_detail_trx": "マスターディテールトランザクション",
+        "master_pay_trx": "マスター{{brandpay}}トランザクション",
+        "master_detail_pay_trx": "マスターディテール{{brandpay}}トランザクション",
+        "master_point_trx": "マスター{{brandpoint}}トランザクション",
+        "master_detail_point_trx": "マスターディテール{{brandpoint}}トランザクション",
+        "all": "全て",
+        "settle": "解決",
+        "unsettle": "不安"
+      }
+    },
+    "loyalty": {
+      "columns": {
+        "badge": "バッジ",
+        "brand": "ブランド",
+        "trx_type": "トランザクションタイプ",
+        "outlet": "出口",
+        "store": "お店",
+        "timestamp": "タイムスタンプ",
+        "trx_id": "トランザクションID",
+        "user_id": "ユーザーID",
+        "status": "状態"
+      }
+    },
+    "voucher": {
+      "columns": {
+        "timestamp": "タイムスタンプ",
+        "trx_type": "トランザクションタイプ",
+        "brand": "ブランド",
+        "outlet": "出口",
+        "store": "お店",
+        "trx_id": "トランザクションID",
+        "user_id": "ユーザーID",
+        "campaign_id": "キャンペーンID",
+        "loyalty_member": "ロイヤルティメンバー",
+        "voucher_type": "バウチャータイプ",
+        "voucher_type_id": "バウチャータイプID",
+        "voucher_name": "バウチャー名",
+        "exclusive_product": "排他的な製品",
+        "voucher_price": "バウチャー価格（{{unit}}）",
+        "member_voucher_price": "メンバーバウチャー価格",
+        "qty": "量",
+        "subtotal": "小計",
+        "voucher_fees": "バウチャー料金{{unit}}",
+        "merchant_holdback": "マーチャントホールドバック（{{unit}}）",
+        "issued_bundle_voucher_id": "発行されたバンドルバウチャーID",
+        "issued_voucher_id": "発行されたバウチャーID",
+        "voucher_expiry_timestamp": "バウチャーの有効期限タイムスタンプ",
+        "voucher_id_used": "使用されるバウチャーID",
+        "count_of_voucher_use": "バウチャーの使用数",
+        "remaining_bundle_voucher": "残りのバンドルバウチャー",
+        "expired_voucher_id": "期限切れのバウチャーID",
+        "expired_voucher_value": "期限切れのバウチャー値（{{unit}}）",
+        "merchant_payout": "マーチャントペイアウト（{{unit}}）"
+      }
+    },
+    "label": {
+      "credit": "クレジット",
+      "debit": "デビット",
+      "failed": "失敗した",
+      "success": "成功",
+      "no": "いいえ",
+      "yes": "はい",
+      "pending": "保留中",
+      "insufficient_balance": "残高不足",
+      "top_up": "補充します",
+      "fund_transfer": "口座振替え",
+      "refund": "返金",
+      "in_app_sales": "アプリの販売",
+      "in_store_sales": "店舗販売",
+      "loyalty_membership_renewal": "ロイヤルティメンバーシップの更新",
+      "loyalty_member_joining_fee": "ロイヤルティメンバーの参加料",
+      "voucher_sales": "バウチャー販売",
+      "loyalty_member_rejoin": "ロイヤルティ会員の再入会",
+      "app_referral": "アプリの紹介",
+      "loyalty_badge_referral": "ロイヤルティバッジ紹介",
+      "filter": "取引タイプで絞り込む",
+      "purchase": "購入",
+      "in_store_redeemption": "店頭での引き換え",
+      "in_app_redeemption": "アプリ内引き換え",
+      "expired": "期限切れ"
+    }
+  },
+  "send_notification": {
+    "columns": { "subject": "主題", "send_date": "日付を送信します" },
+    "buttons": {
+      "new": "新しい通知を送信します",
+      "cancel": "キャンセル",
+      "save": "保存",
+      "sure": "はい、確かです",
+      "loading": "読み込み",
+      "back": "戻る"
+    },
+    "label": {
+      "send_new": "新しいものを送ってください",
+      "send_notification": "通知を送信します",
+      "notification_information": "通知情報",
+      "subject_placeholder": "通知件名を入力します",
+      "message_placeholder": "通知メッセージを入力します",
+      "message_hint": "ブラウザからテキストをコピーすると、乱雑なレイアウトが発生します。",
+      "schedule_placeholder": "日付と時刻を選択します",
+      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "sucesss_create": "成功通知を作成します",
+      "failed_create": "CREATE通知に失敗しました",
+      "failed_fetch_notification": "フェッチの詳細notifに失敗しました",
+      "image_empty_error": "画像を空にすることはできません"
+    },
+    "form": {
+      "subject": "主題",
+      "message": "メッセージ",
+      "schedule": "スケジュールを送信します",
+      "send_date": "日付を送信します",
+      "header_image": "ヘッダー画像"
+    },
+    "modal": {
+      "confirmation": "確認",
+      "exit_content": "このページから終了したいですか？",
+      "exit_second_content": "あなたの変更はまだ保存されていません。"
+    }
+  },
+  "setup": {
+    "label": {
+      "earn_logic": "ロジックを獲得します",
+      "redeem_logic": "ロジックを引き換えます",
+      "earn_point_per": "あたり1ポイントを獲得します",
+      "redeem_point_per": "に1ポイントを引き換えます",
+      "set_welcome_point": "ウェルカムポイントを設定します",
+      "desc_welcome_point": "顧客の成功登録後に追加された追加ポイント",
+      "set_birthday_point": "誕生日ポイントを設定します",
+      "desc_birthday_point": "顧客の誕生日に追加された追加ポイント"
+    },
+    "placeholder": {
+      "earn_point": "入力獲得ポイント",
+      "redeem_point": "入力償還ポイント",
+      "welcome_point": "入力ウェルカムポイント"
+    },
+    "button": { "save_all": "すべて保存", "save": "保存" }
+  },
+  "product_trx_cancellation": {
+    "label": {
+      "search_trx_id": "トランザクションIDを検索します",
+      "trx_id": "トランザクションID",
+      "search_id": "検索ID"
+    }
+  },
+  "messages": {
+    "success": {
+      "create": "成功{{name}}",
+      "update": "サクセスアップデート{{name}}",
+      "update_status": "成功更新ステータス{{name}}",
+      "delete": "成功削除{{name}}",
+      "cancel_trx": "製品トランザクションをキャンセルする成功",
+      "logout": "ログアウト成功"
+    },
+    "failed": {
+      "create": "create {{name}}に失敗",
+      "update": "更新に失敗{{name}}",
+      "update_status": "更新ステータスの失敗{{name}}",
+      "delete": "失敗した削除{{name}}",
+      "fetching": "フェッチの失敗{{name}}",
+      "image": "エラー画像の最大2MB",
+      "image_title": "エラー画像",
+      "image_empty": "画像を空にすることはできません",
+      "upload": "アップロードに障害が発生しました{{name}}",
+      "no_found_trx": "結果が見つかりません。 別のIDを試してください",
+      "cancel_trx": "製品トランザクションのキャンセルに失敗しました",
+      "please_enter_reason": "理由を入力してください。 空にすることはできません"
+    }
+  },
+  "validations": {
+    "invalid": "{{target}} は無効です",
+    "password_format": "フォーマットが無効です! 少なくとも 1 つの大文字、1 つの数字、スペースなし",
+    "url_format": "フォーマットが無効です! http:// または https:// を追加してください",
+    "image_format": "画像形式が正しくありません。",
+    "maximum_file_x": "最大画像サイズを超えています。 画像サイズが {{x}}MB 以下であることを確認してください",
+    "percent_format": "パーセンテージが間違っている",
+    "phone_format": "電話番号の形式が正しくありません。",
+    "format_amount": "間違った形式の金額",
+    "required": "{{target}} は必須フィールドです",
+    "must_x_character": "{{target}} は {{x}} 文字でなければなりません",
+    "min_x_character": "{{target}} は少なくとも {{x}} 文字でなければなりません",
+    "max_x_character": "{{target}} は最大 {{x}} 文字でなければなりません",
+    "max_x_character_num": "{{target}} は {{x}} を超えることはできません",
+    "password_confirm": "両方のパスワードは同じである必要があります",
+    "must_number":"必須番号",
+    "either":"{{target}} は {{num1}} または {{num2}} 桁です。",
+    "must_have_images": "メニュー画像とアイテム画像を空にすることはできません",
+    "item_images": "アイテムの画像は 3 枚までです"
+  },
+  "status": {
+    "in_app": {
+      "CANCEL_BY_CUSTOMER": "顧客によるキャンセル",
+      "CANCEL_BY_SYSTEM": "システムごとにキャンセルします",
+      "REJECT": "拒絶",
+      "REQUEST": "リクエスト",
+      "ACCEPT": "承認",
+      "FINISH": "終了",
+      "TAKEAWAY": "取り除く",
+      "REFUND": "返金"
+    },
+    "in_store": {
+      "-": " - ",
+      "REQUESTED_BY_CUSTOMER": "顧客からの要求",
+      "REQUESTED_BY_MERCHANT": "商人からの要求",
+      "REJECTED_BY_CUSTOMER": "顧客によって拒否されました",
+      "REJECTED_BY_MERCHANT": "商人によって拒否されました",
+      "REJECTED_BY_SYSTEM": "システムによって拒否されました",
+      "APPROVED_BY_CUSTOMER": "顧客によって承認されています",
+      "APPROVED_BY_MERCHANT": "商人によって承認されました",
+      "APPROVED_BY_SYSTEM": "システムによって承認されました",
+      "REFUND": "返金"
+    }
+  },
+  "manager": { 
+    "title": "マネジャー",
+    "name": "マネージャー名",
+    "placeholder": {
+      "name": "マネージャーを選ぶ"
+    }
+  },
+  "app": {
+    "label": {
+      "enter_location": "場所を入力してください",
+      "add_on_type": "アドオンの種類",
+      "logout": "ログアウト",
+      "list_variant": "リストバリアント",
+      "addon": "アドオン",
+      "data_detail": "データの詳細",
+      "brand_or_category": "ブランドまたはカテゴリ",
+      "cancelled": "キャンセル",
+      "in_store_payment": "店舗の支払い",
+      "in_app_order": "アプリの順序で",
+      "product": "製品",
+      "loading": "読み込み...",
+      "ok": "わかった",
+      "saving": "節約...",
+      "filter_by": "ろ過します",
+      "footer": "©{{year}} {{brandname}}。 全著作権所有",
+      "status": {
+        "all": "全て",
+        "active": "アクティブ",
+        "inactive": "非活性",
+        "status": "状態",
+        "target_status": "これは{{target}}です：{{status}}",
+        "status_cancel": "ステータスキャンセル",
+        "reason_cancel": "理由キャンセル"
+      },
+      "result": "結果",
+      "item": "アイテム",
+      "customer": "お客様",
+      "export_as": "次の形式でエクスポート",
+      "no_data": "表示するレコードはありません",
+      "rows_perpage": "ページあたりの行数",
+      "of": "の",
+      "search_report": "検索レポート",
+      "search": "探す",
+      "search_placeholder": "何探してんのさ？",
+      "to_status_click": "{{status}}に、下のボタンをクリックします",
+      "status_confirmation": "{{status}}この{{target}}を{0}したいですか？",
+      "edit": "編集",
+      "create": "作成",
+      "optional": "オプション",
+      "detail": "詳細",
+      "confirmation": "確認",
+      "logo": "ロゴ",
+      "Category": "カテゴリー",
+      "Tag": "鬼ごっこ",
+      "name_target": "{{target}}名前"
+    },
+    "delete": {
+      "delete": "消去してもよろしいですか",
+      "delete2": "このデータを削除することで、あなたはそれを回復することは決してできません",
+      "delete3": "これを削除したいですか？",
+      "delete4": "私たちがあなたのためにそれを復元できるかどうかはわかりません:(",
+      "delete5": "この{{target}}を削除したいですか？"
+    },
+    "columns": { "actions": "行動" },
+    "buttons": {
+      "cancel_trx": "トランザクションをキャンセルします",
+      "deactive": "無効にします",
+      "inactive": "非活性",
+      "active": "アクティブ",
+      "search": "探す",
+      "reset": "リセット",
+      "submit": "送信",
+      "save": "保存",
+      "cancel": "キャンセル",
+      "back": "戻る",
+      "delete_only": "消去",
+      "close": "近い",
+      "delete": "とにかく削除します",
+      "edit": "編集",
+      "update": "アップデート",
+      "sure": "私は確信しています",
+      "yes_sure": "はい、確かです"
+    },
+    "modal": {
+      "create": "{{target}}を作成します",
+      "edit": "編集{{target}}",
+      "sure_cancel": "このトランザクションをキャンセルしたいですか？",
+      "sure_logout": "ログアウトしてもよろしいですか？"
+    },
+    "days": {
+      "Sunday": "日曜日",
+      "Monday": "月曜日",
+      "Tuesday": "火曜日",
+      "Wednesday": "水曜日",
+      "Thursday": "木曜日",
+      "Friday": "金曜日",
+      "Saturday": "土曜日"
+    }
+  },
+  "brand": {
+    "name": "MediaBank",
+    "pay": "MediaBank Wallet",
+    "point": "MediaBank Point",
+    "dollar": "MediaBank Yen"
+  },
+  "language": {
+    "jp": {
+      "title": "日本語",
+      "change": "English に切り替える"
+    },
+    "en": {
+      "title": "English",
+      "change": "Switch to Japan"
+    }
+  },
+  "currency": {
+    "symbol": "JPY ¥",
+    "symbolOnly": "¥",
+    "text": "JPY",
+    "format": "ja-JP"
+  },
+  "unit": { "point": "点" }
+}

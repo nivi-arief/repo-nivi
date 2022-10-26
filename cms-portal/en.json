@@ -1,0 +1,1082 @@
+{
+  "login": {
+    "title": "Log in",
+    "welcome": "Welcome, ",
+    "desc": "Welcome, please login to your account.",
+    "form": {
+      "username": "Username",
+      "password": "Password",
+      "forgot_password": "Forgot Password?",
+      "login": "Log in",
+      "loading": "Loading ..."
+    },
+    "alert": {
+      "wrong_credential": "Email or Password is wrong",
+      "unauthorized": "Access Not Allowed!"
+    }
+  },
+  "menu": {
+    "management": "MANAGEMENT",
+    "user": "User",
+    "admin": "Admin",
+    "brands": "Brands",
+    "brand": "Brand",
+    "outlets": "Outlets",
+    "outlet": "Outlet",
+    "stores": "Stores",
+    "stores_managers": "Stores & Managers",
+    "store": "Store",
+    "branch": "Branch",
+    "menu": "Menu",
+    "menu-child": {
+      "categories": "Categories",
+      "category": "Category",
+      "tags": "Tags",
+      "list": "Menu List"
+    },
+    "customers": "Customers",
+    "highlight": "Highlight",
+    "highlight-child": {
+      "promotions": "Promotions",
+      "news": "News",
+      "offering": "Offering"
+    },
+    "banners": "Banners",
+    "banner": "Banner",
+    "reports": "Reports",
+    "reports-child": {
+      "wallets": "Wallets",
+      "sales": "Transaction Sales",
+      "in-app-sales": "Transaction Sales (In App Sales)",
+      "referral": "Referral",
+      "settlement": "Settlement",
+      "loyalty": "Loyalty",
+      "voucher": "Voucher"
+    },
+    "send_notifications": "Send Notifications",
+    "brandname_setup": "{{brandname}} Setup",
+    "brandname_setup-child":{
+      "conversion": "Global Conversion Rate",
+      "welcome-point": "Welcome Points",
+      "birthday-gift": "Birthday Gift Points"
+    },
+    "voucher": "Voucher",
+    "product_trx_cancel": "Product Trx Cancellation"
+  },
+  "user": {
+    "columns": {
+      "name": "NAME",
+      "role": "ROLE",
+      "assigned_at": "ASSIGNED AT",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New User"
+    },
+    "label": {
+      "filter": "Filter by status",
+      "search": "search by Name, role, assigned at",
+      "title": "Admin Information",
+      "contact": "Contact Information",
+      "managed_by": "{{role}} Managed By {{name}}",
+      "Super": "Super",
+      "Brand": "Brand",
+      "Outlet": "Outlet",
+      "Store": "Store",
+      "placement": "Placement"
+    },
+    "form": {
+      "upload_photo": "Upload Photo",
+      "upload_photo_note": "Please use a formal profile picture. Best view resolution is 600 x 600.",
+      "name": "Full Name",
+      "username": "Username",
+      "role": "Role",
+      "gender": "Gender",
+      "place": "Place Of Birth",
+      "date": "Date of Birth",
+      "email": "Email",
+      "mobile": "Mobile Number",
+      "phone": "Phone Number",
+      "location": "Location",
+      "address": "Address",
+      "region": "Region",
+      "area": "Area",
+      "postal": "Postal Code",
+      "security" : "Security",
+      "password" : "Password",
+      "password2" : "Confirmation Password",
+      "pin" : "PIN",
+      "identity" : "Identity Information",
+      "idCardType" : "ID Card type",
+      "idCardNumber" : "ID Card Number"
+    },
+    "detail" :{
+      "identity" : "Identity Information"
+    },
+    "placeholder" :{
+      "name" :"Enter the full name",
+      "username" :"Enter the username",
+      "role" : "Choose a role",
+      "gender" : "Choose a gender",
+      "place" : "E.g. Jakarta, Palembang, etc",
+      "birth" : "DD/MM/YYYY",
+      "email" : "youremail@example.com",
+      "mobile" : "Ex: +81xxxxxxxx",
+      "phoneNumber" : "Ex: +81xxxxxxxx",
+      "address" : "Ex: 16 Sandilands Road Singapore",
+      "region" : "Choose a region",
+      "area" : "Choose a area",
+      "zip" : "Enter the postal code",
+      "password" : "Must be min. 6 digit alphanumeric",
+      "password2" : "Must match with the password",
+      "pin" : "SET-8 Digit Pin",
+      "idCardType" : "Choose a ID Type",
+      "idCardNumber" : "Enter ID Card Number",
+      "target_email_address": "{{target}}'s email address",
+      "target_phone_number": "{{target}}'s phone number"
+    }
+  },
+  "merchant": {
+    "columns": {
+      "name": "BRAND NAME",
+      "phone_number": "PHONE NUMBER",
+      "email": "EMAIL",
+      "address": "ADDRESS",
+      "manager": "MANAGER",
+      "status": "STATUS"  
+    },
+    "buttons": {
+      "new": "Create New Brand"
+    },
+    "label": {
+      "search": "Search by name, phone, email, address & manager",
+      "logo": "Logo",
+      "logoDescription1" : "Drag ‘n’ drop the image or click to select an image.",
+      "logoDescription2" : "Minimum resolution for best view is 1118 x 223. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "logoDescription3" : "Minimum resolution for best view is {{resolution}}. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "name" : "Brand Name",
+      "email" : "Email",
+      "phoneNumber" : "Phone Number",
+      "phone_number" : "Phone Number",
+      "business" : "Business Registration Number",
+      "remark" : "Remark",
+      "location" : "Location",
+      "address" :"Address",
+      "commision" : "Commision",
+      "voucher" : "Commision % voucher",
+      "inAppPurchase" : "Commision % in app purchase",
+      "inStorePurchase" : "Commision % in store purchase"
+
+    },
+    "detail" : {
+      "manager": "Manager Information",
+      "noManager": "No Manager Has Been Selected Yet",
+      "brand": "Brand Information",
+      "name": "Brand Name",
+      "email": "email",
+      "phone": "Phone Number",
+      "business": "Business Registration Number",
+      "remark": "Remark",
+      "location": "Location",
+      "address": "Address",
+      "comission": "Commision",
+      "voucher": "Commision % voucher",
+      "inAppPurchase": "Commision % in app purchase",
+      "inStorePurchase": "Commision % in store purchase"
+    },
+    "placeholder" : {
+      "name" : "Enter the brand name",
+      "email" : "brand@example.com",
+      "phoneNumber" :"Ex: +81xxxxxxxx",
+      "business" : "3921491",
+      "remark" : "Write it here",
+      "address" : "Ex:JL H. Juanda No. 18...",
+      "voucher" : "Enter the percentage",
+      "percentage" : "Enter the percentage"
+    }
+  },
+  "outlets": {
+    "parent": "Outlets & Managers",
+    "columns": {
+      "name": "OUTLET NAME",
+      "phone_number": "PHONE NUMBER",
+      "email": "EMAIL",
+      "address": "ADDRESS",
+      "manager": "MANAGER",
+      "status": "STATUS"
+    },
+    "placeholder": {
+      "outlet": "Choose a brand",
+      "name": "Enter the outlet name",
+      "email": "outlet@example.com",
+      "phoneNumber" : "Ex: +81xxxxxxxx",
+      "address":"Ex: 16 JL H. Juanda No. 18..."
+    },
+    "buttons": {
+      "new": "Create New Outlet",
+      "back": "Back"
+    },
+    "label": {
+      "name": "Outlet Name",
+      "email": "Email",
+      "logo": "Logo",
+      "logoDescription1" : "Drag ‘n’ drop the image or click to select an image.",
+      "logoDescription2" : "Minimum resolution for best view is 1118 x 223. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "search": "Search by name, phone, email, address & manager",
+      "address": "Address",
+      "phone": "Phone Number",
+      "location": "Location",
+      "map": "Choose Location of the Outlet",
+      "map2": "Drag the marker to set the location",
+      "outlet": "Brand",
+      "outletInformation" : "Outlet Information"
+    }
+  },
+  "stores": {
+    "parent": "Stores & Managers",
+    "columns": {
+      "name": "STORE NAME",
+      "phone_number": "PHONE NUMBER",
+      "email": "EMAIL",
+      "address": "ADDRESS",
+      "manager": "MANAGER",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New Store"
+    },
+    "label": {
+      "search": "Search by name, phone, email, address & manager",
+      "storeInformation": "Store Information",
+      "name": "Store Name",
+      "merchant_id": "Merchant ID",
+      "email": "Email",
+      "phone_number" :"Phone Number",
+      "tags": "Tags",
+      "isAutoAccept": "In Store Payment Acceptance",
+      "location": "Location",
+      "address": "Address",
+      "outlet": "Outlet",
+      "banner": "Banner Image",
+      "bannerMax": "Max. 1 Images",
+      "bannerDescription1": "Drag ‘n’ drop the image or click to select an image.",
+      "bannerDescription2": "Minimum resolution for best view is 343 x 172. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "img": "Images",
+      "imgMax": "Max. 5 Images",
+      "auto": "Automatic",
+      "manual": "Manual",
+      "openHours": "Open Hours",
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "open": "Open at",
+      "close": "Close at",
+      "closed": "Closed",
+      "optional": "optional",
+      "smaller": "You can choose multiple options. Max. 4 tags",
+      "download_qr": "Download QR Code"
+      
+    },
+    "placeholder" : {
+      "merchant_id": "Enter Merchant ID",
+      "outlet" : "Choose an outlet",
+      "name": "Enter the branch name",
+      "email": "brand@example.com",
+      "phone_number": "Ex: +81xxxxxxxx",
+      "tags": "Choose tags",
+      "categories": "Choose categories",
+      "address":"Ex: 16 JL H. Juanda No. 18..."
+    }
+  },
+  "categories": {
+    "columns": {
+      "name": "CATEGORY NAME",
+      "status": "STATUS"
+    },
+    "placeholder": {
+      "category": "E.g American, Western, Japanese, .etc",
+      "tag": "E.g Fast Moving, Popular, Trendy, .etc"
+    },
+    "buttons": {
+      "new": "Create New Category"
+    }
+  },
+  "tags": {
+    "columns": {
+      "name": "TAG NAME",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New Tag"
+    }
+  },
+  "menu-list": {
+    "label": {
+      "ready": "Ready",
+      "not_ready": "Not Ready",
+      "detail": "Detail Menu",
+      "available": "Available Menu",
+      "choose_menu_store": "Choose any menu available in this store",
+      "search": "search by item code, product name, category",
+      "choose_menu": "Choose {{name}} for this menu ",
+      "choose_brand": "Please choose brand first",
+      "create_variant_first": "You dont have {{name}}, please create variant first",
+      "name": "{{target}} name",
+      "library": "{{target}} Library",
+      "name_cannot_empty": "Field attribute name can't empty",
+      "option_cannot_empty": "Field options can't empty",
+      "options": "Options",
+      "option": "Option",
+      "product_information": "Product Information",
+      "item_code": "Item Code",
+      "member_price": "Member Price",
+      "purchase_member": "Purchase by Member only?",
+      "attribute_name": "Attribute Name",
+      "hideshow": "Hide / Show",
+      "show": "Show",
+      "hide": "Hide",
+      "default": "Default",
+      "price_change": "Price Change",
+      "variation": "Variation",
+      "variant": "Variant",
+      "addon": "Add-on",
+      "you_can_choose_multiple": "You can choose multiple options"
+    },
+    "placeholder": {
+      "name": "Enter the {{target}} name",
+      "target": "Enter the {{target}}"
+    },
+    "buttons": {
+      "new": "Create new menu",
+      "new_target": "Create new {{target}}",
+      "new_option": "Add new option",
+      "add_attr": "Add attribute"
+    },
+    "columns": {
+      "item": "ITEM CODE",
+      "name": "PRODUCT NAME",
+      "category": "CATEGORY",
+      "brand": "BRAND",
+      "unit_price": "UNIT PRICE",
+      "status": "STATUS"
+    }
+  },
+  "customers": {
+    "columns": {
+      "name": "NAME",
+      "mobile": "MOBILE NUMBER",
+      "email": "EMAIL",
+      "gender": "GENDER",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New User",
+      "back": "Back"
+    },
+    "label": {
+      "filter": "Filter by status",
+      "search": "Name, phone number, email",
+      "male": "Male",
+      "female": "Female",
+      "status": "Status",
+      "deactivate": "Deactivate",
+      "inactive": "Inactive",
+      "active": "Active",
+      "status_info": "To {{status}} it, click the button below",
+      "detail": "Detail",
+      "users": "Users"
+    },
+    "detail": {
+      "account_information": "Account Information",
+      "customer_id": "Customer ID",
+      "gender": "Gender",
+      "contact_information": "Contact Information",
+      "email": "Email",
+      "date_of_birth": "Date of birth",
+      "mobile_number": "Mobile Number",
+      "location": "Location",
+      "address": "Address",
+      "unit_number": "Unit Number",
+      "postal_code": "Postal Code",
+      "join_date": "Join Date"
+    },
+    "modal": {
+      "title": "confirmation",
+      "content": "Are you sure you want to",
+      "second_content": "this Customer?",
+      "cancel": "Cancel",
+      "confirm": "I'm sure"
+    }
+  },
+  "promotions": {
+    "columns": {
+      "image": "BANNER IMAGE",
+      "headline": "HEADLINE PROMOTION",
+      "publish_date": "PUBLISH ON",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New Promotion",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "back": "Back",
+      "sure": "I'm sure"
+    },
+    "label": {
+      "filter": "Filter by status",
+      "search": "Name, phone number, email",
+      "male": "Male",
+      "female": "Female",
+      "create": "Create",
+      "edit": "Edit",
+      "detail": "Detail",
+      "promotion": "Promotion",
+      "promotions": "Promotions",
+      "outlet": "Outlet",
+      "brand": "Brand",
+      "store": "Store",
+      "status": "Status",
+      "deactivate": "Deactivate",
+      "inactive": "Inactive",
+      "active": "Active",
+      "confirmation": "Confirmation",
+      "promotion_information": "Promotion Information",
+      "news_information": "News Information",
+      "offering_information": "Offering Information",
+      "target_promotion": "Target Promotion",
+      "brand_info": "Will affect all outlets & stores attached with the chosen brand",
+      "outlet_info": "Will affect only for selected outlet & stores",
+      "store_info": "Will affect only for selected store",
+      "choose_target": "Choose with target that fit with this promotion",
+      "headline_promotion": "Enter the headline",
+      "choose_date": "Choose a date & time",
+      "choose_brand": "Choose a brand",
+      "choose_outlet": "Choose a outlet",
+      "choose_store": "Choose a store",
+      "status_info": "To {{status}} it, click the button below",
+      "upload_content": "Drag ‘n’ drop the image or click to select an image.",
+      "upload_additional_content": "Minimum resolution for best view is 343x172. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "sucesss_create": "Success create promotion",
+      "sucesss_update": "Success update promotion",
+      "failed_create": "Failed create promotion",
+      "failed_update": "Failed to update promotion",
+      "image_empty_error": "Image can't be empty",
+      "failed_fetch_placement": "failed fetching placement",
+      "success_update_status_promotion": "Success update status promotion",
+      "failed_update_status_promotion": "Failed update status promotion",
+      "failed_fetching_data": "failed fetching data",
+      "subtitle": "Enter the Subtitle"
+
+    },
+    "form": {
+      "headline_promotion": "Headline Promotion",
+      "headline_offering": "Headline Offering",
+      "headline_news": "Headline News",
+      "publish_date": "Publish Date",
+      "end_date": "End Date",
+      "description": "Description",
+      "subtitle": "Subtitle",
+      "brand": "Brand",
+      "outlet": "Outlet",
+      "store": "Store",
+      "banner_image": "Banner Image"
+    },
+    "modal": {
+      "title": "Confirmation",
+      "content": "Are you sure you want to exit from this page?",
+      "second_content": "Your changes is not saved yet.",
+      "cancel": "Cancel",
+      "confirm": "Yes, I'm sure",
+      "content_deactivate": "Are you sure you want to",
+      "second_content_deactivate": "this banner?"
+    }
+  },
+  "news": {
+    "columns": {
+      "image": "BANNER IMAGE",
+      "headline": "HEADLINE NEWS",
+      "publish_date": "PUBLISH ON",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create new news"
+    },
+    "label": {
+      "filter": "Filter by status",
+      "search": "Name, phone number, email",
+      "male": "Male",
+      "female": "Female",
+      "preview": "Preview",
+      "news_banner": "News Banner",
+      "publish_date": "Publish Date",
+      "title": "Title",
+      "article_desc": "Article Description"
+
+    }
+  },
+  "offering": {
+    "columns": {
+      "image": "BANNER IMAGE",
+      "headline": "HEADLINE OFFERING",
+      "publish_date": "PUBLISH ON",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create new offering"
+    },
+    "label": {
+      "filter": "Filter by status",
+      "search": "Name, phone number, email",
+      "male": "Male",
+      "female": "Female"
+    }
+  },
+  "banners": {
+    "columns": {
+      "image": "BANNER IMAGE",
+      "name": "BANNER NAME",
+      "status": "STATUS"
+    },
+    "buttons": {
+      "new": "Create New Banner",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "sure":" Yes, I'm sure",
+      "back": "Back"
+    },
+    "label": {
+      "create": "Create",
+      "edit": "Edit",
+      "banner": "Banner",
+      "banner_information": "Banner Information",
+      "status": "Status",
+      "active": "Active",
+      "image": "Image",
+      "max_1_image": "Max 1 image",
+      "max_x_images": "Max {{total}} images",
+      "item_images": "Item Images",
+      "menu_image": "Menu Image",
+      "deactivate": "Deactivate",
+      "banner_plaeholder": "Enter the banner name",
+      "status_info": "To {{status}} it, click the button below",
+      "banner_image_info": "Drag ‘n’ drop the image or click to select an image.",
+      "banner_image_additional_info": "Minimum resolution for best view is 375x310. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "sucesss_create": "Success create banner",
+      "failed_create": "Failed create banner",
+      "sucesss_update":"Success update banner",
+      "failed_update":"Failed to update banner",
+      "image_empty_error":"Image can't be empty",
+      "success_update_status_banner": "Success update status banner",
+      "failed_update_status_banner": "Failed update status banner",
+      "confirmation": "Confirmation"
+    },
+    "form": {
+      "banner_name": "Banner name",
+      "banner_image": "Banner Image"
+    },
+    "modal": {
+      "sure": "I'm sure",
+      "content": "Are you sure you want to exit from this page?",
+      "second_content": "Your changes is not saved yet.",
+      "content_deactivate": "Are you sure you want to",
+      "second_content_deactivate": "this banner?"
+    }
+  },
+  "reports": {
+    "wallet": {
+      "label": {
+        "failed": "Failed",
+        "success": "Success",
+        "pending": "Pending",
+        "insufficient_balance":"Insufficient Balance"
+      },
+      "columns": {
+        "date": "DATE",
+        "trx_type": "TRANSACTION TYPE",
+        "trx_id": "TRANSACTION ID",
+        "usertype_id": "CUSTOMER ID / MERCHANT ID ({{trx_type}})",
+        "status": "STATUS",
+        "amount": "AMOUNT",
+        "2c2p_trx_id": "2C2P TRANSACTION ID",
+        "refund_remarks": "REFUND REMARKS"
+      }
+    },
+    "sales": {
+      "columns": {
+        "date": "DATE",
+        "trx_type": "TRANSACTION TYPE",
+        "trx_id": "TRANSACTION ID",
+        "brand" :"BRAND",
+        "outlet": "OUTLET",
+        "store": "STORE",
+        "customer_id": "CUSTOMER ID",
+        "status": "STATUS",
+        "service_fee": "SERVICE FEE",
+        "sub_total": "SUB TOTAL",
+        "not_valid_for_further_discount":"NOT VALID FOR FURTHER DISCOUNT",
+        "loyalty_badge_member":"LOYALTY BADGE MEMBER",
+        "loyalty_badge_discount":"LOYALTY BADGE DISCOUNT {{currencytext}}",
+        "voucher_id_used":"VOUCHER ID USED",
+        "voucher_name_used":"VOUCHER NAME USED",
+        "voucher_value_used":"VOUCHER VALUE USED",
+        "point_used":"{{brandpoint}} USED",
+        "point_redeem_rate":"{{brandpoint}} REDEEM RATE",
+        "point_used_symbol":"{{brandpoint}} USED ({{symbol}})",
+        "currency": "CURRENCY",
+        "payable_amount_using_brand_symbol": "PAYABLE AMOUNT USING {{brand.dollar}} ({{symbol}})",
+        "customer_earned_point": "CUSTOMER EARNED {{brandpoint}}",
+        "voucher_fees": "VOUCHER FEES {{unit}}",
+        "marketplace_self_pickup_fees": "MARKET PLACE SELF PICK UP FEES ({{unit}})",
+        "e-wallet_fees": "{{brandname}} E-WALLET FEES ({{unit}})",
+        "merchant_tackback": "MERCHANT TACKBACK ({{unit}})",
+        "merchant_holdback": "MERCHANT HOLDBACK ({{unit}})",
+        "self_pickup_completion_timestamp": "SELF-PICKUP COMPLETION TIMESTAMP",
+        "cancellation_reason": "CANCELLATION REASON",
+        "refund_reason": "REFUND REASON"
+      }
+    },
+    "inapp": {
+      "columns": {
+        "date": "DATE",
+        "trx_id": "TRANSACTION ID",
+        "customer_id": "CUSTOMER ID",
+        "customer": "CUSTOMER",
+        "brand_id": "BRAND ID",
+        "brand_name": "BRAND NAME",
+        "outlet_id": "OUTLET ID",
+        "outlet_name": "OUTLET NAME",
+        "store_id": "STORE ID",
+        "store_name": "STORE NAME",
+        "currency": "CURRENCY",
+        "valid_for_further_discount":"VALID FOR FURTHER DISCOUNT ({{unit}})",
+        "not_valid_for_further_discount":"NOT VALID FOR FURTHER DISCOUNT",
+        "total_price": "TOTAL PRICE",
+        "total_member_price": "TOTAL MEMBER PRICE",
+        "total_point": "TOTAL POINT",
+        "point_earned": "POINT EARNED",
+        "member_loyalty": "MEMBER LOYALTY",
+        "loyalty_name": "LOYALTY NAME",
+        "voucher_id_used": "VOUCHER ID USED",
+        "payment_type": "PAYMENT TYPE",
+        "payment_amount": "PAYMENT AMOUNT",
+        "payment_point": "PAYMENT POINT",
+        "status": "STATUS",
+        "refund_reason": "REFUND REASON",
+        "refund_on": "REFUND ON",
+        "refund_by": "REFUND BY"
+      }
+    },
+    "referral": {
+      "columns": {
+        "customer_id": "CUSTOMER ID",
+        "activity_type": "ACTIVITY TYPE",
+        "customer_name": "CUSTOMER NAME",
+        "phone_number": "PHONE NUMBER",
+        "referral_date_submission": "REFERRAL DATE SUBMISSION",
+        "referral_text": "REFERRAL TEXT"
+      }
+    },
+    "settlement": {
+      "label": {
+        "period": "Period",
+        "period_range": "Period Range",
+        "brand" :"Brand",
+        "outlet": "Outlet",
+        "store": "Store",
+        "status": "Status",
+        "master_table": "Master Table"
+      },
+      "placeholder": {
+        "period": "Select Period Range",
+        "brand" :"Select a Brand",
+        "outlet": "Select an Outlet",
+        "store": "Select a Store",
+        "status": "Select a Status",
+        "master_table": "Select a Master Table"
+      },
+      "columns": {
+        "date": "DATE",
+        "trx_id": "TRANSACTION ID",
+        "from_account_id": "FROM ACCOUNT (ID USER)",
+        "from_account_name": "FROM ACCOUNT (NAME)",
+        "to_account_id": "TO ACCOUNT (ID USER)",
+        "to_account_name": "TO ACCOUNT (NAME)",
+        "total_amount": "TOTAL AMOUNT",
+        "trx_detail_id": "TRANSACTION DETAIL ID",
+        "trx_type_amount": "TRANSACTION TYPE AMOUNT",
+        "trx_worth_monetery_amount": "TRANSACTION WORTH MONETERY AMOUNT",
+        "wallet_trx_id": "WALLET TRANSACTION ID",
+        "from_account_prev_balance": "FROM ACCOUNT PREV BALANCE",
+        "from_customer_prev_balance": "FROM CUSTOMER PREV BALANCE",
+        "wallet_trx_detail_id": "WALLET TRANSACTION DETAIL ID",
+        "wallet_trx_type": "WALLET TRANSACTION TYPE",
+        "account_name": "ACCOUNT NAME",
+        "point_trx_id": "POINT TRANSACTION ID",
+        "point_wallet_trx_id": "POINT WALLET TRANSACTION ID",
+        "amount_unit": "AMOUNT ({{unit}})",
+        "amount": "AMOUNT",
+        "refund_remarks": "REFUND REMARKS",
+        "service_fee": "SERVICE FEE",
+        "sub_total": "SUB TOTAL",
+        "not_valid_for_further_discount":"NOT VALID FOR FURTHER DISCOUNT",
+        "loyalty_badge_member":"LOYALTY BADGE MEMBER",
+        "voucher_id_used":"VOUCHER ID USED",
+        "voucher_name_used":"VOUCHER NAME USED",
+        "voucher_value_used":"VOUCHER VALUE USED",
+        "point_used":"{{brandpoint}} USED",
+        "point_redeem_rate":"{{brandpoint}} REDEEM RATE",
+        "loyalty_badge_discount":"LOYALTY BADGE DISCOUNT {{currencytext}}",
+        "status": "STATUS"
+      },
+      "options": {
+        "master_trx": "Master Transaction",
+        "master_detail_trx": "Master Detail Transaction",
+        "master_pay_trx": "Master {{brandpay}} Transaction",
+        "master_detail_pay_trx": "Master Detail {{brandpay}} Transaction",
+        "master_point_trx": "Master {{brandpoint}} Transaction",
+        "master_detail_point_trx": "Master Detail {{brandpoint}} Transaction",
+        "all": "All",
+        "settle": "Settle",
+        "unsettle": "Unsettle"
+      }
+    },
+    "loyalty": {
+      "columns": {
+        "badge": "BADGE",
+        "brand": "BRAND",
+        "trx_type": "TRANSACTION TYPE",
+        "outlet": "OUTLET",
+        "store": "STORE",
+        "timestamp": "TIMESTAMP",
+        "trx_id": "TRANSACTION ID",
+        "user_id": "USER ID",
+        "status": "STATUS"
+      }
+    },
+    "voucher": {
+      "columns": {
+        "timestamp":"TIMESTAMP",
+        "trx_type":"TRANSACTION TYPE",
+        "brand":"BRAND",
+        "outlet":"OUTLET",
+        "store": "STORE",
+        "trx_id":"TRANSACTION ID",
+        "user_id":"USER ID",
+        "campaign_id": "CAMPAIGN ID",
+        "loyalty_member": "LOYALTY MEMBER",
+        "voucher_type": "VOUCHER TYPE",
+        "voucher_type_id": "VOUCHER TYPE ID",
+        "voucher_name": "VOUCHER NAME",
+        "exclusive_product": "EXCLUSIVE PRODUCT",
+        "voucher_price": "VOUCHER PRICE ({{unit}})",
+        "member_voucher_price": "MEMBER VOUCHER PRICE",
+        "qty": "QUANTITY",
+        "subtotal": "SUBTOTAL",
+        "voucher_fees":"VOUCHER FEES {{unit}}",
+        "merchant_holdback":"MERCHANT HOLDBACK ({{unit}})",
+        "issued_bundle_voucher_id": "ISSUED BUNDLE VOUCHER ID",
+        "issued_voucher_id": "ISSUED VOUCHER ID",
+        "voucher_expiry_timestamp": "VOUCHER EXPIRY TIMESTAMP",
+        "voucher_id_used":"VOUCHER ID USED",
+        "count_of_voucher_use": "COUNT OF VOUCHER USE",
+        "remaining_bundle_voucher": "REMAINING BUNDLE VOUCHER",
+        "expired_voucher_id": "EXPIRED VOUCHER ID",
+        "expired_voucher_value": "EXPIRED VOUCHER VALUE ({{unit}})",
+        "merchant_payout": "MERCHANT PAYOUT ({{unit}})"
+      }
+    },
+    "label": {
+      "credit": "Credit",
+      "debit": "Debit",
+      "failed": "Failed",
+      "success": "Success",
+      "no": "No",
+      "yes": "Yes",
+      "pending": "Pending",
+      "insufficient_balance":"Insufficient Balance",
+      "top_up": "Top Up",
+      "fund_transfer": "Fund Transfer",
+      "refund": "Refund",
+      "in_app_sales": "In App Sales",
+      "in_store_sales": "In Store Sales",
+      "loyalty_membership_renewal": "Loyalty Membership Renewal",
+      "loyalty_member_joining_fee": "Loyalty Member Joining Fee",
+      "voucher_sales": "Voucher Sales",
+      "loyalty_member_rejoin": "Loyalty Member Rejoin",
+      "app_referral": "App Referral",
+      "loyalty_badge_referral": "Loyalty Badge Referral",
+      "filter": "Filter by transaction type",
+      "purchase": "Purchase",
+      "in_store_redeemption": "In Store Redeemption",
+      "in_app_redeemption": "In App Redeemption",
+      "expired": "Expired"
+    }
+  },
+  "send_notification": {
+    "columns": {
+      "subject": "SUBJECT",
+      "send_date": "SEND DATE"
+    },
+    "buttons": {
+      "new": "Send New Notification",
+      "cancel": "Cancel",
+      "save": "Save",
+      "sure": "Yes, I'm sure",
+      "loading": "Loading",
+      "back": "Back"
+    },
+    "label": {
+      "send_new": "Send New",
+      "send_notification": "Send Notification",
+      "notification_information": "Notification Information",
+      "subject_placeholder": "Enter the notification subject",
+      "message_placeholder": "Enter the notification message",
+      "message_hint": "Copying text from a browser will cause a messy layout.",
+      "schedule_placeholder": "Choose date & time",
+      "upload_content": "Drag ‘n’ drop the image or click to select an image.",
+      "upload_additional_content": "Minimum resolution for best view is 343x172. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted.",
+      "sucesss_create": "Success create notification",
+      "failed_create": "Failed create notification",
+      "failed_fetch_notification": "Failed fetching detail notif",
+      "image_empty_error": "Image can't be empty"
+    },
+    "form": {
+      "subject": "Subject",
+      "message": "Message",
+      "schedule": "Send Schedule",
+      "send_date": "Send date",
+      "header_image": "Header Image"
+    },
+    "modal": {
+      "confirmation": "Confirmation",
+      "exit_content": "Are you sure you want to exit from this page?",
+      "exit_second_content": "Your changes is not saved yet."
+    }
+  },
+  "setup": {
+    "label": {
+      "earn_logic": "Earn Logic",
+      "redeem_logic": "Redeem Logic",
+      "earn_point_per": "Earn 1 point per",
+      "redeem_point_per": "Redeem 1 point into",
+      "set_welcome_point": "Set Welcome Points",
+      "desc_welcome_point": "The additional point added after customer success registration",
+      "set_birthday_point": "Set Birthday Points",
+      "desc_birthday_point": "The additional point added on the customer's birthday"
+    },
+    "placeholder": {
+      "earn_point": "Input earn point",
+      "redeem_point": "Input redeem point",
+      "welcome_point": "Input welcome point"
+    },
+    "button": {
+      "save_all": "Save all",
+      "save": "Save"
+    }
+  },
+  "product_trx_cancellation": {
+    "label": {
+      "search_trx_id": "Search Transaction ID",
+      "trx_id": "Transaction ID",
+      "search_id": "Search ID"
+    }
+  },
+  "messages": {
+    "success": {
+      "create": "Success create {{name}}",
+      "update": "Success update {{name}}",
+      "update_status": "Success update status {{name}}",
+      "delete": "Success delete {{name}}",
+      "cancel_trx": "Success to Cancel Product Transaction",
+      "logout": "Success to Logout"
+    },
+    "failed": {
+      "create": "Failed create {{name}}",
+      "update": "Failed update {{name}}",
+      "update_status": "Failed update status {{name}}",
+      "delete": "Failed delete {{name}}",
+      "fetching": "Failed fetching {{name}}",
+      "image": "Error image maximum 2MB",
+      "image_title": "Error image",
+      "image_empty": "Image can't be empty",
+      "upload": "Failed upload {{name}}",
+      "no_found_trx": "No result found. Try Another ID",
+      "cancel_trx": "Failed to Cancel Product Transaction",
+      "please_enter_reason": "Please input the Reason. Cannot be empty"
+    }
+  },
+  "validations": {
+    "invalid": "{{target}} is invalid",
+    "password_format": "format not valid! at least one uppercase, one number & no spacing",
+    "url_format": "format not valid! please add http:// or https://",
+    "image_format": "your image format is incorrect.",
+    "maximum_file_x": "Maximum image size exceed. Please make sure image size not more than {{x}}MB",
+    "percent_format": "Percentage is wrong",
+    "phone_format": "Your format phone number is incorrect.",
+    "format_amount": "Wrong format amount",
+    "required": "{{target}} is a required field",
+    "must_x_character": "{{target}} must be {{x}} character",
+    "min_x_character": "{{target}} must be at least {{x}} character",
+    "max_x_character": "{{target}} must be at most {{x}} character",
+    "max_x_character_num": "{{target}} can't be more than {{x}}",
+    "password_confirm": "Both password need to be the same",
+    "must_number":"Must Number",
+    "either":"{{target}} is either {{num1}} or {{num2}} digit.",
+    "must_have_images": "Menu Image and Item Images Cannot be empty",
+    "item_images": "Item Images cannot more than 3 images"
+  },
+  "status": {
+    "in_app": {
+      "CANCEL_BY_CUSTOMER": "Cancel by Customer",
+      "CANCEL_BY_SYSTEM": "Cancel by System",
+      "REJECT": "Reject",
+      "REQUEST": "Request",
+      "ACCEPT": "Accept",
+      "FINISH": "Finish",
+      "TAKEAWAY": "Takeaway",
+      "REFUND": "Refund"
+    },
+    "in_store": {
+      "-": "-",
+      "REQUESTED_BY_CUSTOMER": "Requested by Customer",
+      "REQUESTED_BY_MERCHANT": "Requested by Merchant",
+      "REJECTED_BY_CUSTOMER": "Rejected by Customer",
+      "REJECTED_BY_MERCHANT": "Rejected by Merchant",
+      "REJECTED_BY_SYSTEM": "Rejected by System",
+      "APPROVED_BY_CUSTOMER": "Approved by Customer",
+      "APPROVED_BY_MERCHANT": "Approved by Merchant",
+      "APPROVED_BY_SYSTEM": "Approved by System",
+      "REFUND": "Refund"
+    }
+  },
+  "manager": {
+    "title": "Manager",
+    "name": "Manager Name",
+    "placeholder": {
+      "name": "Choose the manager"
+    }
+  },
+  "app": {
+    "label": {
+      "enter_location": "Enter the location",
+      "add_on_type": "Add-on Type",
+      "logout": "Log Out",
+      "list_variant": "list variant",
+      "addon": "addon",
+      "data_detail": "Data Detail",
+      "brand_or_category": "Brand or Category",
+      "cancelled": "Cancelled",
+      "in_store_payment": "In Store Payment",
+      "in_app_order": "In App Order",
+      "product": "Product",
+      "loading": "Loading ...",
+      "ok": "OK",
+      "saving": "Saving ...",
+      "filter_by": "Filter by",
+      "footer": "© {{year}} {{brandname}}. All rights reserved",
+      "status": {
+        "all": "All",
+        "active": "Active",
+        "inactive": "Inactive",
+        "status": "Status",
+        "target_status": "This {{target}} is : {{status}}",
+        "status_cancel": "Status Cancel",
+        "reason_cancel": "Reason Cancel"
+      },
+      "result": "Result",
+      "item": "Item",
+      "customer": "Customer",
+      "export_as": "Export as",
+      "no_data": "There are no records to display",
+      "rows_perpage": "Rows per page",
+      "of": "Of",
+      "search_report": "Search Report",
+      "search": "Search",
+      "search_placeholder": "What do you looking for?",
+      "to_status_click": "To {{status}} it, click the button below",
+      "status_confirmation": "Are you sure you want to {{status}} this {{target}}?",
+      "edit": "Edit",
+      "create": "Create",
+      "optional": "optional",
+      "detail": "Detail",
+      "confirmation": "Confirmation",
+      "logo": "Logo",
+      "Category": "Category",
+      "Tag": "Tag",
+      "name_target": "{{target}} Name"
+    },
+    "delete" : {
+      "delete" : "Are you sure you want to delete",
+      "delete2": "By deleting this data, you will never be able to recover it",
+      "delete3": "Are you sure you want to delete this?",
+      "delete4": "We are not sure if we're able to restore it for you :(",
+      "delete5": "Are you sure you want to delete this {{target}}?"
+    },
+    "columns": {
+      "actions": "ACTIONS"
+    },
+    "buttons": {
+      "cancel_trx": "Cancel Transaction",
+      "deactive": "Deactivate",
+      "inactive": "Inactive",
+      "active": "Active",
+      "search": "Search",
+      "reset": "Reset",
+      "submit": "Submit",
+      "save": "Save",
+      "cancel": "Cancel",
+      "back": "Back",
+      "delete_only": "Delete",
+      "close": "Close",
+      "delete": "Delete Anyway",
+      "edit": "Edit",
+      "update": "Update",
+      "sure": "I'm sure",
+      "yes_sure": "Yes, I'm sure"
+    },
+    "modal": {
+      "create": "Create {{target}}",
+      "edit": "Edit {{target}}",
+      "sure_cancel": "Are your sure you want to cancel this transaction?",
+      "sure_logout": "Are you sure you want to log out?"
+    },
+    "days": {
+      "Sunday": "Sunday",
+      "Monday": "Monday",
+      "Tuesday": "Tuesday",
+      "Wednesday": "Wednesday",
+      "Thursday": "Thursday",
+      "Friday": "Friday",
+      "Saturday": "Saturday"
+    }
+  },
+  "brand": {
+    "name": "MediaBank",
+    "pay": "MediaBank Wallet",
+    "point": "MediaBank Point",
+    "dollar": "MediaBank Yen"
+  },
+  "language": {
+    "jp": {
+      "title": "日本語",
+      "change": "English に切り替える"
+    },
+    "en": {
+      "title": "English",
+      "change": "Switch to Japan"
+    }
+  },
+  "currency": {
+    "symbol": "JPY ¥",
+    "symbolOnly": "¥",
+    "text": "JPY",
+    "format": "ja-JP"
+  },
+  "unit": {
+    "point": "point"
+  }
+}
