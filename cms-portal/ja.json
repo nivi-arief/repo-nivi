@@ -84,7 +84,7 @@
       "placement": "配置"
     },
     "form": {
-      "upload_photo": "写真をアップする",
+      "upload_photo": "写真をアップロード",
       "upload_photo_note": "フォーマルプロファイルの写真を使用してください。 最良のビュー解像度は600 x 600です。",
       "name": "フルネーム",
       "username": "ユーザー名",
@@ -104,11 +104,11 @@
       "password": "パスワード",
       "password2": "確認パスワード",
       "pin": "ピン",
-      "identity": "ID情報",
+      "identity": "あなたの情報",
       "idCardType": "IDカードタイプ",
       "idCardNumber": "IDカード番号"
     },
-    "detail": { "identity": "ID情報" },
+    "detail": { "identity": "あなたの情報" },
     "placeholder": {
       "name": "フルネームを入力してください",
       "username": "ユーザー名を入力します",
@@ -729,7 +729,7 @@
         "user_id": "ユーザーID",
         "campaign_id": "キャンペーンID",
         "loyalty_member": "ロイヤルティメンバー",
-        "voucher_type": "バウチャータイプ",
+        "voucher_type": "クーポン種別",
         "voucher_type_id": "バウチャータイプID",
         "voucher_name": "バウチャー名",
         "exclusive_product": "排他的な製品",
