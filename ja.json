@@ -192,7 +192,7 @@
       "gender": "性別",
       "male": "男性",
       "female": "女性",
-      "save": "保存"
+      "save": "プロファイルを保存"
     },
     "menu": {
       "marketing_preference": "マーケティングサブスクリプションの好み",
@@ -417,7 +417,7 @@
       "bundling": "バンドリング",
       "exclusive": "会員限定",
       "details": "詳細",
-      "t&c": "規約と条件",
+      "t&c": "取引条件",
       "store_usable": "使用可能な保存",
       "usual_price": "通常価格",
       "price": "価格",
@@ -471,7 +471,7 @@
     "joined_on": "入会日{{日付}}",
     "next_payment": "次のお支払い {{日付}}",
     "payment_method": "支払方法",
-    "perks": "利用規約",
+    "perks": "会員特権",
     "join_brand": "{{brand}}に参加",
     "referral": "友人からご紹介",
     "referral_text": "どなたかに{{brandname}}へ招待されましたか？その方の電話番号を入力して、お二人ともを受け取れます！",
@@ -591,7 +591,7 @@
       "pay": "支払い",
 
       "reject": "拒否",
-      "next": "次へ",
+      "next": "次",
       "ok": "わかった"
       "reject": "拒絶",
       "next": "次へ",

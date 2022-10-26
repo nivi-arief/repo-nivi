@@ -233,6 +233,7 @@ Banner Image* - バナーのイメージ図＊
 Drag ‘n’ drop the image or click to select an image. - 画像をこちらにドラッグしてアップロード、またはクリックして画像を選択
 Minimum resolution for best view is 343x172. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted. - 最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 
 Banner -	バナー
+Create -	新規作成
 Banner Information -	バナー詳細
 Banner name* -	バナー名
 Demo Banner one -	デモバナー1
@@ -491,38 +492,6 @@ Dashboard			    -   ダッシュボード
 Memberships			    -   会員
 Vouchers Issued			-   発行クーポン数
 Single – Bundling – Free Product – Custom – Claim   -	シングル – バンドル – 無料商品 – カスタム –クレーム
-File Name			    -   ファイル名
-Status			        -   ステータス
-Start Time			    -   開始日時
-Created By			    -   作成者
-Download Template (Hover)	-   テンプレートをダウンロード
-Upload			-   アップロード
-First			-   最初
-Previous		-	前へ
-Last			-   最後
-File Records			記録を保存
-Notification Text			通知テキスト
-Campaign ID			キャンペーン番号
-OK / Voucher Type ID Not Found		-	OK / クーポン種別番号が見つかりませんでした
-Press Enter key to search   - 	 Enterキーをクリックして検索
-Monthly / Yearly    -   月次/年次
-View only draft -   ドラフトのみ表示
-Create Loyalty program  -   ロイヤリティプログラムを新規作成
-Name / Brand / Membership Type / Joining Fee / Renewal Fee / Status / action    - 	 名称/ブランド/会員種別/入会費/更新費/ステータス/操作
-Active / Inactive   -   有効/無効
-Brand(s)*	 	- 	 ブランド＊
-MonthlyYearly   - 	 月間　年間
-Featured Cards – Voucher Marketplace		-	注目クーポン –  クーポンマーケット
-Name – Brand – Title – Description – Status (Active/Inactive) – Actions 		-	名称 – ブランド – タイトル- 詳細- ステータス（有効/無効）- 操作
-Create Featured Card    -   注目カードを作成する
-Create Feature  -   注目機能を作成する
-Feature type    -   注目機能種別
-Voucher Marketplace / Loyalty Marketplace   -   クーポンマーケット/ロイヤリティマーケット
-Featured Name   -	特集名
-Image not selected  -		画像が選択されていません
-Do you want to deactivate this voucher marketplace featured card?   -   このカードを無効にしますか？
-Yes/ Cancel -   無効にする/キャンセル
-Save Display Order  -	表示順を保存
 
 
 
