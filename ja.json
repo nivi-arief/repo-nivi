@@ -62,7 +62,7 @@
     "message": "アカウントを登録するには、電話番号を入力してください。確認のためワンタイムパスワードをお送りします。",
     "email_invalid": "有効なメールアドレスではありません。",
     "email_required": "メールアドレス必須！",
-    "name_required": "氏名は必須です",
+    "name_required": "お名前必須！",
     "min_2_character": "短すぎます。最小の長さは 2 です!",
     "max_50_character" : "長すぎます。最大長は 50 です!",
     "button": {
@@ -77,7 +77,7 @@
       "opt_in_to": "{{target}}にオプトインします",
       "email_sms": "電子メールとSMSマーケティング",
       "sms": "SMSマーケティング",
-      "email": "メールアドレス",
+      "email": "Eメール",
       "set_wallet_pin": "ウォレットの暗証番号を設定する",
       "login": "ログイン",
       "continue": "継続する",
@@ -89,7 +89,7 @@
       "account_information": "アカウント情報"
     },
     "referral": {
-      "title": "友人からご紹介",
+      "title": "照会",
       "caption_1": "特典を引換えましょう！",
       "caption_2": "紹介コードをお持ちでしょうか。",
       "label": "手動でコードを入力",
@@ -190,7 +190,7 @@
     "label": {
       "birthday": "誕生日",
       "gender": "性別",
-      "male": "男性",
+      "male": "男",
       "female": "女性",
       "save": "プロファイルを保存"
     },
@@ -354,7 +354,7 @@
     "closed": "完了済み",
 
     "closed": "閉じる",
-    "status": "ステータス", {
+    "status": {
       "rejected": "受け付けられませんでした",
       "waiting": {"text": "待っている", "desc": "お店側の受注待ち"},
       "pickup": "で拾います",
@@ -524,7 +524,7 @@
     "unused_value": "未使用の値は返されません",
     "back_to_cart": "カートに戻ります"
   },
-  "pin": "暗証番号", {
+  "pin": {
     "join_fee": "暗証番号を入力して {{name}} の入会費の支払いをご確認ください",
     "cancel_membership": "暗証番号を入力して {{name}}から退会の確認をしてください",
     "renew_membership": "暗証番号を入力して {{name}}の会員資格を更新してください。",
@@ -713,7 +713,7 @@
     "app": "Mediabank",
     "pay": "ウォレット",
     "wallet": "ウォレット",
-    "amount": "金額",
+    "amount": "額",
     "walletpoint": "ウォレットと MB ポイント",
     "point": "Mediabankポイント",
     "mini_point": "MBポイント",
