@@ -213,7 +213,7 @@
       "postal_code": "郵便番号",
       "address": "住所",
       "unit": "詳細住所",
-      "unit_text": "詳細住所（該当する場合）",
+      "unit_text": "ユニット番号（該当する場合）",
       "birthdate": "誕生日",
       "birthdate_format": "dd/mm/yyyy",
       "birthdate_note": "例：1991年21/02",
