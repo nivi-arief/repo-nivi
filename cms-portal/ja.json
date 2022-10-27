@@ -804,7 +804,7 @@
   "send_notification": {
     "columns": { "subject": "主題", "send_date": "日付を送信します" },
     "buttons": {
-      "new": "新しい通知を送信します",
+      "new": "新しい通知を送信",
       "cancel": "キャンセル",
       "save": "保存",
       "sure": "はい、確かです",
@@ -812,25 +812,25 @@
       "back": "戻る"
     },
     "label": {
-      "send_new": "新しいものを送ってください",
-      "send_notification": "通知を送信します",
-      "notification_information": "通知情報",
-      "subject_placeholder": "通知件名を入力します",
-      "message_placeholder": "通知メッセージを入力します",
-      "message_hint": "ブラウザからテキストをコピーすると、乱雑なレイアウトが発生します。",
-      "schedule_placeholder": "日付と時刻を選択します",
-      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
-      "upload_additional_content": "最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
+      "send_new": "送信",
+      "send_notification": "通知を送信",
+      "notification_information": "通知詳細",
+      "subject_placeholder": "件名を入力",
+      "message_placeholder": "本文を入力",
+      "message_hint": "ブラウザからコピーするとレイアウトが崩れる場合があります",
+      "schedule_placeholder": "日時を選択",
+      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択。",
+      "upload_additional_content": "最適なビューの解像度は343 x 172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
       "sucesss_create": "成功通知を作成します",
       "failed_create": "CREATE通知に失敗しました",
       "failed_fetch_notification": "フェッチの詳細notifに失敗しました",
       "image_empty_error": "イメージ図は必須です"
     },
     "form": {
-      "subject": "主題",
-      "message": "メッセージ",
-      "schedule": "スケジュールを送信します",
-      "send_date": "日付を送信します",
+      "subject": "件名",
+      "message": "本文",
+      "schedule": "送信スケジュール",
+      "send_date": "送信日",
       "header_image": "ヘッダー画像"
     },
     "modal": {
@@ -897,7 +897,7 @@
     "percent_format": "パーセンテージが間違っている",
     "phone_format": "電話番号の形式が正しくありません。",
     "format_amount": "間違った形式の金額",
-    "required": "{{target}} は必須フィールドです",
+    "required": "{{target}} の入力は必須です",
     "must_x_character": "{{target}} は {{x}} 文字でなければなりません",
     "min_x_character": "{{target}} は少なくとも {{x}} 文字でなければなりません",
     "max_x_character": "{{target}} は最大 {{x}} 文字でなければなりません",
