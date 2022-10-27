@@ -1,6 +1,5 @@
 Username is a required - ユーザ名は必須です
 Enter your email and we'll send you instructions on how to reset your password. - パスワードをリセットするご案内をお送りしますので、メールアドレスを入力してください
-<<<<<<< HEAD
 Create | Admin >> Create    -   作成 | 管理者 >>新規作成
 Name is a required  -   氏名は必須です
 Super Admin 		-	スーパー管理者
@@ -22,36 +21,14 @@ Password is a required  -   パスワードは必須です
 Password confirmation is a required     -   パスワードの再確認が必須です
 pin is a required field -	暗証番号が必須です
 Status: Active  -	ステータス：有効
+Status : Deactivate			ステータス：無効にする
+To activate it, click the button below		-	有効にするにはボタンをクリックしてください
 To Deactivate  it, click the button below   -   無効にするには、次のボタンをクリックしてください
 <List Options>  -   ＜選択肢リスト＞
 Close / Exit anyway -   キャンセル/閉じる
 Detail | Admin >> Detail    -   詳細 | 管理者 >> 詳細
-=======
-MK - MK
-To Deactivate it, click the button below - 無効にするには、次のボタンをクリックしてください
-0/140 - 0/140 -	0/140
-To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
-Status: Active /Inactive	- ステータス：有効/無効
-Demo Banner one -	 デモバナー1
-Status: Active -ステータス：有効
-To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
-Yes I am sure - はい
-BOLT Setup - 設定
-Redeem Logic  - 利用ロジック
-Earn 1 point per Point Spend - 1ポイント消費につき1ポイントを取得できる
-Redeem 1 point per Point -  	 1イントを1ポイントに両替する
-Set Birthday Gift Points* - 誕生日プレゼントポイントを設定＊
-Status：Deactivate - ステータス：無効
-To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
-To active it, click the button below - 有効にするには、次のボタンをクリックしてください
-Between 0 and 100	- 0~100の間
-mm/dd/yyyy - yyyy/mm/dd
-Voucher name - クーポン名
-No file chosen - まだファイルを選択していません
-Select Brands - ブランドを選択
-Membership Type* - 会員種類＊
-MonthlyYearly - 月間　年間
-Joining Fee* - 入会費＊
-Renewal Fee* - 更新費＊
-*No file chosen	- ファイルが選択されていません＊
->>>>>>> dca186805203f20ea7a4bfd55ad36ca37028a4c9
+National ID Card    -   マイナンバーカード
+Foreign Identification Number (FIN)			在留カード番号
+Passports			パスポート
+Driver’s License			運転免許証
+Store managed by			店舗管理者
