@@ -56,7 +56,7 @@
     "send_notifications": "通知送信",
     "brandname_setup": "{{brandname}}セットアップ",
     "brandname_setup-child": {
-      "conversion": "グローバル変換率",
+      "conversion": "コンバージョン率",
       "welcome-point": "ウェルカムポイント",
       "birthday-gift": "誕生日プレゼントポイント"
     },
@@ -150,7 +150,7 @@
     "label": {
       "search": "名前、電話、電子メール、住所、マネージャーで検索",
       "logo": "ロゴ",
-      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "logoDescription3": "最適なビューの最小解像度は{{resolution}}です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "name": "ブランド名",
@@ -169,7 +169,7 @@
     "detail": {
       "manager": "マネージャー情報",
       "noManager": "マネージャーはまだ選択されていません",
-      "brand": "ブランド情報",
+      "brand": "ブランド",
       "name": "ブランド名",
       "email": "メールアドレス",
       "phone": "電話番号",
@@ -217,7 +217,7 @@
       "name": "アウトレット名",
       "email": "メールアドレス",
       "logo": "ロゴ",
-      "logoDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "logoDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "logoDescription2": "最高のビューの最小解像度は1118 x 223です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "search": "名前、電話、電子メール、住所、マネージャーで検索",
       "address": "住所",
@@ -252,9 +252,9 @@
       "location": "所在地",
       "address": "住所",
       "outlet": "販売チャネル",
-      "banner": "バナー画像",
+      "banner": "バナーのイメージ図＊",
       "bannerMax": "マックス。 1つの画像",
-      "bannerDescription1": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
+      "bannerDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "bannerDescription2": "最高のビューの最小解像度は343 x 172です。最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
       "img": "画像",
       "imgMax": "マックス。 5つの画像",
@@ -350,7 +350,7 @@
     },
     "columns": {
       "item": "アイテムコード",
-      "name": "商品名",
+      "name": " 商品名",
       "category": "カテゴリー",
       "brand": "ブランド",
       "unit_price": "単価",
@@ -394,11 +394,11 @@
       "address": "住所",
       "unit_number": "ユニット番号",
       "postal_code": "郵便番号",
-      "join_date": "参加日"
+      "join_date": "登録日付"
     },
     "modal": {
       "title": "確認",
-      "content": "よろしいですか？",
+      "content": "本当にこのページを離れますか？",
       "second_content": "この顧客？",
       "cancel": "キャンセル",
       "confirm": "私は確信しています"
@@ -407,7 +407,7 @@
   "promotions": {
     "columns": {
       "image": "バナー画像",
-      "headline": "ヘッドラインプロモーション",
+      "headline": "見出し",
       "publish_date": "オンに公開します",
       "status": "ステータス"
     },
@@ -423,10 +423,10 @@
       "search": "名前、電話番号、電子メール",
       "male": "男性",
       "female": "女性",
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "detail": "詳細",
-      "promotion": "昇進",
+      "promotion": "プロモーション",
       "promotions": "プロモーション",
       "outlet": "販売チャネル",
       "brand": "ブランド",
@@ -436,27 +436,27 @@
       "inactive": "無効",
       "active": "有効",
       "confirmation": "確認",
-      "promotion_information": "プロモーション情報",
+      "promotion_information": "プロモーション詳細",
       "news_information": "ニュース情報",
       "offering_information": "情報を提供します",
-      "target_promotion": "ターゲットプロモーション",
+      "target_promotion": "プロモーションの対象者",
       "brand_info": "選択したブランドに添付されたすべてのアウトレットと店舗に影響を与えます",
       "outlet_info": "選択したアウトレットとストアのみに影響します",
       "store_info": "選択したストアのみに影響します",
-      "choose_target": "このプロモーションに適合するターゲットを選択してください",
-      "headline_promotion": "見出しを入力します",
-      "choose_date": "日付と時刻を選択してください",
-      "choose_brand": "ブランドを選択",
+      "choose_target": "このプロモーションを適用できる対象者を選択",
+      "headline_promotion": "見出しを入力",
+      "choose_date": "日時を選択",
+      "choose_brand": "ブランドを選択してください",
       "choose_outlet": "アウトレットを選択してください",
       "choose_store": "店舗を選択",
       "status_info": "{{status}}に、下のボタンをクリックします",
-      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
-      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
+      "upload_additional_content": "最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
       "sucesss_create": "成功はプロモーションを作成します",
       "sucesss_update": "成功更新プロモーション",
       "failed_create": "プロモーションの作成に失敗しました",
       "failed_update": "プロモーションの更新に失敗しました",
-      "image_empty_error": "画像を空にすることはできません",
+      "image_empty_error": "イメージ図は必須です",
       "failed_fetch_placement": "フェッチの配置に失敗しました",
       "success_update_status_promotion": "成功更新ステータスプロモーション",
       "failed_update_status_promotion": "更新ステータスプロモーションに失敗しました",
@@ -464,22 +464,22 @@
       "subtitle": "サブタイトルを入力します"
     },
     "form": {
-      "headline_promotion": "ヘッドラインプロモーション",
+      "headline_promotion": "見出し*",
       "headline_offering": "見出しの提供",
       "headline_news": "ヘッドラインニュース",
-      "publish_date": "公開日",
-      "end_date": "終了日",
-      "description": "説明",
+      "publish_date": "公開日*",
+      "end_date": "終了日*",
+      "description": "説明*",
       "subtitle": "字幕",
       "brand": "ブランド",
       "outlet": "販売チャネル",
       "store": "店舗",
-      "banner_image": "バナー画像"
+      "banner_image": "バナーのイメージ図＊"
     },
     "modal": {
-      "title": "ご確認",
-      "content": "本当にこの画面を閉じますか。",
-      "second_content": "変更された箇所はまだ保存されていません。",
+      "title": "確認",
+      "content": "本当にこのページを離れますか？",
+      "second_content": "あなたの変更はまだ保存されていません。",
       "cancel": "キャンセル",
       "confirm": "はい、確かです",
       "content_deactivate": "よろしいですか？",
@@ -488,7 +488,7 @@
   },
   "news": {
     "columns": {
-      "image": "バナー画像",
+      "image": "バナーのイメージ図＊",
       "headline": "ヘッドラインニュース",
       "publish_date": "オンに公開します",
       "status": "ステータス"
@@ -501,14 +501,14 @@
       "female": "女性",
       "preview": "プレビュー",
       "news_banner": "ニュースバナー",
-      "publish_date": "公開日",
+      "publish_date": "公開日*",
       "title": "題名",
       "article_desc": "記事の説明"
     }
   },
   "offering": {
     "columns": {
-      "image": "バナー画像",
+      "image": "バナーのイメージ図＊",
       "headline": "見出しの提供",
       "publish_date": "オンに公開します",
       "status": "ステータス"
@@ -537,7 +537,7 @@
       "back": "戻る"
     },
     "label": {
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "banner": "バナー",
       "banner_information": "バナー情報",
@@ -557,12 +557,12 @@
       "failed_create": "CREATE BANNERに失敗しました",
       "sucesss_update": "サクセスアップデートバナー",
       "failed_update": "バナーの更新に失敗しました",
-      "image_empty_error": "画像を空にすることはできません",
+      "image_empty_error": "イメージ図は必須です",
       "success_update_status_banner": "サクセスアップデートステータスバナー",
       "failed_update_status_banner": "更新ステータスバナーに失敗しました",
       "confirmation": "確認"
     },
-    "form": { "banner_name": "バナー名", "banner_image": "バナー画像" },
+    "form": { "banner_name": "バナー名", "banner_image": "バナーのイメージ図＊" },
     "modal": {
       "sure": "私は確信しています",
       "content": "本当にこの画面を閉じますか。",
@@ -819,12 +819,12 @@
       "message_placeholder": "通知メッセージを入力します",
       "message_hint": "ブラウザからテキストをコピーすると、乱雑なレイアウトが発生します。",
       "schedule_placeholder": "日付と時刻を選択します",
-      "upload_content": "「n」をドラッグするか、画像をドロップするか、クリックして画像を選択します。",
-      "upload_additional_content": "最高のビューの最小解像度は343x172です。 最大サイズは2MBです。 .jpg＆.jpeg形式のみが受け入れられます。",
+      "upload_content": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
+      "upload_additional_content": "最適な解像度は343x172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 ",
       "sucesss_create": "成功通知を作成します",
       "failed_create": "CREATE通知に失敗しました",
       "failed_fetch_notification": "フェッチの詳細notifに失敗しました",
-      "image_empty_error": "画像を空にすることはできません"
+      "image_empty_error": "イメージ図は必須です"
     },
     "form": {
       "subject": "主題",
@@ -841,14 +841,14 @@
   },
   "setup": {
     "label": {
-      "earn_logic": "ロジックを獲得します",
+      "earn_logic": "付与ロジック",
       "redeem_logic": "ロジックを引き換えます",
       "earn_point_per": "あたり1ポイントを獲得します",
       "redeem_point_per": "に1ポイントを引き換えます",
-      "set_welcome_point": "ウェルカムポイントを設定します",
-      "desc_welcome_point": "顧客の成功登録後に追加された追加ポイント",
+      "set_welcome_point": "ウェルカムポイント＊",
+      "desc_welcome_point": "お客様が登録完了した場合の贈呈ポイント",
       "set_birthday_point": "誕生日ポイントを設定します",
-      "desc_birthday_point": "顧客の誕生日に追加された追加ポイント"
+      "desc_birthday_point": "お客様の誕生日に贈呈するポイント"
     },
     "placeholder": {
       "earn_point": "入力獲得ポイント",
@@ -979,8 +979,8 @@
       "to_status_click": "{{status}}に、下のボタンをクリックします",
       "status_confirmation": "{{status}}この{{target}}を{0}したいですか？",
       "edit": "編集",
-      "create": "作成",
-      "optional": "任意",
+      "create": "新規作成",
+      "optional": "オプション",
       "detail": "詳細",
       "confirmation": "確認",
       "logo": "ロゴ",
