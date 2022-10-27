@@ -17,3 +17,13 @@ Set Birthday Gift Points* - 誕生日プレゼントポイントを設定＊
 Status：Deactivate - ステータス：無効
 To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
 To active it, click the button below - 有効にするには、次のボタンをクリックしてください
+Between 0 and 100	- 0~100の間
+mm/dd/yyyy - yyyy/mm/dd
+Voucher name - クーポン名
+No file chosen - まだファイルを選択していません
+Select Brands - ブランドを選択
+Membership Type* - 会員種類＊
+MonthlyYearly - 月間　年間
+Joining Fee* - 入会費＊
+Renewal Fee* - 更新費＊
+*No file chosen	- ファイルが選択されていません＊
