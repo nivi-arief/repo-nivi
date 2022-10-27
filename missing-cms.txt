@@ -1,2 +1,27 @@
 Username is a required - ユーザ名は必須です
 Enter your email and we'll send you instructions on how to reset your password. - パスワードをリセットするご案内をお送りしますので、メールアドレスを入力してください
+Create | Admin >> Create    -   作成 | 管理者 >>新規作成
+Name is a required  -   氏名は必須です
+Super Admin 		-	スーパー管理者
+Brand Admin			-   ブランド管理者
+Outlet Admin		-	代理店管理者
+Store Admin			-   店舗管理者
+Store cashier 		-	店舗従業員
+Choose a brand		-	ブランドを選択
+Store’s email address		-	店舗のメールアドレス
+Phone			    -   電話番号
+Store’s Phone Number    -		店舗の電話番号
+Place of birth is a required	-	籍贯为必填项	出身地は必須です
+Email is a required	    -	メールアドレスは必須です
+Mobile Phone is a required  -	携帯番号は必須です
+Address is a required   -	住所情報は必須です
+Choose Region   -	都道府県を選択
+Choose area     -   市区町村を選択
+Password is a required  -   パスワードは必須です
+Password confirmation is a required     -   パスワードの再確認が必須です
+pin is a required field -	暗証番号が必須です
+Status: Active  -	ステータス：有効
+To Deactivate  it, click the button below   -   無効にするには、次のボタンをクリックしてください
+<List Options>  -   ＜選択肢リスト＞
+Close / Exit anyway -   キャンセル/閉じる
+Detail | Admin >> Detail    -   詳細 | 管理者 >> 詳細
