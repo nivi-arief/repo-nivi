@@ -17,6 +17,7 @@ Set Birthday Gift Points* - 誕生日プレゼントポイントを設定＊
 Status：Deactivate - ステータス：無効
 To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
 To active it, click the button below - 有効にするには、次のボタンをクリックしてください
++To active it, click the button below - 有効にするには、次のボタンをクリックしてください
 Invalid username or password. - ユーザ名またはパスワードが正しくありません
 Send instructions  - メール送信
 Super Admin - スーパー管理者
