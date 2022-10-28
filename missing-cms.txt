@@ -40,3 +40,17 @@ Voucher Marketplace / Loyalty Marketplace - クーポンマーケット/ロイ�
 Do you want to deactivate this voucher marketplace featured card? - このカードを無効にしますか？
 Save Display Order - 表示順を保存
 <<The rest is same with the previous>> - <<残りは前回から変わりません>>
+Enter the product name  - 商品名を入力
+Enter the description name	- 説明名を入力
+Enter the item code	- 商品コードを入力
+Enter the unit price    -   単価を入力
+Enter the member price  -   会員価格を入力
+Purchase by Member only?    -    会員のみ購入可能
+Choose variant for this menu    -   このメニューのバリエーションオプションを選択
+Create Variant  -   バリエーションオプションを新規作成
+Add-on Library  -   アドオンライブラリ
+Choose add-on for this menu -   このメニューにアドオンを選択
+Create add-only -   アドオンを新規作成
+Add-on name*    -   アドオン名
+Enter the Add-on name   -   アドオン名を入力
+Enter the option name   -   オプション名を入力
