@@ -54,3 +54,54 @@ Create add-only -   アドオンを新規作成
 Add-on name*    -   アドオン名
 Enter the Add-on name   -   アドオン名を入力
 Enter the option name   -   オプション名を入力
+MK - MK
+To Deactivate it, click the button below - 無効にするには、次のボタンをクリックしてください
+0/140 - 0/140 -	0/140
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+Status: Active /Inactive	- ステータス：有効/無効
+Demo Banner one -	 デモバナー1
+Status: Active -ステータス：有効
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+Yes I am sure - はい
+BOLT Setup - 設定
+Redeem Logic  - 利用ロジック
+Earn 1 point per Point Spend - 1ポイント消費につき1ポイントを取得できる
+Redeem 1 point per Point -  	 1イントを1ポイントに両替する
+Set Birthday Gift Points* - 誕生日プレゼントポイントを設定＊
+Status：Deactivate - ステータス：無効
+To Inactive  it, click the button below	 -	無効にするには、次のボタンをクリックしてください
+To active it, click the button below - 有効にするには、次のボタンをクリックしてください
++To active it, click the button below - 有効にするには、次のボタンをクリックしてください
+Invalid username or password. - ユーザ名またはパスワードが正しくありません
+Send instructions  - メール送信
+Super Admin - スーパー管理者
+Search By Name, Role , Assigned at - 名前、ロール、位置で検索する
+Create User - 新規作成
+Name is a required - 氏名は必須です
+Brand Admin - ブランド管理者
+Outlet Admin - チャネル管理者
+Store Admin - 店舗管理者
+Store cashier  - 店舗従業員
+Place of birth is a required - 出身地は必須です
+Email is a required - メールアドレスは必須です
+Mobile Phone is a required - 携帯番号は必須です
+Address is a required - 住所情報は必須です
+Choose Region - 都道府県を選択
+Choose area - 市区町村を選択
+Must be 6 digit alphanumeric  - 6桁以上のアルファベットと数字の組み合わせが必要です
+Password is a required - パスワードは必須です
+Password confirmation is a required - パスワードの再確認が必須です
+Set 8 digit Pin - 8桁以上の数字を設定してください
+pin is a required field - 暗証番号が必須です
+Status: Active - ステータス：有効
+To Deactivate  it, click the button below - 無効にするには、次のボタンをクリックしてください
+<List Options> - ＜選択肢をリストアップ＞
+Ex: +65812xxxxx - 例： +813xxxxx
+Remark - optional - 備考- 任意
+Commission - コミッション
+To Inactive it, click the button below - 無効にするには、次のボタンをクリックしてください
+Oops! Something went wrong. - 問題が発生しました。
+This page didn't load Google Maps correctly. See the JavaScript console for technical details. - Googleマップが正しくロードされませんでした。技術的な詳細については、JavaScriptコンソールを参照してください。
+Choose Location of the store - 店舗の所在地を選択
+Enter a location - ロケーションを入力
+Minimum resolution for best view is 375 x 243. Maximum size is 2MB. Only .jpg & .jpeg format will be accepted. - 最適な解像度は375 x 243以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。 

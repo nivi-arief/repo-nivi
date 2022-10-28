@@ -2,13 +2,13 @@
   "login": {
     "title": "ログイン",
     "welcome": "いらっしゃいませ、",
-    "desc": "ようこそ、アカウントにログインしてください。",
+    "desc": "ようこそ、ご利用のアカウントにログインしてください",
     "form": {
       "username": "ユーザ名",
       "password": "パスワード",
-      "forgot_password": "パスワードをお忘れですか？",
+      "forgot_password": "パスワードをお忘れですか。",
       "login": "ログイン",
-      "loading": "読み込み..."
+      "loading": "ローディング中..."
     },
     "alert": {
       "wrong_credential": "電子メールまたはパスワードが間違っています",
@@ -24,7 +24,7 @@
     "outlets": "販売チャネル",
     "outlet": "販売チャネル",
     "stores": "店舗",
-    "stores_managers": "店舗とマネージャー",
+    "stores_managers": "店舗＆マネージャー",
     "store": "店舗",
     "branch": "ブランチ",
     "menu": "メニュー",
@@ -34,7 +34,7 @@
       "tags": "タグ",
       "list": "メニュー一覧"
     },
-    "customers": "顧客",
+    "customers": "お客様",
     "highlight": "ハイライト",
     "highlight-child": {
       "promotions": "プロモーション",
@@ -43,7 +43,7 @@
     },
     "banners": "バナー",
     "banner": "バナー",
-    "reports": "報告",
+    "reports": "レポート",
     "reports-child": {
       "wallets": " ウォレット",
       "sales": "販売取引",
@@ -67,6 +67,15 @@
     "columns": {
       "name": "名前",
       "role": "ロール",
+      "assigned_at": "位置",
+      "status": "ステータス"
+    },
+    "buttons": { 
+      "new": "新しいユーザーを作成します" 
+    },
+    "label": {
+      "filter": "ステータスで絞り込む",
+      "search": "名前、役割、で割り当てられた名前で検索します",
       "assigned_at": "アサイン",
       "status": "ステータス"
     },
@@ -157,7 +166,7 @@
       "email": "メールアドレス",
       "phoneNumber": "電話番号",
       "phone_number": "電話番号",
-      "business": "事業者登録番号",
+      "business": "法人番号＊",
       "remark": "述べる",
       "location": "所在地",
       "address": "住所",
@@ -173,7 +182,7 @@
       "name": "ブランド名",
       "email": "メールアドレス",
       "phone": "電話番号",
-      "business": "事業者登録番号",
+      "business": "法人番号＊",
       "remark": "述べる",
       "location": "所在地",
       "address": "住所",
@@ -183,20 +192,20 @@
       "inStorePurchase": "店舗購入中のコミッション％"
     },
     "placeholder": {
-      "name": "ブランド名を入力します",
+      "name": "ブランド名を入力",
       "email": "brand@example.com",
       "phoneNumber": "例： +81xxxxxxxx",
       "business": "3921491",
-      "remark": "ここに書いてください",
-      "address": "例：JL H. Juanda No. 18 ...",
-      "voucher": "パーセンテージを入力します",
-      "percentage": "パーセンテージを入力します"
+      "remark": "こちらに入力してください",
+      "address": "例：東京都千代田区…",
+      "voucher": "パーセンテージを入力",
+      "percentage": "パーセンテージを入力"
     }
   },
   "outlets": {
     "parent": "アウトレットとマネージャー",
     "columns": {
-      "name": "アウトレット名",
+      "name": "販売チャネル名",
       "phone_number": "電話番号",
       "email": "メールアドレス",
       "address": "住所",
@@ -223,14 +232,14 @@
       "address": "住所",
       "phone": "電話番号",
       "location": "所在地",
-      "map": "アウトレットの場所を選択します",
-      "map2": "マーカーをドラッグして場所を設定します",
+      "map": "販売チャネルの所在地を選択",
+      "map2": "マーカーをドラッグしてロケーションを設定",
       "outlet": "ブランド",
-      "outletInformation": "アウトレット情報"
+      "outletInformation": "チャネル情報"
     }
   },
   "stores": {
-    "parent": "店舗とマネージャー",
+    "parent": "店舗＆マネージャー",
     "columns": {
       "name": "店舗名",
       "phone_number": "電話番号",
@@ -248,18 +257,18 @@
       "email": "メールアドレス",
       "phone_number": "電話番号",
       "tags": "タグ",
-      "isAutoAccept": "店舗支払いの受け入れ",
+      "isAutoAccept": "店舗決済アクセプタンス",
       "location": "所在地",
       "address": "住所",
       "outlet": "販売チャネル",
-      "banner": "バナーのイメージ図＊",
-      "bannerMax": "マックス。 1つの画像",
+      "banner": "バナーのイメージ図",
+      "bannerMax": "最大1枚",
       "bannerDescription1": "画像をこちらにドラッグしてアップロード、またはクリックして画像を選択",
       "bannerDescription2": "最適な解像度は343 x 172以上です。画像のサイズは最大２MB、 .jpg と .jpegの拡張子のみ識別できます。",
       "img": "画像",
-      "imgMax": "マックス。 5つの画像",
+      "imgMax": "最大5枚",
       "auto": "自動",
-      "manual": "マニュアル",
+      "manual": "手動",
       "openHours": "営業時間",
       "sunday": "日曜日",
       "monday": "月曜日",
@@ -268,8 +277,8 @@
       "thursday": "木曜日",
       "friday": "金曜日",
       "saturday": "土曜日",
-      "open": "で開いています",
-      "close": "閉じます",
+      "open": "開始時間",
+      "close": "終了時間",
       "closed": "閉まっている",
       "optional": "任意",
       "smaller": "複数のオプションを選択できます。 マックス。 4タグ",
@@ -295,7 +304,7 @@
       "category": "例: アメリカ、西洋、日本など",
       "tag": "例: 動きの速い、人気のある、トレンディなど"
     },
-    "buttons": { "new": "新しいカテゴリを作成します" }
+    "buttons": { "new": "カテゴリーを新規作成" }
   },
   "tags": {
     "columns": { 
@@ -397,16 +406,16 @@
       "join_date": "登録日付"
     },
     "modal": {
-      "title": "確認",
-      "content": "本当にこのページを離れますか？",
-      "second_content": "この顧客？",
+      "title": "ご確認",
+      "content": "本当にこの画面を閉じますか。?",
+      "second_content": "変更された箇所はまだ保存されていません。",
       "cancel": "キャンセル",
       "confirm": "私は確信しています"
     }
   },
   "promotions": {
     "columns": {
-      "image": "バナー画像",
+      "image": "バナーのイメージ図",
       "headline": "見出し",
       "publish_date": "オンに公開します",
       "status": "ステータス"
@@ -474,12 +483,12 @@
       "brand": "ブランド",
       "outlet": "販売チャネル",
       "store": "店舗",
-      "banner_image": "バナーのイメージ図＊"
+      "banner_image": "バナーのイメージ図"
     },
     "modal": {
       "title": "確認",
-      "content": "本当にこのページを離れますか？",
-      "second_content": "あなたの変更はまだ保存されていません。",
+      "content": "本当にこの画面を閉じますか。",
+      "second_content": "変更された箇所はまだ保存されていません。",
       "cancel": "キャンセル",
       "confirm": "はい、確かです",
       "content_deactivate": "よろしいですか？",
@@ -488,7 +497,7 @@
   },
   "news": {
     "columns": {
-      "image": "バナーのイメージ図＊",
+      "image": "バナーのイメージ図",
       "headline": "ヘッドラインニュース",
       "publish_date": "オンに公開します",
       "status": "ステータス"
@@ -508,7 +517,7 @@
   },
   "offering": {
     "columns": {
-      "image": "バナーのイメージ図＊",
+      "image": "バナーのイメージ図",
       "headline": "見出しの提供",
       "publish_date": "オンに公開します",
       "status": "ステータス"
@@ -562,7 +571,7 @@
       "failed_update_status_banner": "更新ステータスバナーに失敗しました",
       "confirmation": "確認"
     },
-    "form": { "banner_name": "バナー名", "banner_image": "バナーのイメージ図＊" },
+    "form": { "banner_name": "バナー名", "banner_image": "バナーのイメージ図" },
     "modal": {
       "sure": "私は確信しています",
       "content": "本当にこの画面を閉じますか。",
@@ -802,13 +811,15 @@
     }
   },
   "send_notification": {
-    "columns": { "subject": "主題", "send_date": "日付を送信します" },
+    "columns": { 
+      "subject": "主題", 
+      "send_date": "日付を送信します" },
     "buttons": {
       "new": "新しい通知を送信",
       "cancel": "キャンセル",
       "save": "保存",
       "sure": "はい、確かです",
-      "loading": "読み込み",
+      "loading": "ローディング中",
       "back": "戻る"
     },
     "label": {
@@ -952,7 +963,7 @@
       "in_store_payment": "店舗の支払い",
       "in_app_order": "アプリの順序で",
       "product": "製品",
-      "loading": "読み込み...",
+      "loading": "ローディング中...",
       "ok": "わかった",
       "saving": "節約...",
       "filter_by": "ろ過します",
@@ -980,7 +991,7 @@
       "status_confirmation": "{{status}}この{{target}}を{0}したいですか？",
       "edit": "編集",
       "create": "新規作成",
-      "optional": "オプション",
+      "optional": "任意",
       "detail": "詳細",
       "confirmation": "確認",
       "logo": "ロゴ",
