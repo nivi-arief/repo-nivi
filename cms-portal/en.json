@@ -3,16 +3,35 @@
     "title": "Log in",
     "welcome": "Welcome, ",
     "desc": "Welcome, please login to your account.",
+    "forgot_password": "Forgot Password",
+    "forgot_password_desc": "Enter your email and we'll send you instructions on how to reset your password.",
+    "create_new_password": "Create New Password",
+    "create_new_password_desc": "Enter your new password.",
+    "go_back_to": "Go back to ",
+    "send_intructions": "Send instructions",
+    "login_page": "Login Page",
+    "okay": "Okay",
     "form": {
       "username": "Username",
       "password": "Password",
       "forgot_password": "Forgot Password?",
       "login": "Log in",
-      "loading": "Loading ..."
+      "loading": "Loading ...",
+      "otp": "OTP",
+      "input_otp": "Input otp",
+      "old_password": "Old Password",
+      "new_password": "New Password",
+      "confirm_password": "Confirm Password",
+      "new_confirm_password": "New Confirm Password"
     },
     "alert": {
       "wrong_credential": "Email or Password is wrong",
-      "unauthorized": "Access Not Allowed!"
+      "unauthorized": "Access Not Allowed!",
+      "forgot_pass_success": "We're already sent you an instruction to your email, please check your email.",
+      "reset_pass_success": "You've successfully created a new password.",
+      "expired_reset_pass": "You can't reset password because the time has been expired .",
+      "username_not_found": "Username not found",
+      "email_not_found": "Email not found"
     }
   },
   "menu": {
@@ -871,7 +890,8 @@
     "placeholder": {
       "earn_point": "Input earn point",
       "redeem_point": "Input redeem point",
-      "welcome_point": "Input welcome point"
+      "welcome_point": "Input welcome point",
+      "birthday_point": "Input birthday point"
     },
     "button": {
       "save_all": "Save all",
@@ -892,7 +912,8 @@
       "update_status": "Success update status {{name}}",
       "delete": "Success delete {{name}}",
       "cancel_trx": "Success to Cancel Product Transaction",
-      "logout": "Success to Logout"
+      "logout": "Success to Logout",
+      "change_pass": "Success Change Password"
     },
     "failed": {
       "create": "Failed create {{name}}",
@@ -906,12 +927,14 @@
       "upload": "Failed upload {{name}}",
       "no_found_trx": "No result found. Try Another ID",
       "cancel_trx": "Failed to Cancel Product Transaction",
-      "please_enter_reason": "Please input the Reason. Cannot be empty"
+      "please_enter_reason": "Please input the Reason. Cannot be empty",
+      "error_1": "An error occurred, please try again later",
+      "change_pass": "Failed Change Password"
     }
   },
   "validations": {
     "invalid": "{{target}} is invalid",
-    "password_format": "format not valid! at least one uppercase, one number & no spacing",
+    "password_format": "format not valid! at least one uppercase, one number, no spacing and at least 6 character",
     "url_format": "format not valid! please add http:// or https://",
     "image_format": "your image format is incorrect.",
     "maximum_file_x": "Maximum image size exceed. Please make sure image size not more than {{x}}MB",
@@ -924,6 +947,8 @@
     "max_x_character": "{{target}} must be at most {{x}} character",
     "max_x_character_num": "{{target}} can't be more than {{x}}",
     "password_confirm": "Both password need to be the same",
+    "new_password_unique":  "Can't be the same as old password",
+    "confirmation_must_match": "Password confirmation must match",
     "must_number":"Must Number",
     "either":"{{target}} is either {{num1}} or {{num2}} digit.",
     "must_have_images": "Menu Image and Item Images Cannot be empty",

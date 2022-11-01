@@ -3,16 +3,35 @@
     "title": "ログイン",
     "welcome": "いらっしゃいませ、",
     "desc": "ようこそ、ご利用のアカウントにログインしてください",
+    "forgot_password": "パスワードをお忘れですか",
+    "forgot_password_desc": "メールアドレスを入力してください。パスワードをリセットする方法をお送りします。",
+    "create_new_password": "新しいパスワードを作成",
+    "create_new_password_desc": "新しいパスワードを入力します。",
+    "go_back_to": "帰ります ",
+    "send_intructions": "指示を送る",
+    "login_page": "ログインページ",
+    "okay": "わかった",
     "form": {
       "username": "ユーザ名",
       "password": "パスワード",
       "forgot_password": "パスワードをお忘れですか。",
       "login": "ログイン",
-      "loading": "ローディング中..."
+      "loading": "ローディング中...",
+      "otp": "OTP",
+      "input_otp": "入力 OTP",
+      "old_password": "以前のパスワード",
+      "new_password": "新しいパスワード",
+      "confirm_password": "パスワードを認証する",
+      "new_confirm_password": "新しい確認パスワード"
     },
     "alert": {
       "wrong_credential": "電子メールまたはパスワードが間違っています",
-      "unauthorized": "アクセスは許可されていません！"
+      "unauthorized": "アクセスは許可されていません！",
+      "forgot_pass_success": "すでにご案内をメールでお送りしておりますので、メールをご確認ください。",
+      "reset_pass_success": "新しいパスワードが正常に作成されました。",
+      "expired_reset_pass": "期限が切れているため、パスワードをリセットできません。",
+      "username_not_found": "ユーザー名が見つかりません",
+      "email_not_found": "メールが見つかりません"
     }
   },
   "menu": {
@@ -71,15 +90,6 @@
       "status": "ステータス"
     },
     "buttons": { 
-      "new": "新しいユーザーを作成します" 
-    },
-    "label": {
-      "filter": "ステータスで絞り込む",
-      "search": "名前、役割、で割り当てられた名前で検索します",
-      "assigned_at": "アサイン",
-      "status": "ステータス"
-    },
-    "buttons": { 
       "new": "新規作成" 
     },
     "label": {
@@ -112,7 +122,7 @@
       "area": "市区町村",
       "postal": "郵便番号",
       "security": "セキュリティ",
-      "password": "6桁以上のアルファベットと数字の組み合わせが必要です",
+      "password": "パスワード",
       "password2": "パスワードの再確認",
       "pin": "暗証番号",
       "identity": "身分情報",
@@ -187,7 +197,7 @@
       "location": "所在地",
       "address": "住所",
       "comission": "委員会",
-      "voucher": "Commision％バウチャー",
+      "voucher": "クーポンのコミッション率％",
       "inAppPurchase": "アプリ購入のコミッション％",
       "inStorePurchase": "店舗購入中のコミッション％"
     },
@@ -221,7 +231,8 @@
     },
     "buttons": { 
       "new": "新しいアウトレットを作成します", 
-    "back": "戻る" },
+      "back": "戻る"
+    },
     "label": {
       "name": "アウトレット名",
       "email": "メールアドレス",
@@ -862,6 +873,7 @@
       "desc_birthday_point": "お客様の誕生日に贈呈するポイント"
     },
     "placeholder": {
+      "birthday_point": "誕生日ポイント入力",
       "earn_point": "入力獲得ポイント",
       "redeem_point": "入力償還ポイント",
       "welcome_point": "入力ウェルカムポイント"
@@ -882,7 +894,8 @@
       "update_status": "成功更新ステータス{{name}}",
       "delete": "成功削除{{name}}",
       "cancel_trx": "製品トランザクションをキャンセルする成功",
-      "logout": "ログアウト成功"
+      "logout": "ログアウト成功",
+      "change_pass": "パスワードの変更成功"
     },
     "failed": {
       "create": "新規作成 {{name}}に失敗",
@@ -896,12 +909,14 @@
       "upload": "アップロードに障害が発生しました{{name}}",
       "no_found_trx": "結果が見つかりません。 別のIDを試してください",
       "cancel_trx": "製品トランザクションのキャンセルに失敗しました",
-      "please_enter_reason": "理由を入力してください。 空にすることはできません"
+      "please_enter_reason": "理由を入力してください。 空にすることはできません",
+      "error_1": "エラーが発生しました。しばらくしてからもう一度お試しください",
+      "change_pass": "パスワードの変更に失敗しました"
     }
   },
   "validations": {
     "invalid": "{{target}} は無効です",
-    "password_format": "フォーマットが無効です! 少なくとも 1 つの大文字、1 つの数字、スペースなし",
+    "password_format": "フォーマットが無効です! 少なくとも 1 つの大文字、1 つの数字、スペースなし、および少なくとも 6 文字",
     "url_format": "フォーマットが無効です! http:// または https:// を追加してください",
     "image_format": "画像形式が正しくありません。",
     "maximum_file_x": "最大画像サイズを超えています。 画像サイズが {{x}}MB 以下であることを確認してください",
@@ -914,6 +929,8 @@
     "max_x_character": "{{target}} は最大 {{x}} 文字でなければなりません",
     "max_x_character_num": "{{target}} は {{x}} を超えることはできません",
     "password_confirm": "両方のパスワードは同じである必要があります",
+    "new_password_unique": "古いパスワードと同じにすることはできません",
+    "confirmation_must_match": "パスワードの確認は一致する必要があります",
     "must_number":"必須番号",
     "either":"{{target}} は {{num1}} または {{num2}} 桁です。",
     "must_have_images": "メニュー画像とアイテム画像を空にすることはできません",

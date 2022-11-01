@@ -57,6 +57,8 @@
     "FILE RECORDS": "記録を保存"
   },
   "voucher_types": {
+    "select_a_voucher": "バウチャーを選択",
+    "select_a_base_voucher": "基本バウチャーを選択",
     "voucher_types_title": "クーポン種類",
     "details": "クーポン種類の詳細",
     "search": "探す",
@@ -291,7 +293,7 @@
     "select_custom_voucher": "カスタムバウチャーを選択します。",
     "min_image_attached": "添付する必要がある少なくとも1つの画像が必要です"
   },
-  "footer": { "cp": "©2022 Meteor Inovasi Digital。 全著作権所有" },
+  "footer": { "cp": "©2022 MediaBank。 全著作権所有" },
   "paginations":{
       "next": "次へ",
       "previous": "前へ",
@@ -302,7 +304,7 @@
   "CLAIM VOUCHER": "クレームクーポン",
   "BUNDLING VOUCHER": "バンドルクーポン",
   "SINGLE VOUCHER": "シングルクーポン",
-  "FREE PRODUCT VOUCHER": "",
+  "FREE PRODUCT VOUCHER": "無料製品バウチャー",
   "search": "探す...",
   "MONTHLY": "毎月",
   "YEARLY": "毎年"
