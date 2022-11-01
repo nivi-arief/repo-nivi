@@ -72,7 +72,7 @@
       "loyalty": "忠誠心",
       "voucher": "クーポン"
     },
-    "send_notifications": "通知送信",
+    "send_notifications": "通知を送信",
     "brandname_setup": "{{brandname}}セットアップ",
     "brandname_setup-child": {
       "conversion": "コンバージョン率",
@@ -823,8 +823,8 @@
   },
   "send_notification": {
     "columns": { 
-      "subject": "主題", 
-      "send_date": "日付を送信します" },
+      "subject": "件名", 
+      "send_date": "送信日" },
     "buttons": {
       "new": "新しい通知を送信",
       "cancel": "キャンセル",
